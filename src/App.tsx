@@ -17,6 +17,53 @@ type Amp = {
   aliases: string;
 };
 
+function reverbSearchUrl(name: string): string {
+  // Welch's BRIT/USA/CLASS-A nicknames don't match Reverb listings; expand.
+  const expansions: Array<[RegExp, string]> = [
+    [/^BRIT PLEXI/i, 'marshall plexi'],
+    [/^BRIT 800 2203/i, 'marshall jcm800 2203'],
+    [/^BRIT 800 2204/i, 'marshall jcm800 2204'],
+    [/^BRIT 800/i, 'marshall jcm800'],
+    [/^BRIT JM45/i, 'marshall jtm45'],
+    [/^BRIT JVM/i, 'marshall jvm'],
+    [/^BRIT JCM900/i, 'marshall jcm900'],
+    [/^BRIT /i, 'marshall'],
+    [/^USA RECTO|^USA RECT/i, 'mesa boogie rectifier'],
+    [/^USA MK|^USA MARK/i, 'mesa boogie mark'],
+    [/^USA LEAD/i, 'mesa boogie'],
+    [/^USA /i, 'mesa boogie'],
+    [/^CLASS-A 30W/i, 'vox ac30'],
+    [/^CLASS-A 15W/i, 'vox ac15'],
+    [/^CLASS-A/i, 'vox'],
+    [/^TWEED|^'5\d|^'6\d/i, 'fender'],
+    [/^DELUXE/i, 'fender deluxe'],
+    [/^TWIN/i, 'fender twin'],
+    [/^PRINCE/i, 'fender princeton'],
+    [/^CHAMP|CHAMPLIFIER/i, 'fender champ'],
+    [/^BASSGUY/i, 'fender bassman'],
+    [/^5153|^5150/i, 'evh 5150'],
+    [/^FRIEDMAN|^BE-?100|^HBE/i, 'friedman'],
+    [/^DIEZEL|^HERBIE|^VH4|^HAGEN/i, 'diezel'],
+    [/^BOGNER|^XTC|^UBERSCHALL/i, 'bogner'],
+    [/^SOLDANO|^SLO/i, 'soldano'],
+    [/^ENGL|^FIREBALL|^POWERBALL/i, 'engl'],
+    [/^MATCHBOX/i, 'matchless'],
+    [/^DR Z|^MAZ/i, 'dr z'],
+    [/^TWO[- ]ROCK|^TWOROCK/i, 'two rock'],
+    [/^DUMBLE|^ODS/i, 'dumble'],
+    [/^HIWATT/i, 'hiwatt'],
+    [/^ORANGE/i, 'orange amp'],
+    [/^PVH|^PEAVEY|^6505|^6534/i, 'peavey'],
+  ];
+  for (const [re, brand] of expansions) {
+    if (re.test(name)) {
+      return `https://reverb.com/marketplace?query=${encodeURIComponent(brand)}&_aid=ampdex`;
+    }
+  }
+  // Fallback: use the amp name as-is
+  return `https://reverb.com/marketplace?query=${encodeURIComponent(name)}&_aid=ampdex`;
+}
+
 type AliasRule = { match: RegExp; aliases: string[] };
 
 const ALIAS_RULES: AliasRule[] = [
@@ -212,11 +259,20 @@ export default function App() {
       ? (saved as Device)
       : null;
   });
+  const [affiliate, setAffiliate] = useState<boolean>(() => {
+    if (typeof window === 'undefined') return true;
+    const saved = window.localStorage.getItem('ampdex-affiliate');
+    return saved === null ? true : saved === '1';
+  });
   const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
     if (device) window.localStorage.setItem('axefx-device', device);
   }, [device]);
+
+  useEffect(() => {
+    window.localStorage.setItem('ampdex-affiliate', affiliate ? '1' : '0');
+  }, [affiliate]);
 
   useEffect(() => {
     inputRef.current?.focus();
@@ -480,6 +536,7 @@ export default function App() {
                 tokens={query.trim().toLowerCase().split(/\s+/).filter((t) => t.length >= 2)}
                 onZoomImg={setZoomImg}
                 device={device}
+                affiliate={affiliate}
               />
             </article>
           </section>
@@ -529,11 +586,21 @@ export default function App() {
           >
             buy me a coffee
           </a>
+          <span className="foot-sep">·</span>
+          <label className="affiliate-toggle">
+            <input
+              type="checkbox"
+              checked={affiliate}
+              onChange={(e) => setAffiliate(e.target.checked)}
+            />
+            show "find on reverb" links
+          </label>
         </div>
         <div className="foot-row foot-row-fine">
           Numbers in this app reflect Welch's ordering; positions on your unit
-          depend on installed firmware. Axe-Fx™ is a trademark of Fractal
-          Audio Systems · this app is not affiliated with FAS.
+          depend on installed firmware. Reverb links are affiliate
+          (revenue-share) and toggleable above. Axe-Fx™ is a trademark of
+          Fractal Audio Systems · this app is not affiliated with FAS.
         </div>
       </footer>
     </div>
@@ -612,12 +679,14 @@ function DetailView({
   tokens,
   onZoomImg,
   device,
+  affiliate,
 }: {
   topMatch: ResultItem;
   selected: Amp | null;
   tokens: string[];
   onZoomImg: (file: string) => void;
   device: Device;
+  affiliate: boolean;
 }) {
   const view = selected
     ? ({ kind: 'amp', item: selected, score: 0, highlights: [] } as ResultItem)
@@ -663,6 +732,16 @@ function DetailView({
       <div className="load-hint">
         <span className="load-hint-label">Load on {DEVICE_LABELS[device]}</span>
         <code>AMP block → TYPE → {a.name}</code>
+        {affiliate && (
+          <a
+            className="reverb-link"
+            href={reverbSearchUrl(a.name)}
+            target="_blank"
+            rel="noreferrer sponsored"
+          >
+            find one on reverb →
+          </a>
+        )}
       </div>
 
       {device === 'FM3' && ampHasFm3Caveat(a.body) && (

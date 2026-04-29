@@ -416,6 +416,24 @@ mark {
   background: transparent;
 }
 
+.reverb-link {
+  margin-left: auto;
+  font-family: 'Geist Mono', ui-monospace, monospace;
+  font-size: 0.6875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: 0.1875rem;
+  white-space: nowrap;
+}
+
+.reverb-link:hover {
+  background: var(--ink);
+  color: var(--paper);
+  text-decoration: none;
+}
+
 .famous {
   margin: 0 0 2rem;
   padding: 1.125rem 1.375rem;
@@ -599,6 +617,43 @@ mark {
   background: var(--ink);
   color: var(--paper);
   text-decoration: none;
+}
+
+.foot-sep {
+  opacity: 0.45;
+}
+
+.affiliate-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4375rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.affiliate-toggle input[type='checkbox'] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 0.875rem;
+  height: 0.875rem;
+  border: 1px solid var(--ink);
+  background: transparent;
+  cursor: pointer;
+  display: inline-grid;
+  place-items: center;
+  margin: 0;
+  border-radius: 0;
+}
+
+.affiliate-toggle input[type='checkbox']:checked {
+  background: var(--ink);
+}
+
+.affiliate-toggle input[type='checkbox']:checked::after {
+  content: '';
+  width: 0.4375rem;
+  height: 0.4375rem;
+  background: var(--paper);
 }
 
 .device-pill {
