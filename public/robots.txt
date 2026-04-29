@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://immedio.github.io/ampdex/sitemap.xml
+Sitemap: https://rinkashimikito.github.io/ampdex/sitemap.xml

@@ -18,7 +18,7 @@ from pathlib import Path
 WIKI_URL = "https://wiki.fractalaudio.com/wiki/index.php?title=Amp_models_list"
 USER_AGENT = (
     "Mozilla/5.0 (compatible; ampdex-sync/1.0; "
-    "+https://github.com/Immedio/ampdex)"
+    "+https://github.com/rinkashimikito/ampdex)"
 )
 
 REPO = Path(__file__).resolve().parents[1]

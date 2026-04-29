@@ -4,7 +4,7 @@ A type-driven, keyboard-first reference for the **331 amplifier models** in
 **Fractal Audio Axe-Fx III, FM9, and FM3**. Search by amp name, player,
 tone, or tube. Find what to load on your unit — fast.
 
-**Live:** https://immedio.github.io/ampdex/
+**Live:** https://rinkashimikito.github.io/ampdex/
 
 ## What it is
 
