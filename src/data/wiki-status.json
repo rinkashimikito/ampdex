@@ -1,10 +1,28 @@
 {
-  "fetchedAt": "2026-05-01T08:48:18+00:00",
+  "fetchedAt": "2026-05-25T09:52:58+00:00",
   "source": "https://wiki.fractalaudio.com/wiki/index.php?title=Amp_models_list",
   "guideCount": 331,
-  "wikiCount": 331,
-  "wikiOnly": [],
-  "guideOnly": [],
+  "wikiCount": 333,
+  "wikiOnly": [
+    {
+      "name": "DELUXE TWEED BRIGHT",
+      "description": "1957 narrow-panel Fender Tweed Deluxe, 5E3",
+      "anchor": "DELUXE_TWEED_BRIGHT_(1957_narrow-panel_Fender_Tweed_Deluxe,_5E3)"
+    },
+    {
+      "name": "DELUXE TWEED NORMAL",
+      "description": "",
+      "anchor": "DELUXE_TWEED_NORMAL"
+    },
+    {
+      "name": "PVH 6160 BLOCK CLEAN",
+      "description": "",
+      "anchor": "PVH_6160_BLOCK_CLEAN"
+    }
+  ],
+  "guideOnly": [
+    "DELUXE TWEED"
+  ],
   "entries": {
     "5F1 TWEED CHAMPLIFIER": {
       "anchor": "5F1_TWEED_CHAMPLIFIER_(narrow-panel_Fender_Tweed_Champ,_5F1)",
@@ -426,9 +444,13 @@
       "anchor": "DELUXE_6G3_(brownface_Fender_Deluxe,_6G3)",
       "description": "brownface Fender Deluxe, 6G3"
     },
-    "DELUXE TWEED": {
-      "anchor": "DELUXE_TWEED_(1957_narrow-panel_Fender_Tweed_Deluxe,_5E3)",
+    "DELUXE TWEED BRIGHT": {
+      "anchor": "DELUXE_TWEED_BRIGHT_(1957_narrow-panel_Fender_Tweed_Deluxe,_5E3)",
       "description": "1957 narrow-panel Fender Tweed Deluxe, 5E3"
+    },
+    "DELUXE TWEED NORMAL": {
+      "anchor": "DELUXE_TWEED_NORMAL",
+      "description": ""
     },
     "DELUXE TWEED JUMPED": {
       "anchor": "DELUXE_TWEED_JUMPED",
@@ -909,6 +931,10 @@
     "PVH 6160 BLOCK": {
       "anchor": "PVH_6160_BLOCK_(Peavey_&quot;Block_Letter&quot;_EVH_5150)",
       "description": "Peavey \"Block Letter\" EVH 5150"
+    },
+    "PVH 6160 BLOCK CLEAN": {
+      "anchor": "PVH_6160_BLOCK_CLEAN",
+      "description": ""
     },
     "PVH 6160 BLOCK CRUNCH": {
       "anchor": "PVH_6160_BLOCK_CRUNCH",
