@@ -268,9 +268,21 @@ export default function App() {
     [general],
   );
 
-  const [query, setQuery] = useState('');
-  const [selected, setSelected] = useState<Amp | null>(null);
-  const [selGuitar, setSelGuitar] = useState<string | null>(null);
+  const [query, setQuery] = useState(() => {
+    if (typeof window === 'undefined') return '';
+    const q = new URLSearchParams(window.location.hash.slice(1)).get('q');
+    return q ? decodeURIComponent(q) : '';
+  });
+  const [selected, setSelected] = useState<Amp | null>(() => {
+    if (typeof window === 'undefined') return null;
+    const a = new URLSearchParams(window.location.hash.slice(1)).get('a');
+    return a ? amps.find((x) => x.num === a) ?? null : null;
+  });
+  const [selGuitar, setSelGuitar] = useState<string | null>(() => {
+    if (typeof window === 'undefined') return null;
+    const g = new URLSearchParams(window.location.hash.slice(1)).get('g');
+    return g && guitaristBySlug[g] ? g : null;
+  });
   const [zoomImg, setZoomImg] = useState<string | null>(null);
   const [device, setDevice] = useState<Device | null>(() => {
     if (typeof window === 'undefined') return null;
@@ -454,18 +466,86 @@ export default function App() {
     );
   }, [query, amps, nameFuse, generalFuse]);
 
-  const topMatch = results[0];
   const ampByName = useMemo(
     () => Object.fromEntries(amps.map((a) => [a.name, a])),
     [amps],
   );
+  const ampByNum = useMemo(
+    () => Object.fromEntries(amps.map((a) => [a.num, a])),
+    [amps],
+  );
+  // Cross-nav from a guitarist card into a library amp: clear the search so the
+  // list + detail both reflect the amp (consistent navigation).
   const pickAmp = (name: string) => {
     const a = ampByName[name];
     if (a) {
+      setQuery('');
       setSelected(a);
       setSelGuitar(null);
     }
   };
+
+  // App state → URL hash. Amp/guitarist selections push a history entry (so the
+  // back button works); query edits replace it (no per-keystroke spam). Makes
+  // amps, guitarists, and searches all shareable/bookmarkable.
+  useEffect(() => {
+    const target = selected
+      ? `#a=${selected.num}`
+      : selGuitar
+        ? `#g=${selGuitar}`
+        : query.trim()
+          ? `#q=${encodeURIComponent(query.trim())}`
+          : '';
+    if (target === window.location.hash || (!target && !window.location.hash)) {
+      return;
+    }
+    const base = window.location.pathname + window.location.search;
+    if (selected || selGuitar) {
+      window.location.hash = target; // new history entry
+    } else {
+      window.history.replaceState(null, '', target ? base + target : base);
+    }
+  }, [query, selected, selGuitar]);
+
+  // URL hash → app state (deep links, browser back/forward).
+  useEffect(() => {
+    const onHash = () => {
+      const p = new URLSearchParams(window.location.hash.slice(1));
+      const a = p.get('a');
+      const g = p.get('g');
+      const q = p.get('q');
+      if (a && ampByNum[a]) {
+        setSelected(ampByNum[a]);
+        setSelGuitar(null);
+        setQuery('');
+      } else if (g && guitaristBySlug[g]) {
+        setSelGuitar(g);
+        setSelected(null);
+        setQuery('');
+      } else if (q != null) {
+        setQuery(decodeURIComponent(q));
+        setSelected(null);
+        setSelGuitar(null);
+      } else {
+        setQuery('');
+        setSelected(null);
+        setSelGuitar(null);
+      }
+    };
+    window.addEventListener('hashchange', onHash);
+    return () => window.removeEventListener('hashchange', onHash);
+  }, [ampByNum]);
+
+  // When there is no active query, the list still reflects a deep-linked /
+  // cross-navigated selection so the UI stays consistent with the detail pane.
+  const listResults: ResultItem[] = query.trim()
+    ? results
+    : selGuitar && guitaristBySlug[selGuitar]
+      ? [{ kind: 'guitarist', item: guitaristBySlug[selGuitar], score: 0 }]
+      : selected
+        ? [{ kind: 'amp', item: selected, score: 0, highlights: [] }]
+        : [];
+  const topMatch = listResults[0];
 
   if (!device) {
     return <DeviceGate onPick={setDevice} />;
@@ -501,7 +581,7 @@ export default function App() {
             autoComplete="off"
           />
           {query && (
-            <button className="clear" aria-label="clear" onClick={() => setQuery('')}>
+            <button className="clear" aria-label="clear" onClick={() => changeQuery('')}>
               ×
             </button>
           )}
@@ -509,7 +589,7 @@ export default function App() {
       </header>
 
       <main className="main">
-        {!query && (
+        {!query && !selected && !selGuitar && (
           <section className="empty">
             <h2>Three hundred thirty-one amps. One field.</h2>
             <p>
@@ -531,14 +611,14 @@ export default function App() {
           </section>
         )}
 
-        {query && topMatch && (
+        {topMatch && (
           <section className="layout">
             <aside className="results">
               <div className="results-count">
-                {results.length} match{results.length === 1 ? '' : 'es'}
+                {listResults.length} match{listResults.length === 1 ? '' : 'es'}
               </div>
               <ul>
-                {results.map((r, i) => {
+                {listResults.map((r, i) => {
                   if (r.kind === 'amp') {
                     const a = r.item;
                     const isActive = selGuitar
