@@ -595,20 +595,24 @@ mark {
 }
 
 .back-btn {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
   font-family: 'Geist Mono', ui-monospace, monospace;
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  color: var(--muted);
-  background: none;
-  border: none;
-  padding: 0 0 0.5rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--ink);
+  padding: 0.35rem 0.75rem;
+  margin-bottom: 1rem;
   cursor: pointer;
 }
 
 .back-btn:hover {
-  color: var(--ink);
+  background: var(--ink);
+  color: var(--paper);
 }
 
 .gtr-lib-none {
