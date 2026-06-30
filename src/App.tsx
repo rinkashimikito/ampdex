@@ -713,10 +713,15 @@ export default function App() {
           <section className="layout">
             <aside className="results">
               <div className="results-count">
-                {collection && collectionByKey[collection]
-                  ? `${collectionByKey[collection].label} · `
-                  : ''}
-                {listResults.length} match{listResults.length === 1 ? '' : 'es'}
+                {query.trim() || collection
+                  ? `${
+                      collection && collectionByKey[collection]
+                        ? collectionByKey[collection].label + ' · '
+                        : ''
+                    }${listResults.length} match${listResults.length === 1 ? '' : 'es'}`
+                  : topMatch?.kind === 'guitarist'
+                    ? 'Guitarist'
+                    : 'Amp'}
               </div>
               <ul>
                 {listResults.map((r, i) => {
