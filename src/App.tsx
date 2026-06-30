@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import Fuse from 'fuse.js';
 import data from './data/amps.json';
 import wikiStatus from './data/wiki-status.json';
+import usageData from './data/amp-usage.json';
 import './App.css';
 
 type Amp = {
@@ -19,6 +20,26 @@ type Amp = {
 
 type WikiEntry = { anchor: string; description: string };
 
+type UsageLink = {
+  url: string;
+  title: string;
+  supporting_quote?: string;
+  strength?: 'strong' | 'moderate' | 'weak';
+};
+type UsageEntry = {
+  brand?: string;
+  realAmp?: string;
+  realAmpLink?: string | null;
+  artists?: string[];
+  songs?: string[];
+  songLink?: string | null;
+  info?: string[];
+  infoLink?: string | null;
+  usage?: { artist: string; links: UsageLink[] }[];
+};
+const usageByName = usageData as Record<string, UsageEntry>;
+const STRENGTH_GLYPH = { strong: '●', moderate: '◐', weak: '○' } as const;
+
 const WIKI_BASE = 'https://wiki.fractalaudio.com/wiki/index.php?title=Amp_models_list';
 
 function normalizeWikiKey(s: string): string {
@@ -28,7 +49,7 @@ function normalizeWikiKey(s: string): string {
     .replace(/[“”]/g, '"')
     .replace(/[–—]/g, '-');
   out = out.replace(/^'+/, '');
-  out = out.replace(/\s*([\/\-])\s*/g, '$1');
+  out = out.replace(/\s*([/-])\s*/g, '$1');
   return out.replace(/\s+/g, ' ').trim();
 }
 
@@ -642,6 +663,104 @@ function OutOfScope({ onBack }: { onBack: () => void }) {
   );
 }
 
+function AmpUsage({ name }: { name: string }) {
+  const u = usageByName[name];
+  if (!u) return null;
+  const artists = u.usage?.length ? u.usage : null;
+  const realAmp = u.realAmp?.trim();
+  if (!realAmp && !artists && !u.songs?.length && !u.info?.length) return null;
+  return (
+    <aside className="usage">
+      {realAmp && (
+        <>
+          <div className="famous-label">Real-world amp</div>
+          <p className="usage-real">
+            {u.brand && <strong>{u.brand}</strong>}
+            {u.brand && ' — '}
+            {u.realAmpLink ? (
+              <a href={u.realAmpLink} target="_blank" rel="noreferrer">
+                {realAmp} ↗
+              </a>
+            ) : (
+              realAmp
+            )}
+          </p>
+        </>
+      )}
+
+      {artists && (
+        <>
+          <div className="famous-label">Used by</div>
+          <ul className="usage-list">
+            {artists.map((ua, i) => (
+              <li key={i}>
+                <span className="usage-artist">{ua.artist}</span>
+                {ua.links.map((l, j) => (
+                  <a
+                    key={j}
+                    className={`usage-src usage-${l.strength ?? 'weak'}`}
+                    href={l.url}
+                    target="_blank"
+                    rel="noreferrer"
+                    title={
+                      l.supporting_quote
+                        ? `${l.title} — "${l.supporting_quote}"`
+                        : l.title
+                    }
+                  >
+                    {STRENGTH_GLYPH[l.strength ?? 'weak']}{' '}
+                    {(l.strength ?? 'weak') === 'weak' ? 'source (weak)' : 'source'}
+                  </a>
+                ))}
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
+
+      {u.songs && u.songs.length > 0 && (
+        <>
+          <div className="famous-label">Songs / albums</div>
+          <ul className="usage-list">
+            {u.songs.map((s, i) => (
+              <li key={i}>{s}</li>
+            ))}
+          </ul>
+          {u.songLink && (
+            <a
+              className="usage-src usage-strong"
+              href={u.songLink}
+              target="_blank"
+              rel="noreferrer"
+            >
+              ↗ source
+            </a>
+          )}
+        </>
+      )}
+
+      {u.info && u.info.length > 0 && (
+        <>
+          <div className="famous-label">More</div>
+          <ul className="usage-list">
+            {u.info.map((s, i) => (
+              <li key={i}>
+                {i === 0 && u.infoLink ? (
+                  <a href={u.infoLink} target="_blank" rel="noreferrer">
+                    {s} ↗
+                  </a>
+                ) : (
+                  s
+                )}
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
+    </aside>
+  );
+}
+
 function DetailView({
   topMatch,
   selected,
@@ -718,6 +837,8 @@ function DetailView({
           is available in the FM3 amp block. Loads and plays, but won't be 1:1 with III/FM9.
         </div>
       )}
+
+      <AmpUsage name={a.name} />
 
       {famous.length > 0 && (
         <aside className="famous">
