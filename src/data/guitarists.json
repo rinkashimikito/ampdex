@@ -869,7 +869,11 @@
             "strength": "moderate"
           }
         ],
-        "libraryAmps": []
+        "libraryAmps": [
+          "DOUBLE VERB VIBRATO",
+          "DOUBLE VERB NORMAL",
+          "DOUBLE VERB SILVERFACE"
+        ]
       }
     ]
   },
@@ -1333,7 +1337,11 @@
             "strength": "moderate"
           }
         ],
-        "libraryAmps": []
+        "libraryAmps": [
+          "DOUBLE VERB NORMAL",
+          "DOUBLE VERB VIBRATO",
+          "DOUBLE VERB SILVERFACE"
+        ]
       }
     ]
   },
@@ -2176,7 +2184,9 @@
             "strength": "strong"
           }
         ],
-        "libraryAmps": []
+        "libraryAmps": [
+          "CORNFED M50"
+        ]
       },
       {
         "brand": "Fender",
@@ -6058,7 +6068,14 @@
             "strength": "strong"
           }
         ],
-        "libraryAmps": []
+        "libraryAmps": [
+          "BRIT 800 2204 HIGH",
+          "BRIT 800 2204 LOW",
+          "BRIT 800 2203 HIGH",
+          "BRIT 800 2203 LOW",
+          "BRIT 800 MOD",
+          "BRIT 800 STUDIO 20"
+        ]
       },
       {
         "brand": "Peavey",
@@ -6575,7 +6592,14 @@
             "strength": "strong"
           }
         ],
-        "libraryAmps": []
+        "libraryAmps": [
+          "1959SLP NORMAL",
+          "1959SLP TREBLE",
+          "1959SLP JUMPED",
+          "PLEXI 100W NORMAL",
+          "PLEXI 100W HIGH",
+          "PLEXI 100W JUMPED"
+        ]
       }
     ]
   },

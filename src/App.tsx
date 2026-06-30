@@ -1134,7 +1134,7 @@ function GuitaristView({
                 </a>
               ))}
             </div>
-            {amp.libraryAmps.length > 0 && (
+            {amp.libraryAmps.length > 0 ? (
               <div className="gtr-lib">
                 <span className="gtr-lib-label">In this library:</span>
                 {amp.libraryAmps.map((name) => (
@@ -1147,6 +1147,10 @@ function GuitaristView({
                     {name}
                   </button>
                 ))}
+              </div>
+            ) : (
+              <div className="gtr-lib">
+                <span className="gtr-lib-none">Not modeled in this library</span>
               </div>
             )}
           </div>
