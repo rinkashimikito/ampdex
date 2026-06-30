@@ -544,6 +544,13 @@ export default function App() {
       setCollection(null);
     }
   };
+  // Reliable in-app back: clear the current detail so the list/search shows,
+  // regardless of browser history (deep links, refreshes).
+  const goBack = () => {
+    setSelected(null);
+    setSelGuitar(null);
+    setCollection(null);
+  };
 
   // App state → URL hash. Amp/guitarist selections push a history entry (so the
   // back button works); query edits replace it (no per-keystroke spam). Makes
@@ -792,6 +799,7 @@ export default function App() {
                 selectedGuitarist={selGuitar ? guitaristBySlug[selGuitar] : null}
                 onPickAmp={pickAmp}
                 onPickCollection={pickCollection}
+                onBack={goBack}
                 tokens={query.trim().toLowerCase().split(/\s+/).filter((t) => t.length >= 2)}
                 onZoomImg={setZoomImg}
                 device={device}
@@ -1095,15 +1103,17 @@ function AmpTags({
 function GuitaristView({
   g,
   onPickAmp,
+  onBack,
 }: {
   g: Guitarist;
   onPickAmp: (name: string) => void;
+  onBack: () => void;
 }) {
   return (
     <>
       <header className="detail-head">
         <div>
-          <button className="back-btn" onClick={() => window.history.back()}>
+          <button className="back-btn" onClick={onBack}>
             ← back
           </button>
           <div className="kicker">Guitarist</div>
@@ -1175,6 +1185,7 @@ function DetailView({
   selectedGuitarist,
   onPickAmp,
   onPickCollection,
+  onBack,
   tokens,
   onZoomImg,
   device,
@@ -1184,6 +1195,7 @@ function DetailView({
   selectedGuitarist: Guitarist | null;
   onPickAmp: (name: string) => void;
   onPickCollection: (key: string) => void;
+  onBack: () => void;
   tokens: string[];
   onZoomImg: (file: string) => void;
   device: Device;
@@ -1195,7 +1207,7 @@ function DetailView({
       : topMatch;
 
   if (view.kind === 'guitarist') {
-    return <GuitaristView g={view.item} onPickAmp={onPickAmp} />;
+    return <GuitaristView g={view.item} onPickAmp={onPickAmp} onBack={onBack} />;
   }
 
   if (view.kind === 'general') {
@@ -1229,7 +1241,7 @@ function DetailView({
     <>
       <header className="detail-head">
         <div>
-          <button className="back-btn" onClick={() => window.history.back()}>
+          <button className="back-btn" onClick={onBack}>
             ← back
           </button>
           <div className="kicker">Amp · {a.num}</div>
