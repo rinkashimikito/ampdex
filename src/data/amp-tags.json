@@ -1,0 +1,6385 @@
+{
+  "5F1 TWEED CHAMPLIFIER": {
+    "realAmp": "Narrow-panel Fender Tweed Champ, 5F1",
+    "cab": "1x8 5F1 Tweed",
+    "cabOrig": "1x6”or 8” Alnico (Jensen P8T/Oxford 8EV)",
+    "powerTubes": "6V6",
+    "preampTubes": "12AX7A Syl",
+    "controls": "Volume (Drive)",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "\"Low output & speaker size make amp break up early\"; \"unique breakup characteristic due to single-end design\". Famous on Clapton's \"Layla\" & Joe Walsh's \"Rocky Mountain Way\".",
+    "gainConfidence": "high"
+  },
+  "5F1 TWEED EC CHAMPLIFIER": {
+    "realAmp": "2011 Fender EC Vibro-Champ",
+    "cab": "1x8 5F1 Tweed",
+    "cabOrig": "Fender 1x8",
+    "powerTubes": "6V6",
+    "preampTubes": null,
+    "controls": "Volume, Tremolo effect",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "Variant of 5F1 Champ: \"has cathode bypass caps, giving it more gain\"; single-ended Champ circuit breaks up early like the base 5F1.",
+    "gainConfidence": "med"
+  },
+  "5F8 TWEED BRIGHT": {
+    "realAmp": "Keith Urban’s ‘59 narrow-panel, high-power Fender Tweed Twin, 5F8, Bright channel",
+    "cab": "2x12 Double Verb",
+    "cabOrig": "Fender 2x12 P12N, Urban’s cab: Two-Rocks",
+    "powerTubes": "6L6/5881",
+    "preampTubes": "12AX7A Syl",
+    "controls": "Presence, Middle, Bass, Treble, Bright/Normal Inputs Volume",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "\"Tweed amps typically break up earlier than later models & known for warm sounding distortion\"; has clean headroom but \"crank Input Drive in Block to overdrive it\". Players: Keith Richards, Clapton, Gilmour.",
+    "gainConfidence": "high"
+  },
+  "5F8 TWEED JUMPED": {
+    "realAmp": "Urban’s ‘59 Fender Tweed Twin, 5F8, Jumpered chnls",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "5F8 TWEED NORMAL"
+    ],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "Same amp as 5F8 Tweed (\"See 003 5F8 Tweed\"); tweed breaks up early with warm distortion.",
+    "gainConfidence": "med"
+  },
+  "5F8 TWEED NORMAL": {
+    "realAmp": "Urban’s ‘59 Fender Tweed Twin, 5F8, Normal chnl",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "5F8 TWEED JUMPED"
+    ],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "Same amp as 5F8 Tweed (\"See 003 5F8 Tweed\"); tweed breaks up early with warm distortion.",
+    "gainConfidence": "med"
+  },
+  "6G4 SUPER": {
+    "realAmp": "Fender Super Amp g‘60s brownface 6G4 model",
+    "cab": "2x10 Super 6G4",
+    "cabOrig": "Jensen 2x10”",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A Syl",
+    "controls": "Volume (Drive), Bass, Treble, Presence",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "clean"
+    ],
+    "gainBasis": "\"Brown Fenders typically cleaner than Tweed versions, but warmer & dirtier than blackface\"; \"Distorts quicker than Bassman\"; \"Input Drive 4 for great vintage Fender tone, increase to 6+ for more bite\".",
+    "gainConfidence": "med"
+  },
+  "6G12 CONCERT": {
+    "realAmp": "Fender Concert 6G12 g‘60 brownface, vibrato channel",
+    "cab": "4x10 Bassguy RI",
+    "cabOrig": "Fender 4x10 (Jensen)",
+    "powerTubes": "6L6/5881",
+    "preampTubes": "7025 (12AX7A Syl)",
+    "controls": "Volume (Drive), Bass, Treble, Presence",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "clean"
+    ],
+    "gainBasis": "\"Lotta clean headroom & bass. Have to really crank it with single coils to get to mild overdrive territory.\" Brown Fender, cleaner than tweeds.",
+    "gainConfidence": "med"
+  },
+  "‘59 BASSGUY BRIGHT": {
+    "realAmp": "Fender Tweed Bassman g1959 narrow-panel 5F6A, bright in",
+    "cab": "4x10 Bassguy RI",
+    "cabOrig": "Fender 4x10 Jensens",
+    "powerTubes": "6L6/5881",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Presence, Bass, Middle, Treble & Volume (Drive)",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "blues",
+      "classic-rock",
+      "funk"
+    ],
+    "gainBasis": "\"Known for warm distortion\"; \"Can do it all: clean, funk, soul, blues & rock'n'roll\"; \"Grandfather of rock n roll\". Players: Clapton, Hendrix, Setzer.",
+    "gainConfidence": "high"
+  },
+  "‘59 BASSGUY JUMPED": {
+    "realAmp": "‘59 narrow-panel Fender Tweed Bassman, 5F6-A, jumpered channels",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "‘59 BASSGUY NORMAL"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "blues",
+      "classic-rock",
+      "funk"
+    ],
+    "gainBasis": "Same amp as 008 '59 BASSGUY (Tweed Bassman 5F6-A); \"Can do it all: clean, funk, soul, blues & rock'n'roll\".",
+    "gainConfidence": "med"
+  },
+  "‘59 BASSGUY NORMAL": {
+    "realAmp": "‘59 narrow-panel Fender Tweed Bassman, 5F6-A, normal channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "‘59 BASSGUY JUMPED"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "blues",
+      "classic-rock",
+      "funk"
+    ],
+    "gainBasis": "Same amp as 008 '59 BASSGUY (Tweed Bassman 5F6-A); \"Can do it all: clean, funk, soul, blues & rock'n'roll\".",
+    "gainConfidence": "med"
+  },
+  "‘59 BASSGUY RI JUMPED": {
+    "realAmp": "Fender ‘59 Bassman LTD, Vintage Reissue, jumpered channels",
+    "cab": "4x10 Bassguy RI",
+    "cabOrig": "Fender 4x10 Jensens",
+    "powerTubes": "5881s",
+    "preampTubes": "12AY7",
+    "controls": "Volume Normal/Bright, Bass, Middle, Treble, Presence",
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "Reissue of '59 Bassman 5F6-A (\"See 008 '59 BASSGUY\"); same warm-distortion / breakup-to-crunch tweed character.",
+    "gainConfidence": "med"
+  },
+  "‘65 BASSGUY BASS": {
+    "realAmp": "Fender Bassman ‘65 blackface, AB165",
+    "cab": "2x12 65 Bassguy",
+    "cabOrig": "2x12” Jensens",
+    "powerTubes": "6L6/5881",
+    "preampTubes": "7025 (12AX7A Syl)",
+    "controls": "Volume, Treble, Bass",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "bass"
+    ],
+    "gainBasis": "Blackface Bassman bass channel, \"voiced for bass guitars\", \"much mellow/deep\", \"deep switch, can remove lowest freqs\".",
+    "gainConfidence": "med"
+  },
+  "‘65 BASSGUY NORMAL": {
+    "realAmp": null,
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "blues"
+    ],
+    "gainBasis": "\"Normal channel is more relevant for guitar players\"; \"it's cleaner vs AB165, as it has no additional gain stage\". Blackface Fender.",
+    "gainConfidence": "med"
+  },
+  "1959SLP JUMPED": {
+    "realAmp": "100W Marshall Super Lead Plexi 1959 RI, jumpered chnls",
+    "cab": "4x12 1960TV",
+    "cabOrig": "Marshall 4x12 (G12M, G12H)",
+    "powerTubes": "EL34",
+    "preampTubes": "ECC83",
+    "controls": "Vol Normal/Treble, Bass, Mid, Treble, Presence",
+    "tonestack": "POST",
+    "variants": [
+      "1959SLP NORMAL",
+      "1959SLP TREBLE"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "\"1959SLP Plexi is the amp that defines classic rock tone\"; power-amp distortion, \"smooth distortion\". Players: Townshend, Hendrix, Page, Angus Young, Van Halen.",
+    "gainConfidence": "high"
+  },
+  "1959SLP NORMAL": {
+    "realAmp": "100W Marshall Super Lead Plexi 1959 RI, Normal chnl",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "1959SLP JUMPED",
+      "1959SLP TREBLE"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "Same amp as 014 1959SLP Plexi, \"the amp that defines classic rock tone\".",
+    "gainConfidence": "high"
+  },
+  "1959SLP TREBLE": {
+    "realAmp": "100W Marshall Super Lead Plexi ‘59 RI, Treble channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "1959SLP JUMPED",
+      "1959SLP NORMAL"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "Same amp as 014 1959SLP Plexi, \"the amp that defines classic rock tone\"; Treble channel input \"can be painfully bright\".",
+    "gainConfidence": "high"
+  },
+  "1987X JUMPED": {
+    "realAmp": "50W Marshall 1987X reissue, jumpered channels",
+    "cab": "4x12 1960TV",
+    "cabOrig": "Marshall 4x12 (G12M, G12H)",
+    "powerTubes": "EL34",
+    "preampTubes": "ECC83",
+    "controls": "Volume Normal/Treble, Bass, Mid, Treble, Presence",
+    "tonestack": "POST",
+    "variants": [
+      "1987X NORMAL",
+      "1987X TREBLE"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock",
+      "funk"
+    ],
+    "gainBasis": "\"Versatile amp, can handle anything from funk to hard rock\"; Marshall 1987X Plexi",
+    "gainConfidence": "high"
+  },
+  "1987X NORMAL": {
+    "realAmp": "50W Marshall 1987X RI, Normal channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "1987X JUMPED",
+      "1987X TREBLE"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "50W Marshall 1987X RI Normal channel; Plexi identity, see 1987X",
+    "gainConfidence": "med"
+  },
+  "1987X TREBLE": {
+    "realAmp": "50W Marshall 1987X RI, Treble channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "1987X JUMPED",
+      "1987X NORMAL"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "50W Marshall 1987X RI Treble channel; \"Treble channel not as bright as 1959SLP's\"; Plexi identity",
+    "gainConfidence": "med"
+  },
+  "5153 100W BLUE": {
+    "realAmp": "EVH 5150-III blue channel (crunch)",
+    "cab": "4x12 5153, 2x12 5153 Stealth",
+    "cabOrig": "Celestion G12EVHs",
+    "powerTubes": "6L6/5881",
+    "preampTubes": "12AX7A",
+    "controls": "Gain(Drive), Low, Mid, High, MV, Presence",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"EVH's signature amp, popular with high-gain/metal players\"; \"The blue channel has much more gain\"",
+    "gainConfidence": "high"
+  },
+  "5153 100W GREEN": {
+    "realAmp": "EVH 5150-III Green channel (clean)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "clean"
+    ],
+    "gainBasis": "\"EVH 5150-III Green channel (clean)\"; \"Green isn't just cleans. Crank for Plexi.\"",
+    "gainConfidence": "high"
+  },
+  "5153 100W RED": {
+    "realAmp": null,
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "EVH 5150-III red channel is the documented high-gain lead channel of the metal-oriented 5150 platform",
+    "gainConfidence": "med"
+  },
+  "5153 100W STEALTH BLUE": {
+    "realAmp": "EVH 5150III 100S 100W (blue chnl)",
+    "cab": "4x12 5153 / 2x12 5153 Stealth",
+    "cabOrig": "5150 4x12, 2x12 (G12H, G12EVH)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A",
+    "controls": "Gain, Low, Mid, High, Volume, Presence, Resonance/Depth",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"Blue chnl has ~2.5x gain as non-stealth 5153\"; EVH 5150-III high-gain/metal platform",
+    "gainConfidence": "med"
+  },
+  "5153 100W STEALTH GREEN": {
+    "realAmp": "EVH 5150III 100S 100W (green chnl)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [],
+    "gainBasis": "\"Green chnl has about 5x gain as OG\" (base green is the clean channel, heavily pushed in stealth)",
+    "gainConfidence": "low"
+  },
+  "5153 100W STEALTH RED": {
+    "realAmp": "EVH 5150III 100S 100W (red chnl)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "\"Red channel has ~3x gain\"; EVH 5150-III red lead channel on metal/high-gain platform",
+    "gainConfidence": "med"
+  },
+  "5153 50W BLUE": {
+    "realAmp": "50w EVH 5150-III (blue channel)",
+    "cab": "4x12 5153 / 2x12 5153 Stealth",
+    "cabOrig": "5150 4x12, 2x12 (G12H, G12EVH)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A",
+    "controls": "Gain, Low, Mid, High, Volume, Presence, Reso/Depth",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "50w EVH 5150-III blue channel; \"popular with high-gain/metal players\" (see 5153 100W)",
+    "gainConfidence": "med"
+  },
+  "AC-20 12AX7 BASS": {
+    "realAmp": "Morgan AC20 Deluxe, Bass model",
+    "cab": "1x12 AC20",
+    "cabOrig": "Morgan 1x12 (G12 Alnico Blue)",
+    "powerTubes": "EL84",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume, Cut, Sun/Moon switch (Bright), Brilliance switch (Bass Cut), EF86/12AX7 switch",
+    "tonestack": "POST",
+    "variants": [
+      "AC-20 12AX7 TREBLE",
+      "AC-20 EF86 BASS",
+      "AC-20 EF86 TREBLE"
+    ],
+    "gain": "breakup",
+    "genres": [
+      "boutique",
+      "classic-rock",
+      "blues"
+    ],
+    "gainBasis": "Morgan AC20 Vox-style EL84 Class A; \"early 60s British tones\", \"cleanest of EL84 chime to ferocious high gain growl\", \"12AX7 is glassy & has sparkle\"",
+    "gainConfidence": "high"
+  },
+  "AC-20 12AX7 TREBLE": {
+    "realAmp": "Morgan AC20 Deluxe, 12AX7, Treble",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": "12AX7A (Syl)",
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "AC-20 12AX7 BASS",
+      "AC-20 EF86 BASS",
+      "AC-20 EF86 TREBLE"
+    ],
+    "gain": "breakup",
+    "genres": [
+      "boutique",
+      "classic-rock"
+    ],
+    "gainBasis": "Morgan AC20 Deluxe 12AX7 Treble; \"12AX7 is glassy & has sparkle\" (see AC-20 12AX7)",
+    "gainConfidence": "med"
+  },
+  "AC-20 EF86 BASS": {
+    "realAmp": "Morgan AC20 Deluxe, EF86 Bass",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": "EF86",
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "AC-20 12AX7 BASS",
+      "AC-20 12AX7 TREBLE",
+      "AC-20 EF86 TREBLE"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "boutique",
+      "classic-rock"
+    ],
+    "gainBasis": "\"EF86 is full-bodied & fat\"; \"Push Drive/EF86 more distorted vs 12AX7\"; Morgan AC20 Vox-style",
+    "gainConfidence": "med"
+  },
+  "AC-20 EF86 TREBLE": {
+    "realAmp": "Morgan AC20 Deluxe, EF86 Treble",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": "EF86",
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "AC-20 12AX7 BASS",
+      "AC-20 12AX7 TREBLE",
+      "AC-20 EF86 BASS"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "boutique",
+      "classic-rock"
+    ],
+    "gainBasis": "\"EF86 is full-bodied & fat\"; \"Push Drive/EF86 more distorted vs 12AX7\"; Morgan AC20 Vox-style",
+    "gainConfidence": "med"
+  },
+  "ANGLE SEVERE 1": {
+    "realAmp": "Engl Savage 120 (Channel 2 Contour switch off, boosts lower midrange ~500Hz, for warm tone)",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": "Engl 4x12 (V30, V60)",
+    "powerTubes": "6550",
+    "preampTubes": "ECC83",
+    "controls": "Gain (input sensitivity), Lead (distortion), Lead Boost switch, Contour switch, Bass, Mid, Treble, Master, Presence, Depth Boost switch",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "Engl Savage 120; \"Has loads of preamp gain\"; \"High gain amp with Master\"; Ritchie Blackmore signature based on Savage",
+    "gainConfidence": "high"
+  },
+  "ANGLE SEVERE 2": {
+    "realAmp": "Engl Savage 120 (Chnl 2 Contour on, boost from 1200Hz & lower mid cut, for transparency)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "Engl Savage 120 Channel 2 Contour on; high-gain Engl platform (see Angle Severe)",
+    "gainConfidence": "med"
+  },
+  "ARCHEAN": {
+    "realAmp": "100W PRS Archon (Lead chnl, bright off)",
+    "cab": "4x12 Friedman GB",
+    "cabOrig": "Celestion V-Type",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7",
+    "controls": "MV, Bass, Mid, Treble, Bright, Vol, Depth, Presence",
+    "tonestack": "POST",
+    "variants": [
+      "ARCHEAN BRIGHT",
+      "ARCHEAN CLEAN"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"Whether needing nice bell like clean, rock crunch or super saturated metal tone, can do it all!\"; \"Beefy cross between Marshall & Mesa\"",
+    "gainConfidence": "high"
+  },
+  "ARCHEAN BRIGHT": {
+    "realAmp": "100W PRS Archon (Lead Channel, bright on)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "ARCHEAN",
+      "ARCHEAN CLEAN"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Model: 100W PRS Archon Lead Channel; See 033 Archean",
+    "gainConfidence": "high"
+  },
+  "ARCHEAN CLEAN": {
+    "realAmp": "100W PRS Archon (Lead Channel, bright on)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "ARCHEAN",
+      "ARCHEAN BRIGHT"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean"
+    ],
+    "gainBasis": "PRS Archon clean channel; \"Delivers crystal clear clean tone at unbelievable volume\"",
+    "gainConfidence": "med"
+  },
+  "ATOMICA HIGH": {
+    "realAmp": "Cameron Atomica (high gain input w/ add’l gain stage)",
+    "cab": "4x12 5153",
+    "cabOrig": "cab with G12H speakers",
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7A (JJ)",
+    "controls": "Thump(Depth), Presence, Bass, Mid, Treble, MV, Gain(Drive), Edge(Bright), 3 Gain Voices",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"high gain input w/ add'l gain stage\"; \"Brown sound of Arrendendo-mod Super Lead Plexi\"",
+    "gainConfidence": "high"
+  },
+  "ATOMICA LOW": {
+    "realAmp": "Cameron Atomica (low gain input)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "Cameron Atomica low gain input; See 036 Atomica",
+    "gainConfidence": "med"
+  },
+  "BAND-COMMANDER": {
+    "realAmp": "‘68 silverface Fender Bandmaster head with blackface AB763 circuit, Vibrato channel model",
+    "cab": "2x12 65 Bassguy",
+    "cabOrig": "Fender 2x12",
+    "powerTubes": "6L6/5881",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Vol(Drive), Bright, Treble, Bass, Tremolo",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "blues",
+      "country"
+    ],
+    "gainBasis": "\"pure Fender clean sound\"; \"A lot of headroom\"; \"Screams Play a John Mayer tune\"",
+    "gainConfidence": "high"
+  },
+  "BIG HAIR": {
+    "realAmp": "Custom FAS model, Sounds like ‘80s JCM 800",
+    "cab": "4x12 1960TV",
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FAS LEAD 1",
+      "FAS LEAD 2",
+      "FAS MODERN",
+      "SUPERTWEED"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "\"Sounds like '80s JCM 800\"; \"revives '80's metal scene\"; \"my idea of what 80's hair metal might sound like\"",
+    "gainConfidence": "high"
+  },
+  "BLANKENSHIP LEEDS": {
+    "realAmp": "Dweezil Zappa Blankenship Leeds 21",
+    "cab": "1x12 Div13 CJ11",
+    "cabOrig": "2x10, 1x12, 2x12 (G12M)",
+    "powerTubes": "EL84",
+    "preampTubes": "ECC83",
+    "controls": "Volume, Tone & tremolo",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "18w Marshall Mini Bluesbreaker replica; \"use guitar's volume knob to regulate gain\"; \"sound more open when driven hard\"",
+    "gainConfidence": "med"
+  },
+  "BLUDOJAI CLEAN": {
+    "realAmp": "Bludotone ECC83, clean channel, PAB (Preamp Bypass off)",
+    "cab": "4x12 Rumble EV12L",
+    "cabOrig": "Bludotone 1x12, 2x12 (G12-65, EVM)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume Treble, Middle, Bass, Master, Presence, Bright. Switchable PAB: bypass tonestack (Bass/Mid/Treble)",
+    "tonestack": "MID",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "blues",
+      "jazz",
+      "fusion"
+    ],
+    "gainBasis": "Bludotone clean channel, Dumble OD Special; \"worshiped by jazz/blues/fusion players\"; clean channel",
+    "gainConfidence": "high"
+  },
+  "BLUDOJAI LEAD": {
+    "realAmp": "Bludotone Ojai, OD channel, PAB off",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Clean model controls+OD Drive/level",
+    "tonestack": "POST",
+    "variants": [
+      "BLUDOJAI LEAD PAB"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "blues",
+      "fusion",
+      "jazz"
+    ],
+    "gainBasis": "\"Easy model for singing Dumble lead tone\"; Dumble OD channel, 3 gain stages",
+    "gainConfidence": "high"
+  },
+  "BLUDOJAI LEAD PAB": {
+    "realAmp": "Bludotone Ojai, OD channel, PAB on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Clean controls+OD Drive/Level",
+    "tonestack": "PRE",
+    "variants": [
+      "BLUDOJAI LEAD"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "blues",
+      "fusion",
+      "jazz"
+    ],
+    "gainBasis": "\"Easy model for singing Dumble lead tone\"; Dumble OD channel PAB on",
+    "gainConfidence": "high"
+  },
+  "BOGFISH BROWN": {
+    "realAmp": "Bogner Fish preamp (Brown channel)",
+    "cab": "4x12 Friedman V30",
+    "cabOrig": null,
+    "powerTubes": "EL34",
+    "preampTubes": "ECC83",
+    "controls": "Volume(Drive), Treble, Middle, Bass, MV",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"Brown channel has the most gain\"; \"heavy modified amps tones\"; used by Jerry Cantrell of Alice in Chains",
+    "gainConfidence": "high"
+  },
+  "BOGFISH STRATO": {
+    "realAmp": "Bogner Fish preamp (Strato channel)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "Bogner Fish Strato channel; See 044 Bogfish (Strato is mid-tier of Country/Strato/Shark/Brown)",
+    "gainConfidence": "med"
+  },
+  "BRIT 800 2204 HIGH": {
+    "realAmp": "50W Marshall JCM800 2204, High sensitivity in",
+    "cab": "4x12 1960TV",
+    "cabOrig": "Marshall 4x12 (G12M, G12H, G12-75, V30)",
+    "powerTubes": "EL34/6550",
+    "preampTubes": "ECC83",
+    "controls": "Preamp Vol, Bass, Mid, Treble, Presence, MV",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"JCM has always been associated with hard rock in the '80s & 90s, used by Slash, Iron Maiden, Slayer\"; \"Sound of 80's hair metal\"",
+    "gainConfidence": "high"
+  },
+  "BRIT 800 2204 LOW": {
+    "realAmp": "50w Marshall JCM800, 2204, low sensitivity input",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "50w Marshall JCM800 2204 low sensitivity input; See 046 Brit 800",
+    "gainConfidence": "high"
+  },
+  "BRIT 800 2203 HIGH": {
+    "realAmp": "100W Marshall JCM 800 2203 JMP (high input)",
+    "cab": "4x12 1960TV",
+    "cabOrig": "Marshall 4x12 (G12M)",
+    "powerTubes": "EL34/6550",
+    "preampTubes": "ECC83",
+    "controls": "Presence, Bass, Middle, Treble, MV, Preamp Vol",
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "100W Marshall JCM800 2203; \"2203 has about 17% more preamp gain than the 2204\"; JCM800 hard rock identity",
+    "gainConfidence": "high"
+  },
+  "BRIT 800 2203 LOW": {
+    "realAmp": "100W Marshall JCM 800 2203 JMP (low input)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "Model: 100W Marshall JCM 800 2203 JMP (low input)",
+    "gainConfidence": "med"
+  },
+  "BRIT 800 #34": {
+    "realAmp": "50W Marshall JCM 800, Santiago #34 modifications",
+    "cab": "4x12 1960TV",
+    "cabOrig": null,
+    "powerTubes": "EL34/6550",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock"
+    ],
+    "gainBasis": "Santiago #34 mods... used on parts on Appetite for Destruction album; \"Brit 800 #34 does better Slash than AFS100\"",
+    "gainConfidence": "high"
+  },
+  "BRIT 800 MOD": {
+    "realAmp": "50W Marshall JCM 800 with mods",
+    "cab": "4x12 1960TV",
+    "cabOrig": null,
+    "powerTubes": "EL34/6550",
+    "preampTubes": "ECC83",
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "JCM800 with mods, sounds heavier & less strident; \"Has extra gain stage & 1uF bypass cap on last triode\"",
+    "gainConfidence": "med"
+  },
+  "BRIT 800 STUDIO 20": {
+    "realAmp": "Marshall Studio Classic SC20H",
+    "cab": "4x12 1960TV",
+    "cabOrig": null,
+    "powerTubes": "EL34/6550",
+    "preampTubes": "ECC83",
+    "controls": "Presence, Bass, Middle, Treble, Master, Preamp Vol",
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "Marshall Studio Classic SC20H (JCM800 Studio); \"Sorta like Marshall meets Vox\"",
+    "gainConfidence": "med"
+  },
+  "BRIT AFS100 1": {
+    "realAmp": "Marshall Slash AFD100 Sign. Special Collector Ed. #76",
+    "cab": "4x12 Friedman V30",
+    "cabOrig": "Marshall 4x12 (V30)",
+    "powerTubes": "6550/EL34",
+    "preampTubes": "ECC83",
+    "controls": "Gain (Drive), Bass, Middle, Treble, Presence, Master",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock"
+    ],
+    "gainBasis": "Modded JCM 800, model 2203, rental amp #34 from S.I.R., used on parts on Appetite for Destruction",
+    "gainConfidence": "high"
+  },
+  "BRIT AFS100 2": {
+    "realAmp": "Marshall Slash AFD100 AFD mode",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock"
+    ],
+    "gainBasis": "Thicker & more gain than mode #34. Responsible for THE sound that defines Appetite For Destruction",
+    "gainConfidence": "high"
+  },
+  "BRIT BROWN": {
+    "realAmp": "Custom FAS model Plexi “Brown Sound”",
+    "cab": "4x12 5153",
+    "cabOrig": null,
+    "powerTubes": "EL34",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "Fractal's take on pure, raw guitar tones of early Van Halen albums; \"early EVH didn't use that much gain & his tone was very bright\"",
+    "gainConfidence": "med"
+  },
+  "BRIT JM45": {
+    "realAmp": "30w Marshall JTM 45",
+    "cab": "4x12 1960TV",
+    "cabOrig": "Marshall 4x12 (G12M, G12H)",
+    "powerTubes": "EL34/6L6/KT66",
+    "preampTubes": "ECC83",
+    "controls": "Volume Normal/High Treble, Bass, Mid, Treble, Presence",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "Model: 30w Marshall JTM 45 (universally-documented vintage low-gain Marshall)",
+    "gainConfidence": "med"
+  },
+  "BRIT JM45 JUMPED": {
+    "realAmp": null,
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "Jumped Marshall JTM 45 model (vintage low-gain Marshall)",
+    "gainConfidence": "med"
+  },
+  "BRIT JVM OD1 GREEN": {
+    "realAmp": "Marshall JVM410H, Green OD1 Channel",
+    "cab": "4x12 1960TV",
+    "cabOrig": "Marshall 4x12 G12T75",
+    "powerTubes": "EL34",
+    "preampTubes": "ECC83",
+    "controls": "MV, Bass, Middle, Treble, Gain (Drive), Presence, Resonance (Depth)",
+    "tonestack": "POST",
+    "variants": [
+      "JS410 LEAD GREEN"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "hard-rock"
+    ],
+    "gainBasis": "Green OD1 channel similar to hot-rodded JCM 800",
+    "gainConfidence": "med"
+  },
+  "BRIT JVM OD1 ORANGE": {
+    "realAmp": null,
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock"
+    ],
+    "gainBasis": "OD1 Orange: additional gain stage, for hard rock/leads",
+    "gainConfidence": "high"
+  },
+  "BRIT JVM OD1 RED": {
+    "realAmp": null,
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock"
+    ],
+    "gainBasis": "OD1 Red: adds more gain; Models have lot of gain, keep Input Drive low",
+    "gainConfidence": "med"
+  },
+  "BRIT JVM OD2 GREEN": {
+    "realAmp": null,
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Green OD2: like hot-rodded JCM 800 with even more gain; Model has so much gain",
+    "gainConfidence": "med"
+  },
+  "BRIT JVM OD2 ORANGE": {
+    "realAmp": null,
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "OD2 Orange: additional gain stage, for hard rock/leads, with even more gain",
+    "gainConfidence": "high"
+  },
+  "BRIT JVM OD2 RED": {
+    "realAmp": null,
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "OD2 Red: with even more gain; Model have so much gain it suffices to keep Input Drive pretty low",
+    "gainConfidence": "med"
+  },
+  "BRIT PRE": {
+    "realAmp": "Marshall JMP-1 preamp (OD Channel)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": "ECC83",
+    "controls": "Volume, Gain, Bass, Middle, Treble, Presence",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal",
+      "blues"
+    ],
+    "gainBasis": "\"Vintage crunch, modern metal & fat blues lead sounds all readily available\"; OD2 \"tightly focused high gain\"",
+    "gainConfidence": "med"
+  },
+  "BRIT SILVER": {
+    "realAmp": "Marshall Silver Jubilee",
+    "cab": "4x12 Lerxst",
+    "cabOrig": "Marshall 4x12 V30",
+    "powerTubes": "EL34",
+    "preampTubes": "ECC83",
+    "controls": "Presence, Bass, Mid, Treble, Gain, Master",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "Marshall Silver Jubilee, lead channel w/ gain knob pushed in; \"more gain at lower levels, even approaches Dumble-territory\"; players Slash, Bonamassa, Lifeson",
+    "gainConfidence": "med"
+  },
+  "BRIT SUPER": {
+    "realAmp": "Marshall AFD100, AFD mode, based on schematics only",
+    "cab": "4x12 Friedman V30",
+    "cabOrig": "Marshall 4x12 (V30)",
+    "powerTubes": "EL34",
+    "preampTubes": "ECC83",
+    "controls": "Gain, Bass, Middle, Treble, Presence, Master, Depth",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "Marshall AFD100 (Slash signature, Appetite for Destruction tone), \"I have actual Slash signature model\"",
+    "gainConfidence": "high"
+  },
+  "BUDDAH DUOMASTER": {
+    "realAmp": "Budda Twinmaster",
+    "cab": "2x12 Double Verb",
+    "cabOrig": "1x12/1x15 Budda Phat 12/15",
+    "powerTubes": "EL84",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Bass, Treble, Volume",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "blues"
+    ],
+    "gainBasis": "\"Great crunch amp model, like an overdriven Fender\"; \"could never be considered a clean machine when using a humbucker\"",
+    "gainConfidence": "high"
+  },
+  "CA3+ CLEAN": {
+    "realAmp": "Custom Audio Amplifiers 3+ SE preamp, Clean channel",
+    "cab": "4x12 Friedman V30",
+    "cabOrig": null,
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7A",
+    "controls": "Gain, Bass, Middle, Treble, Master, Bright switch. Active tube EQ: Treble & Bass",
+    "tonestack": "PRE/POST",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "clean"
+    ],
+    "gainBasis": "\"Famous for clean tone (like blackface Fender)\"; \"Clean channel is extremely warm & punchy\"",
+    "gainConfidence": "high"
+  },
+  "CA3+ LEAD": {
+    "realAmp": "CAE 3+ SE preamp, Crunch channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "CA3+ RHYTHM"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"Lead channel, highest gain channel... able to provide rich, fat, searing OD with quick attack\"",
+    "gainConfidence": "med"
+  },
+  "CA3+ RHYTHM": {
+    "realAmp": "CAE 3+ SE preamp, Rhythm channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "CA3+ LEAD"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "\"Crunch channel itself is capable of high gain solo sound & also clean up to classic slightly OD clean sound\"",
+    "gainConfidence": "med"
+  },
+  "CAMERON CCV 1A": {
+    "realAmp": "Cameron CCV-100, Channel 1, less gain",
+    "cab": "4x12 Friedman GB",
+    "cabOrig": null,
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7A (JJ)",
+    "controls": "Channel 1: Punch (Resonance/Depth), Presence, Master, Bass, Middle, Treble & Gain, 3-way Voicing switch (resonance), 3-way Dark switch (presence), 3-way Gain Style switch (Jose Master gain/clipping), 3-way Bright switch (less noticeable at higher gain settings)",
+    "tonestack": "PRE",
+    "variants": [
+      "CAMERON CCV 1B",
+      "CAMERON CCV 2A",
+      "CAMERON CCV 2B",
+      "CAMERON CCV 2C",
+      "CAMERON CCV 2D"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Cameron CCV-100 Ch1 less gain; \"Not a very high gain amp. Topology similar to JCM800\"",
+    "gainConfidence": "med"
+  },
+  "CAMERON CCV 1B": {
+    "realAmp": "Cameron CCV-100, Channel 1, more gain",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "CAMERON CCV 1A",
+      "CAMERON CCV 2A",
+      "CAMERON CCV 2B",
+      "CAMERON CCV 2C",
+      "CAMERON CCV 2D"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Cameron CCV-100 Ch1 more gain; base amp \"Topology similar to JCM800\", \"Not a very high gain amp\"",
+    "gainConfidence": "med"
+  },
+  "CAMERON CCV 2A": {
+    "realAmp": "Cameron CCV-100, Channel 2, Bright 1 switch left, Bright 2 switch left, Gain Style switch left",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Channel 2: Punch (= Resonance / Depth), Presence, Solo Master, Master, Bass, Middle, Treble, two Gain controls, 3-way Gain Style switch, two Bright switches, Drive switch",
+    "tonestack": "POST",
+    "variants": [
+      "CAMERON CCV 1A",
+      "CAMERON CCV 1B",
+      "CAMERON CCV 2B",
+      "CAMERON CCV 2C",
+      "CAMERON CCV 2D"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Ch2 \"It just explodes because of engaged Saturation... makes you play AC/DC till yo fingers bleed... Sounds like JCM800 with Saturation on\"",
+    "gainConfidence": "med"
+  },
+  "CAMERON CCV 2B": {
+    "realAmp": "Cameron CCV-100, Channel 2, Bright 1 switch left, Bright 2 switch right, Gain Style switch left",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "CAMERON CCV 1A",
+      "CAMERON CCV 1B",
+      "CAMERON CCV 2A",
+      "CAMERON CCV 2C",
+      "CAMERON CCV 2D"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Cameron CCV-100 Ch2 (Bright variant); see Ch2 \"explodes because of engaged Saturation\", JCM800-with-Saturation aggression",
+    "gainConfidence": "med"
+  },
+  "CAMERON CCV 2C": {
+    "realAmp": "Cameron CCV-100, Channel 2, Bright 1 switch left, Bright 2 switch right, Gain Style switch left",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "CAMERON CCV 1A",
+      "CAMERON CCV 1B",
+      "CAMERON CCV 2A",
+      "CAMERON CCV 2B",
+      "CAMERON CCV 2D"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Cameron CCV-100 Ch2 (Sat switch variant, lower output); see Ch2 high-gain saturated character",
+    "gainConfidence": "med"
+  },
+  "CAMERON CCV 2D": {
+    "realAmp": "Cameron CCV-100, Ch2, Brt 1 left/Brt 2 right, GainStyle left",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "CAMERON CCV 1A",
+      "CAMERON CCV 1B",
+      "CAMERON CCV 2A",
+      "CAMERON CCV 2B",
+      "CAMERON CCV 2C"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Cameron CCV-100 Ch2 (Sat switch variant, lower output); see Ch2 high-gain saturated character",
+    "gainConfidence": "med"
+  },
+  "CAPT HOOK 1A": {
+    "realAmp": "Hook Captain 34 Chnl 1, EQ Bypass off, Boost switch off",
+    "cab": "2x12 5153 Stealth",
+    "cabOrig": "Hook 2x12 or 4x12 (V30, G12H, G12-65, WGS)",
+    "powerTubes": "EL34",
+    "preampTubes": "ECC83",
+    "controls": "Gain (w/ Pull function), Level, Bass, Mid, Treble, EQ bypass switch, Bright switch, Presence & Balls",
+    "tonestack": "PRE/POST",
+    "variants": [],
+    "gain": null,
+    "genres": [],
+    "gainBasis": "insufficient info",
+    "gainConfidence": "low"
+  },
+  "CAPT HOOK 1B": {
+    "realAmp": "Hook Captain 34, Channel 1, EQ Bypass on (no Bass/ Middle/Treble), Boost switch on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "CAPT HOOK 2A",
+      "CAPT HOOK 2B",
+      "CAPT HOOK 3A",
+      "CAPT HOOK 3B"
+    ],
+    "gain": null,
+    "genres": [],
+    "gainBasis": "insufficient info",
+    "gainConfidence": "low"
+  },
+  "CAPT HOOK 2A": {
+    "realAmp": "Hook Captain 34, Channel 2, Edge switch off",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Gain, Level, Bass, Mid, Treble, Boost switch, Edge switch (changes tone stack), Presence & Balls",
+    "tonestack": null,
+    "variants": [
+      "CAPT HOOK 1B",
+      "CAPT HOOK 2B",
+      "CAPT HOOK 3A",
+      "CAPT HOOK 3B"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "\"Sound differs from light crunch, through fat blues distortion, to old school fat OD... British voiced. Channel starts with crunch to vintage tube OD\"",
+    "gainConfidence": "med"
+  },
+  "CAPT HOOK 2B": {
+    "realAmp": "Hook Captain 34, Channel 2, Edge on (alters mids)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "CAPT HOOK 1B",
+      "CAPT HOOK 2A",
+      "CAPT HOOK 3A",
+      "CAPT HOOK 3B"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "Hook Captain 34 Ch2 (Edge on); \"light crunch, through fat blues distortion, to old school fat OD... crunch to vintage tube OD\"",
+    "gainConfidence": "med"
+  },
+  "CAPT HOOK 3A": {
+    "realAmp": "Hook Captain 34, Channel 3, Edge switch off",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Gain, Level, Bass, Mid, Treble, Boost switch, Edge switch (changes tone stack), Presence & Balls",
+    "tonestack": null,
+    "variants": [
+      "CAPT HOOK 1B",
+      "CAPT HOOK 2A",
+      "CAPT HOOK 2B",
+      "CAPT HOOK 3B"
+    ],
+    "gain": null,
+    "genres": [],
+    "gainBasis": "insufficient info",
+    "gainConfidence": "low"
+  },
+  "CAPT HOOK 3B": {
+    "realAmp": "Hook Captain 34, Channel 3",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "CAPT HOOK 1B",
+      "CAPT HOOK 2A",
+      "CAPT HOOK 2B",
+      "CAPT HOOK 3A"
+    ],
+    "gain": null,
+    "genres": [],
+    "gainBasis": "insufficient info",
+    "gainConfidence": "low"
+  },
+  "CAR AMBLER": {
+    "realAmp": "Carr Rambler",
+    "cab": "1x12 Car Ambler",
+    "cabOrig": "Carr 1x12 (Eminence Elsinore)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume, Treble, Middle, Bass, Tremolo effect",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "blues",
+      "country"
+    ],
+    "gainBasis": "\"Rambler succeeds in delivering classic American deluxe tone, expanded clean headroom\"; \"very open & rich clean tones with mild OD\"; modeled on Fender Deluxe Reverb",
+    "gainConfidence": "high"
+  },
+  "CAROL-ANN OD-2": {
+    "realAmp": "Carol-Ann OD-2",
+    "cab": "1x12 Scholz",
+    "cabOrig": "EV-12L, Classic Lead 80, Scholz",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "MV, PreGain, Drive",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "mid-gain",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "\"much more suited for blues & classic rock\"; \"little more gain vs JCM-800\"",
+    "gainConfidence": "high"
+  },
+  "CAROL-ANN TRIPTIK CLASSIC": {
+    "realAmp": "Carol-Ann Triptik 50w, Classic Channel",
+    "cab": "1x12 Scholz",
+    "cabOrig": "Carol-Ann 1x12 (Scholz Classic)",
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7A",
+    "controls": "Input Level, Drive (channels 2&3), Bass, Mid, Treble, Presence, Master, Classic/Modern voice switch",
+    "tonestack": "POST",
+    "variants": [
+      "CAROL-ANN TRIPTIK CLEAN",
+      "CAROL-ANN TRIPTIK MODERN"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "\"Does classic rock extremely well\"; \"produces 70s/80s British rock tones\"",
+    "gainConfidence": "high"
+  },
+  "CAROL-ANN TRIPTIK CLEAN": {
+    "realAmp": "Carol-Ann Triptik 50w, Clean Channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "CAROL-ANN TRIPTIK CLASSIC",
+      "CAROL-ANN TRIPTIK MODERN"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean"
+    ],
+    "gainBasis": "\"Clean Channel has shimmer ... incredible headroom\"",
+    "gainConfidence": "high"
+  },
+  "CAROL-ANN TRIPTIK MODERN": {
+    "realAmp": "Carol-Ann Triptik 50w, Modern Channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "CAROL-ANN TRIPTIK CLASSIC",
+      "CAROL-ANN TRIPTIK CLEAN"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"some more gain & low end for more modern heavy rhythm, dropped tunings\"",
+    "gainConfidence": "high"
+  },
+  "CAROL-ANN TUCANA CLEAN": {
+    "realAmp": "Carol-Ann Tucana 3, Clean Channel",
+    "cab": "1x12 Scholz",
+    "cabOrig": "G12M, Classic Lead 80, Scholz",
+    "powerTubes": "KT88",
+    "preampTubes": "12AX7A",
+    "controls": "Input Level, Bass, Mid, Treble, Master, Presence",
+    "tonestack": "POST",
+    "variants": [
+      "CAROL-ANN TUCANA LEAD"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean"
+    ],
+    "gainBasis": "\"set Clean Channel for little more crunch or maximum clean headroom\"",
+    "gainConfidence": "high"
+  },
+  "CAROL-ANN TUCANA LEAD": {
+    "realAmp": "Carol-Ann Tucana 3, Lead Channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Input Level, Bass, Mid, Treble, Gain, Master, Presence",
+    "tonestack": null,
+    "variants": [
+      "CAROL-ANN TUCANA CLEAN"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "blues",
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "\"styles/musical genre from blues, rock & modern high gain styles\"",
+    "gainConfidence": "high"
+  },
+  "CITRUS A30 CLEAN": {
+    "realAmp": "Orange AD30HTC, Clean channel",
+    "cab": "4x12 Citrus",
+    "cabOrig": "Orange 2x12 (V30)",
+    "powerTubes": "EL84",
+    "preampTubes": "ECC83",
+    "controls": "Gain, Master, Bass, Mid, Treble",
+    "tonestack": "POST",
+    "variants": [
+      "CITRUS A30 DIRTY"
+    ],
+    "gain": "clean",
+    "genres": [
+      "country",
+      "blues",
+      "funk"
+    ],
+    "gainBasis": "\"reputation among Country pickers, Bluesmen, Pop, Funk & Indie artists for their classy, bell-like cleans\"",
+    "gainConfidence": "high"
+  },
+  "CITRUS A30 DIRTY": {
+    "realAmp": "Orange AD30HTC, Dirty channel (2)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "CITRUS A30 CLEAN"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "blues"
+    ],
+    "gainBasis": "\"Tighter bass response, faster attack, more gain & prominent upper mids\" (Orange AD30HTC dirty channel)",
+    "gainConfidence": "med"
+  },
+  "CITRUS BASS 200": {
+    "realAmp": "Orange AD200B bass amp",
+    "cab": "1x15 Heart Key",
+    "cabOrig": "Orange bass cab",
+    "powerTubes": "6550",
+    "preampTubes": "ECC83",
+    "controls": "Volume, Gain, Bass, Middle, Treble",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "bass"
+    ],
+    "gainBasis": "Orange AD200B bass amp model",
+    "gainConfidence": "med"
+  },
+  "CITRUS RV50": {
+    "realAmp": "Orange Rockerverb 50 MKII, Dirty Channel",
+    "cab": "4x12 Citrus",
+    "cabOrig": "Orange 4x12 (V30)",
+    "powerTubes": "EL34",
+    "preampTubes": "ECC83",
+    "controls": "Volume, Gain, Treble, Middle, Bass",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "mid-gain",
+    "genres": [
+      "hard-rock",
+      "metal",
+      "blues"
+    ],
+    "gainBasis": "\"a variety of Orange tones, from metal to fusion, rock to blues\"; \"Not a super high gain amp\"",
+    "gainConfidence": "high"
+  },
+  "CITRUS TERRIER": {
+    "realAmp": "Orange Tiny Terror",
+    "cab": "2x12 Texas Star",
+    "cabOrig": "Orange 1x12/2x12 (G12H)",
+    "powerTubes": "EL84",
+    "preampTubes": "ECC83",
+    "controls": "Vol, Gain, Tone",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "punk",
+      "classic-rock",
+      "blues"
+    ],
+    "gainBasis": "\"gain structure for clean/bluesy crunch, Punk & Classic Rock\"",
+    "gainConfidence": "high"
+  },
+  "CLASS-A 15W TB": {
+    "realAmp": "Vox AC15 Top Boost",
+    "cab": "1x12 AC20",
+    "cabOrig": "Vox 1x12 (G12M,Alnico)",
+    "powerTubes": "EL84",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Vol, Cut, Bass, Treble",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "classic-rock",
+      "blues"
+    ],
+    "gainBasis": "Vox AC15 Top Boost; \"creamy, milkshake-thick tones or ECC83 channel for more jangle & sparkle\"; well-known VOX chime",
+    "gainConfidence": "high"
+  },
+  "CLASS-A 30W": {
+    "realAmp": "Vox AC-30, AC30HW head, Normal channel",
+    "cab": "2x12 Class-A 30W",
+    "cabOrig": "Vox 2x12 (Alnico, G12M)",
+    "powerTubes": "EL84",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Vol (drive), Bright switch, Treble, Bass, Tone Cut (hi-cut)",
+    "tonestack": "POST",
+    "variants": [
+      "CLASS-A 30W BRIGHT",
+      "CLASS-A 30W TB"
+    ],
+    "gain": "breakup",
+    "genres": [
+      "classic-rock"
+    ],
+    "gainBasis": "Vox AC30 (Beatles, Brian May, The Edge); Top Boost circuit creating well-known VOX chime",
+    "gainConfidence": "high"
+  },
+  "CLASS-A 30W BRIGHT": {
+    "realAmp": "Vox AC-30, possibly Bright channel of older Vox AC-30",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "CLASS-A 30W",
+      "CLASS-A 30W TB"
+    ],
+    "gain": "breakup",
+    "genres": [
+      "classic-rock",
+      "blues"
+    ],
+    "gainBasis": "Vox AC-30 Bright channel — universally documented chimey British class-A combo known for clean-to-breakup jangle",
+    "gainConfidence": "high"
+  },
+  "CLASS-A 30W BRILLIANT": {
+    "realAmp": "Vox AC-30 AC30HW, Normal chnl, but with a different tonestack (Matchbox D-30)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "classic-rock",
+      "blues"
+    ],
+    "gainBasis": "Vox AC-30 AC30HW Normal channel — universally documented class-A combo, chime and breakup",
+    "gainConfidence": "high"
+  },
+  "CLASS-A 30W HOT": {
+    "realAmp": "Vox AC30 AC30HW, Top Boost chnl, Hot mode(no tonestack)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Volume, Treble, Bass, Hot/Cool switch, Tone Cut, Master",
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "Vox AC30 Top Boost channel in Hot mode (no tonestack) — pushed Top Boost crunch",
+    "gainConfidence": "med"
+  },
+  "CLASS-A 30W TB": {
+    "realAmp": "Vox AC-30, Top Boost channel of AC30HW head in “Cool” mode (regular, with tone stack)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "CLASS-A 30W",
+      "CLASS-A 30W BRIGHT"
+    ],
+    "gain": "breakup",
+    "genres": [
+      "classic-rock",
+      "blues"
+    ],
+    "gainBasis": "Vox AC-30 Top Boost channel, Cool mode — universally documented chime/breakup",
+    "gainConfidence": "high"
+  },
+  "COMET 60": {
+    "realAmp": "Komet 60",
+    "cab": "2x12 Lead 80",
+    "cabOrig": "Komet’s 2x12 (Classic Lead 80)",
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7A",
+    "controls": "Volume, Treble, Middle, Bass, Presence, Hi Cut",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "boutique",
+      "classic-rock",
+      "blues"
+    ],
+    "gainBasis": "\"Blues players can play on edge of distortion, going from clean to blues OD using pick attack\"; Trainwreck-methodology boutique amp with plenty of headroom",
+    "gainConfidence": "med"
+  },
+  "COMET CONCOURSE": {
+    "realAmp": "Komet Concorde",
+    "cab": "2x12 Lead 80",
+    "cabOrig": "Komet’s 2x12 has Classic Lead 80",
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7A",
+    "controls": "Volume, Treble, Middle, Bass, Presence, Hi Cut",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "mid-gain",
+    "genres": [
+      "boutique",
+      "hard-rock"
+    ],
+    "gainBasis": "\"the Concorde is positioned as a rock amp\" and \"has more gain than Ken Fischer's other designs ... creamy rhythms & singing leads\"",
+    "gainConfidence": "med"
+  },
+  "CORNFED M50": {
+    "realAmp": "Cornford MK50 II, OD channel",
+    "cab": "4x12 Friedman V30",
+    "cabOrig": "Cornford 4x12 (V30)",
+    "powerTubes": "EL34/6L6",
+    "preampTubes": "ECC83",
+    "controls": "Gain (Input Drive), Overdrive, Bass, Middle, Treble, Volume, 2 MV, Presence & Resonance (Depth)",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"Plexi-meets-Modern tone with big cojones\"; \"If I was playing in a hard rock band, this would be a top candidate ... big, brutal & bold\"",
+    "gainConfidence": "high"
+  },
+  "DAS METALL": {
+    "realAmp": "Diezel VH4 (schematics, ear-tuned, not matched)",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": "Diezel 4x12 (V30, G12-100)",
+    "powerTubes": "6L6",
+    "preampTubes": "ECC83",
+    "controls": "Gain, Vol, Bass, Mid, Treble, Pres(4k), Deep(80Hz)",
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "djent",
+      "hard-rock"
+    ],
+    "gainBasis": "Diezel VH4 — universally documented high-gain modern metal amplifier",
+    "gainConfidence": "high"
+  },
+  "DELUXE 6G3": {
+    "realAmp": "Fender Deluxe,",
+    "cab": "1x12 Deluxe Verb",
+    "cabOrig": null,
+    "powerTubes": "6V6",
+    "preampTubes": "12AX7",
+    "controls": "Volume, Tone",
+    "tonestack": null,
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "classic-rock",
+      "country"
+    ],
+    "gainBasis": "\"twang, jangle, sparkle & roar\" and \"meaty vintage-style OD ... lead tones many compare to mini Marshall with American twist\"",
+    "gainConfidence": "med"
+  },
+  "DELUXE TWEED": {
+    "realAmp": "Fender Tweed Deluxe, 1957 narrow-panel 5E3, bright input",
+    "cab": "1x12 Deluxe Tweed",
+    "cabOrig": "Fender 1x12 (Jensen P12R, C12N or Celestion Alnico Blue)",
+    "powerTubes": "6V6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume (Drive), Tone (Treble)",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "classic-rock",
+      "country"
+    ],
+    "gainBasis": "\"Tweed amplifiers typically break up earlier ... warm sounding distortion\"; \"everything from Fender clean to Marshall grit\"",
+    "gainConfidence": "high"
+  },
+  "DELUXE TWEED JUMPED": {
+    "realAmp": "‘57 narrow-panel Fender Tweed Deluxe 5E3 jumpered inputs",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "classic-rock",
+      "country"
+    ],
+    "gainBasis": "Jumpered-input version of '57 Tweed Deluxe 5E3 — same early-breakup warm overdrive character",
+    "gainConfidence": "high"
+  },
+  "DELUXE VERB NORMAL": {
+    "realAmp": "Fender DLX Rvrb g‘65 blackface AB763, Normal channel",
+    "cab": "1x12 Deluxe Verb",
+    "cabOrig": "Fender 1x12 with Jensen C12(K), EVM 12L, JBL D120 Or Fender 2x10 w/ Jensen C10N, C10Q or Jensen 25W Alnico P10R",
+    "powerTubes": "6V6",
+    "preampTubes": "7025 (12AX7A Syl)",
+    "controls": "Volume, Bass, Treble, Reverb effect",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "country",
+      "blues"
+    ],
+    "gainBasis": "\"sparkling clean tones & low wattage breakup\"; Normal channel \"especially for single note runs & jazzy tunes\"; blackface scooped clean",
+    "gainConfidence": "high"
+  },
+  "DELUXE VERB VIBRATO": {
+    "realAmp": "1965 blackface Fender DLX Reverb, AB763, Vibrato channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "country",
+      "blues"
+    ],
+    "gainBasis": "1965 blackface Fender Deluxe Reverb AB763 — universally documented sparkling blackface clean with breakup when cranked",
+    "gainConfidence": "high"
+  },
+  "DIAMANTE FIRE": {
+    "realAmp": "22W Diamond Del Fuego",
+    "cab": "1x12 Hot Kitty",
+    "cabOrig": "single GH12H, V30",
+    "powerTubes": "EL84",
+    "preampTubes": "12AX7",
+    "controls": "Volume, Tone, Tremolo effect",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "\"true clean/blues/vintage breakup\"; \"Funky & rhythm stuff at low drive ... light crunch with medium drive, higher drive settings to get it into rock territory\"; based on '60s Class-A 18W Marshall",
+    "gainConfidence": "med"
+  },
+  "DIRTY SHIRLEY 1": {
+    "realAmp": "40W Friedman Dirty Shirley, current version",
+    "cab": "4x12 Friedman GB",
+    "cabOrig": "Friedman 4x12 (V30, G12M, G12-65, G12H)",
+    "powerTubes": "6L6/5881",
+    "preampTubes": "12AX7A (JJ)",
+    "controls": "Gain (Drive), Master, Bass, Middle, Treble, Presence",
+    "tonestack": "POST",
+    "variants": [
+      "DIRTY SHIRLEY 2"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "blues",
+      "hard-rock"
+    ],
+    "gainBasis": "\"Vintage Classic Rock tone inspired by British tube amps\" ... \"vintage crunch ... capable of producing many styles from blues to rock & country\"; based on Marshall JTM 45",
+    "gainConfidence": "high"
+  },
+  "DIRTY SHIRLEY 2": {
+    "realAmp": "40W Friedman Dirty Shirley, earlier version, different component values, lil more aggro vs 111 model",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "DIRTY SHIRLEY 1"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock",
+      "blues"
+    ],
+    "gainBasis": "\"earlier version ... lil more aggro\" and \"Brighter model\" of Friedman Dirty Shirley JTM45-based vintage-crunch amp",
+    "gainConfidence": "high"
+  },
+  "DIV/13 CJ": {
+    "realAmp": "Divided By 13 CJ 11",
+    "cab": "1x12 Div13 CJ11",
+    "cabOrig": "Div by 13 G12M",
+    "powerTubes": "6V6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Vol (Drive), Mid Gain Boost, Treble, Bass, MV",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "boutique",
+      "blues"
+    ],
+    "gainBasis": "\"similar to Tweed Dlx, with more clean headroom\"; Class A 6V6, single channel with boost, works best with single coils",
+    "gainConfidence": "med"
+  },
+  "DIV/13 CJ BOOST": {
+    "realAmp": "Divided By 13 CJ11, mid gain boost on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "boutique",
+      "classic-rock"
+    ],
+    "gainBasis": "\"Divided By 13 CJ11, mid gain boost on\" - boost engaged on the CJ11 raises it from breakup into crunch",
+    "gainConfidence": "med"
+  },
+  "DIV/13 FT37 HIGH": {
+    "realAmp": "Divided By 13 FTR 37w",
+    "cab": "2x12 Chiefman",
+    "cabOrig": "Divided by 13 (G12H/Alnico)",
+    "powerTubes": "6V6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume (Drive) Pull: Mid Gain Boost, Treble, Bass",
+    "tonestack": "PRE",
+    "variants": [
+      "DIV/13 FT37 LOW"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "boutique",
+      "classic-rock"
+    ],
+    "gainBasis": "\"can produce most pure & bodied clean tones, to varying degrees of medium & over-the-top types of complex & full-bodied OD\"; Mid Gain Boost on",
+    "gainConfidence": "med"
+  },
+  "DIV/13 FT37 LOW": {
+    "realAmp": "Divided By 13 FTR 37w, Low: channel 1, Mid Gain Boost: off",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Volume & Tone knob (referred as “Click” as it clicks between settings). No Master Volume, keep at default in amp block",
+    "tonestack": null,
+    "variants": [
+      "DIV/13 FT37 HIGH"
+    ],
+    "gain": "clean",
+    "genres": [
+      "boutique",
+      "blues"
+    ],
+    "gainBasis": "\"1st channel is voiced like big clear Fender\"; Mid Gain Boost off",
+    "gainConfidence": "med"
+  },
+  "DIZZY V4 BLUE 2": {
+    "realAmp": "Diezel VH4, Diezel VH4 Blue, Crunch",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": "Diezel 4x12 (V30, G12-100)",
+    "powerTubes": "6L6/KT77",
+    "preampTubes": "ECC83",
+    "controls": "Gain, Volume, Bass, Mid, Treble, Presence (4k), Deep (80Hz)",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"Diezel VH4 Blue, Crunch\"; \"semi-crunch & full crunch sounds\"; Users: Metallica, Tremonti, Muse, Tool",
+    "gainConfidence": "high"
+  },
+  "DIZZY V4 BLUE 3": {
+    "realAmp": "Diezel VH4 Blue, Distortion/Mega",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "DIZZY V4 BLUE 4"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal"
+    ],
+    "gainBasis": "\"Channel 3 Distortion: its concept's heavy rhythm guitar. Distortion is noticeably tighter vs chnl 2\"",
+    "gainConfidence": "high"
+  },
+  "DIZZY V4 BLUE 4": {
+    "realAmp": "Diezel VH4 Blue, Solo/Lead",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "DIZZY V4 BLUE 3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal"
+    ],
+    "gainBasis": "\"Channel 4 Solo... gain near 1:00 is sufficient for absolute high gain distortion\"",
+    "gainConfidence": "high"
+  },
+  "DIZZY V4 SILVER 2": {
+    "realAmp": "Diezel VH4 Silver, Crunch",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "DIZZY V4 SILVER 3",
+      "DIZZY V4 SILVER 4"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"Crunch channel... will open amp to sonic dimensions of semi-crunch & full crunch sounds\"",
+    "gainConfidence": "high"
+  },
+  "DIZZY V4 SILVER 3": {
+    "realAmp": "Diezel VH4 Silver, Distortion/Mega",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "DIZZY V4 SILVER 2",
+      "DIZZY V4 SILVER 4"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal"
+    ],
+    "gainBasis": "\"Diezel VH4 Silver, Distortion/Mega... Diezel trademark sound\"",
+    "gainConfidence": "high"
+  },
+  "DIZZY V4 SILVER 4": {
+    "realAmp": "Diezel VH4 Silver, Solo/Lead",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "DIZZY V4 SILVER 2",
+      "DIZZY V4 SILVER 3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal"
+    ],
+    "gainBasis": "\"Solo/Lead... singing/screaming lead at its best\" (starts where mega ends)",
+    "gainConfidence": "high"
+  },
+  "DOUBLE VERB NORMAL": {
+    "realAmp": "‘66 blackface Fender Twin Reverb",
+    "cab": "2x12 Double Verb",
+    "cabOrig": "Fender 2x12 with original speakers",
+    "powerTubes": "6L6",
+    "preampTubes": "7025 (12AX7A Syl)",
+    "controls": "Volume, Bass, Middle, Treble, Bright switch",
+    "tonestack": "PRE",
+    "variants": [
+      "DOUBLE VERB VIBRATO"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "country",
+      "blues"
+    ],
+    "gainBasis": "\"ultra clean\"; \"offers tons of clean headroom\"; \"king of Fender blackface amps\"; '66 blackface Twin Reverb",
+    "gainConfidence": "high"
+  },
+  "DOUBLE VERB SILVERFACE": {
+    "realAmp": "1971 silverface Fender Twin Reverb",
+    "cab": "2x12 Double Verb",
+    "cabOrig": "Fender 2x12, original speakers",
+    "powerTubes": "6L6",
+    "preampTubes": "7025 (12AX7A Syl)",
+    "controls": "Bass, Mid, Treble, Bright switch",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "country"
+    ],
+    "gainBasis": "1971 silverface Fender Twin Reverb; silverface Twins were cleaner, see Double Verb (clean amp)",
+    "gainConfidence": "high"
+  },
+  "DOUBLE VERB VIBRATO": {
+    "realAmp": "1966 blackface Fender Twin Reverb, vibrato channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "DOUBLE VERB NORMAL"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "country"
+    ],
+    "gainBasis": "1966 blackface Fender Twin Reverb, vibrato channel; ultra-clean Twin Reverb",
+    "gainConfidence": "high"
+  },
+  "DWEEZIL’S BASSGUY": {
+    "realAmp": "Fender Bassman, Dweezil Zappa’s ‘65 blackface AB165, modded by Blankenship",
+    "cab": "4x12 1960TV",
+    "cabOrig": "Fender 2x12 (Oxford)",
+    "powerTubes": "6L6",
+    "preampTubes": "7025 (12AX7A Syl)",
+    "controls": "Volume, Negative feedback, fixed Presence circuit (at 10)",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": null,
+    "genres": [],
+    "gainBasis": null,
+    "gainConfidence": null
+  },
+  "ENERGYBALL": {
+    "realAmp": "Engl Powerball, Lead channel",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": "Engl 4x12 (V30, V60)",
+    "powerTubes": "6L6",
+    "preampTubes": "ECC83",
+    "controls": "Gain, Lo/Hi Lead, Bass, Mid-Open/-Focus, Treble, Open/Focus, Presence, Depth Punch",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "djent"
+    ],
+    "gainBasis": "Engl Powerball, Lead channel - universally documented high-gain metal amp",
+    "gainConfidence": "med"
+  },
+  "EURO BLUE": {
+    "realAmp": "Bogner Ecstasy 20th Anniv., Blue in Vintage mode",
+    "cab": "4x12 Friedman V30",
+    "cabOrig": "Bogner 2x12 or 4x12 (V30)",
+    "powerTubes": "6L6 (modeled) or EL34",
+    "preampTubes": "ECC83",
+    "controls": "Presence, Vol, Treble, Middle, Bass, Gain(Drive), 3-way Bright switch, Structure switch, Old/New switch, Excursion switch(Depth), Gain switch, Plexi Mode",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "boutique"
+    ],
+    "gainBasis": "\"Blue=famous crunch. Vintage mode=less gain\"; Bogner Ecstasy flagship",
+    "gainConfidence": "high"
+  },
+  "EURO BLUE MODERN": {
+    "realAmp": "Bogner Ecstasy 20th Anniv. Blue in Modern mode",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "mid-gain",
+    "genres": [
+      "hard-rock",
+      "boutique"
+    ],
+    "gainBasis": "\"Blue is crunch channel, Modern has more gain\" (Bogner Ecstasy)",
+    "gainConfidence": "med"
+  },
+  "EURO RED": {
+    "realAmp": "Bogner Ecstasy 20th Anniv. Red in Vintage mode",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "boutique"
+    ],
+    "gainBasis": "\"Red is high gain lead channel, Vintage has less gain\" (Bogner Ecstasy)",
+    "gainConfidence": "med"
+  },
+  "EURO RED MODERN": {
+    "realAmp": "Bogner Ecstasy 20th Anniv. Red in Modern mode",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal",
+      "boutique"
+    ],
+    "gainBasis": "\"Red is high gain lead channel, Modern=more gain\" (Bogner Ecstasy)",
+    "gainConfidence": "high"
+  },
+  "EURO UBER": {
+    "realAmp": "Bogner Uberschall",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": "Bogner 4x12 Uberkab (G12-T75 & V30)",
+    "powerTubes": "EL34 (KT88 or 6L6 in real amp)",
+    "preampTubes": "ECC83",
+    "controls": "Gain, Master, Bass, Middle, Treble, Presence",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "\"Uberschall was 1 of early really high gain amps\"; \"designed primarily for extreme, heavy & aggressive styles\"; \"Detuned or baritone guitars crave this amp\"",
+    "gainConfidence": "high"
+  },
+  "FAS 6160": {
+    "realAmp": "Custom Model (Peavey 5150)",
+    "cab": "4x12 5153",
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "\"Custom Model (Peavey 5150)\" / \"Based on PVH 6160 model\" - 5150 is a documented high-gain metal amp",
+    "gainConfidence": "high"
+  },
+  "FAS BASS": {
+    "realAmp": "Custom model Bass Amp with active controls",
+    "cab": "1x15 Portabass",
+    "cabOrig": null,
+    "powerTubes": "6550",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": null,
+    "genres": [
+      "bass"
+    ],
+    "gainBasis": "\"Custom model Bass Amp with active controls\"",
+    "gainConfidence": "med"
+  },
+  "FAS BROOTALZ": {
+    "realAmp": "Custom Aggressive, High-gain Amp Model Some resemblance to Angle Savage",
+    "cab": "4x12 5153 Stealth",
+    "cabOrig": null,
+    "powerTubes": "6550",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "djent"
+    ],
+    "gainBasis": "\"Custom Aggressive, High-gain Amp Model\"; SLO100 input stage with Savage back end",
+    "gainConfidence": "high"
+  },
+  "FAS BROWN": {
+    "realAmp": "Custom Model, EVH Brown Sound",
+    "cab": "4x12 1960TV",
+    "cabOrig": null,
+    "powerTubes": "EL34",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FAS MODERN II",
+      "FAS MODERN III",
+      "FAS RHYTHM",
+      "FAS SKULL CRUSHER",
+      "FAS STEALTH BLUE",
+      "FAS WRECK"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "EVH \"Brown Sound\": Marshall Superlead Plexi based; \"early Eddie didn't use much gain, tone was very bright\"",
+    "gainConfidence": "med"
+  },
+  "FAS BUTTERY": {
+    "realAmp": "Custom FAS Model (v1 AxeFx legacy model)",
+    "cab": "2x12 Double Verb",
+    "cabOrig": null,
+    "powerTubes": "EL84",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": null,
+    "genres": [
+      "boutique"
+    ],
+    "gainBasis": "\"Model by ear, listened to clips of Buddas (Matchbox 20)\" - no gain descriptor in body",
+    "gainConfidence": "low"
+  },
+  "FAS CLASS-A": {
+    "realAmp": "Custom Amp model born by accident",
+    "cab": "2x12 Class-A 30W",
+    "cabOrig": null,
+    "powerTubes": "EL84",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "boutique",
+      "blues"
+    ],
+    "gainBasis": "\"Blackface preamp into cathode-biased 6L6 power amp, no negative feedback\"; modeling Carr Rambler",
+    "gainConfidence": "med"
+  },
+  "FAS CRUNCH": {
+    "realAmp": "Custom Ultimate British-sound amp model",
+    "cab": "4x12 1960TV",
+    "cabOrig": null,
+    "powerTubes": "EL34",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "\"FAS take on ultimate British-sounding amp. More dynamic/open than Plexi & more gain\"",
+    "gainConfidence": "high"
+  },
+  "FAS EXPRESS": {
+    "realAmp": "Custom Modded Trainwreck Express model",
+    "cab": "4x12 Friedman GB",
+    "cabOrig": null,
+    "powerTubes": "EL34",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "boutique",
+      "classic-rock"
+    ],
+    "gainBasis": "\"My take on modded Trainwreck Express\" - Trainwreck Express is a documented boutique touch-sensitive crunch amp",
+    "gainConfidence": "med"
+  },
+  "FAS HOT ROD": {
+    "realAmp": "Cliff’s ideal modded Marshall model",
+    "cab": "4x12 1960TV",
+    "cabOrig": null,
+    "powerTubes": "EL34",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock"
+    ],
+    "gainBasis": "\"My version of what modded Marshall should be\"; compares to BE/HBE, Bogners, Splawns",
+    "gainConfidence": "med"
+  },
+  "FAS LEAD 1": {
+    "realAmp": "Custom FAS Model",
+    "cab": "4x12 V30 5153 Stealth",
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "BIG HAIR",
+      "FAS LEAD 2",
+      "FAS MODERN",
+      "SUPERTWEED"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "\"Neutral high gain lead tone, tight midrange\"",
+    "gainConfidence": "high"
+  },
+  "FAS LEAD 2": {
+    "realAmp": "Custom FAS Model, Hot-rod British lead sound",
+    "cab": "4x12 V30 5153 Stealth",
+    "cabOrig": null,
+    "powerTubes": "EL34",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "BIG HAIR",
+      "FAS LEAD 1",
+      "FAS MODERN",
+      "SUPERTWEED"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock"
+    ],
+    "gainBasis": "\"Hot-rod British lead sound, CAE tonestack\"",
+    "gainConfidence": "high"
+  },
+  "FAS MODERN": {
+    "realAmp": "Custom FAS Model, High gain hybrid tone",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "BIG HAIR",
+      "FAS LEAD 1",
+      "FAS LEAD 2",
+      "SUPERTWEED"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "djent"
+    ],
+    "gainBasis": "\"my interpretation of ideal modern metal tone\"; \"used by Periphery\"",
+    "gainConfidence": "high"
+  },
+  "FAS MODERN II": {
+    "realAmp": "Custom Model, Tighter FAS Modern version",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FAS BROWN",
+      "FAS MODERN III",
+      "FAS RHYTHM",
+      "FAS SKULL CRUSHER",
+      "FAS STEALTH BLUE",
+      "FAS WRECK"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "djent"
+    ],
+    "gainBasis": "\"Tighter version of popular FAS Modern model with 5150-style bass boost in tone stack\"",
+    "gainConfidence": "high"
+  },
+  "FAS MODERN III": {
+    "realAmp": "Custom Model, like Recto with tighter bass",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FAS BROWN",
+      "FAS MODERN II",
+      "FAS RHYTHM",
+      "FAS SKULL CRUSHER",
+      "FAS STEALTH BLUE",
+      "FAS WRECK"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "djent"
+    ],
+    "gainBasis": "\"like Recto with tighter bass\"; \"Tight bass/cathode-biased power amp\"",
+    "gainConfidence": "high"
+  },
+  "FAS RHYTHM": {
+    "realAmp": "Custom Model, Hybrid Marshall/MESA amp",
+    "cab": "4x12 1960TV",
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FAS BROWN",
+      "FAS MODERN II",
+      "FAS MODERN III",
+      "FAS SKULL CRUSHER",
+      "FAS STEALTH BLUE",
+      "FAS WRECK"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "\"Combines best features of British (Marshall) & USA (Mesa) crunch models\"",
+    "gainConfidence": "high"
+  },
+  "FAS SKULL CRUSHER": {
+    "realAmp": "Custom Model",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FAS BROWN",
+      "FAS MODERN II",
+      "FAS MODERN III",
+      "FAS RHYTHM",
+      "FAS STEALTH BLUE",
+      "FAS WRECK"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "djent"
+    ],
+    "gainBasis": "\"Nastiest, most brutal amp model to ever escape from the 7th circle\"",
+    "gainConfidence": "high"
+  },
+  "FAS STEALTH BLUE": {
+    "realAmp": "Custom Model, EVH 5153 Stealth, Blue channel",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FAS BROWN",
+      "FAS MODERN II",
+      "FAS MODERN III",
+      "FAS RHYTHM",
+      "FAS SKULL CRUSHER",
+      "FAS WRECK"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "\"Model of EVH 5153 Stealth's Blue channel\" - EVH 5150-series high-gain amp",
+    "gainConfidence": "high"
+  },
+  "FAS WRECK": {
+    "realAmp": "Custom, OG WRECKER 1 model",
+    "cab": "4x12 Friedman GB",
+    "cabOrig": null,
+    "powerTubes": "EL34",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FAS BROWN",
+      "FAS MODERN II",
+      "FAS MODERN III",
+      "FAS RHYTHM",
+      "FAS SKULL CRUSHER",
+      "FAS STEALTH BLUE"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "blues"
+    ],
+    "gainBasis": "Trainwreck Express clone; \"Nasty, spitty, Neil Young-esque blocking distortion\"",
+    "gainConfidence": "med"
+  },
+  "FOX ODS": {
+    "realAmp": "Fuchs Overdrive Supreme 50, OD chnl",
+    "cab": "4x12 Rumble EV12S",
+    "cabOrig": "Fuchs 2x12 (Eminence)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Gain, Input, Brite sw, Deep sw, Master, Accent (Presence)",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "mid-gain",
+    "genres": [
+      "blues",
+      "fusion",
+      "jazz"
+    ],
+    "gainBasis": "\"crystal clear/detailed clean sounds to harmonically complex & articulate OD\"; Dumble-style, artists Joe Bonamassa, Robben Ford, Larry Carlton",
+    "gainConfidence": "high"
+  },
+  "FOX ODS DEEP": {
+    "realAmp": "Fuchs OD Supreme 50, deep switch on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "mid-gain",
+    "genres": [
+      "blues",
+      "fusion",
+      "jazz"
+    ],
+    "gainBasis": "\"Deep switch shifts overall tonality\" of Fuchs OD Supreme; same Dumble-style D-style amp as FOX ODS",
+    "gainConfidence": "high"
+  },
+  "FRIEDMAN BE 2010": {
+    "realAmp": "2010 Friedman BE-100 (probably Marsha edition)",
+    "cab": "4x12 Friedman V30",
+    "cabOrig": "Friedman 4x12 (V30 &/or G12M)",
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7A (JJ)",
+    "controls": "Vol I & II, Master, Bass, Middle, Treble, Presence",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal",
+      "classic-rock"
+    ],
+    "gainBasis": "\"Steve Stevens & Jerry Cantrell are using BE\"; \"Pure, raw aggression\"; \"For even more gain switch to HBE mode\" - Marshall-inspired hot-rodded amp",
+    "gainConfidence": "high"
+  },
+  "FRIEDMAN BE C45": {
+    "realAmp": "later BE-100, C45 switch engaged",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": "EL34",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FRIEDMAN BE V1",
+      "FRIEDMAN BE V1 FAT",
+      "FRIEDMAN BE V2",
+      "FRIEDMAN BE V3",
+      "FRIEDMAN HBE C45",
+      "FRIEDMAN HBE V1",
+      "FRIEDMAN HBE V1 FAT",
+      "FRIEDMAN HBE V2",
+      "FRIEDMAN HBE V3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "\"later BE-100, C45 switch engaged\"; \"adds bit of chime & openness to highs\" - see Friedman BE",
+    "gainConfidence": "high"
+  },
+  "FRIEDMAN BE V1": {
+    "realAmp": "later BE-100, voice: left",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FRIEDMAN BE C45",
+      "FRIEDMAN BE V1 FAT",
+      "FRIEDMAN BE V2",
+      "FRIEDMAN BE V3",
+      "FRIEDMAN HBE C45",
+      "FRIEDMAN HBE V1",
+      "FRIEDMAN HBE V1 FAT",
+      "FRIEDMAN HBE V2",
+      "FRIEDMAN HBE V3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "\"later BE-100, voice: left\" - Friedman BE-100 hot-rodded Marshall",
+    "gainConfidence": "high"
+  },
+  "FRIEDMAN BE V1 FAT": {
+    "realAmp": "later BE-100, voice: left, FAT switch on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FRIEDMAN BE C45",
+      "FRIEDMAN BE V1",
+      "FRIEDMAN BE V2",
+      "FRIEDMAN BE V3",
+      "FRIEDMAN HBE C45",
+      "FRIEDMAN HBE V1",
+      "FRIEDMAN HBE V1 FAT",
+      "FRIEDMAN HBE V2",
+      "FRIEDMAN HBE V3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "\"later BE-100, voice: left, FAT switch on\" - Friedman BE-100",
+    "gainConfidence": "high"
+  },
+  "FRIEDMAN BE V2": {
+    "realAmp": "later BE-100, voice: middle (brightest)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FRIEDMAN BE C45",
+      "FRIEDMAN BE V1",
+      "FRIEDMAN BE V1 FAT",
+      "FRIEDMAN BE V3",
+      "FRIEDMAN HBE C45",
+      "FRIEDMAN HBE V1",
+      "FRIEDMAN HBE V1 FAT",
+      "FRIEDMAN HBE V2",
+      "FRIEDMAN HBE V3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "\"later BE-100, voice: middle (brightest)\" - Friedman BE-100",
+    "gainConfidence": "high"
+  },
+  "FRIEDMAN BE V3": {
+    "realAmp": "later BE-100, voice: right",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FRIEDMAN BE C45",
+      "FRIEDMAN BE V1",
+      "FRIEDMAN BE V1 FAT",
+      "FRIEDMAN BE V2",
+      "FRIEDMAN HBE C45",
+      "FRIEDMAN HBE V1",
+      "FRIEDMAN HBE V1 FAT",
+      "FRIEDMAN HBE V2",
+      "FRIEDMAN HBE V3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "\"later BE-100, voice: right\" - Friedman BE-100",
+    "gainConfidence": "high"
+  },
+  "FRIEDMAN HBE 2010": {
+    "realAmp": "‘10 Friedman BE-100\t, HBE mode, May be Marsha edition",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"HBE mode has even more gain\" - hotter version of Friedman BE-100",
+    "gainConfidence": "high"
+  },
+  "FRIEDMAN HBE C45": {
+    "realAmp": "later BE-100, C45 switch on, HBE mode",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FRIEDMAN BE C45",
+      "FRIEDMAN BE V1",
+      "FRIEDMAN BE V1 FAT",
+      "FRIEDMAN BE V2",
+      "FRIEDMAN BE V3",
+      "FRIEDMAN HBE V1",
+      "FRIEDMAN HBE V1 FAT",
+      "FRIEDMAN HBE V2",
+      "FRIEDMAN HBE V3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"HBE mode has even more gain\"; \"C45 switch on\" - Friedman BE-100",
+    "gainConfidence": "high"
+  },
+  "FRIEDMAN HBE V1": {
+    "realAmp": "later BE-100, voice: left, HBE mode",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FRIEDMAN BE C45",
+      "FRIEDMAN BE V1",
+      "FRIEDMAN BE V1 FAT",
+      "FRIEDMAN BE V2",
+      "FRIEDMAN BE V3",
+      "FRIEDMAN HBE C45",
+      "FRIEDMAN HBE V1 FAT",
+      "FRIEDMAN HBE V2",
+      "FRIEDMAN HBE V3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "HBE mode has even more gain (Friedman BE-100/HBE, modern high gain)",
+    "gainConfidence": "high"
+  },
+  "FRIEDMAN HBE V1 FAT": {
+    "realAmp": "later BE-100, voice: left, FAT on, HBE",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FRIEDMAN BE C45",
+      "FRIEDMAN BE V1",
+      "FRIEDMAN BE V1 FAT",
+      "FRIEDMAN BE V2",
+      "FRIEDMAN BE V3",
+      "FRIEDMAN HBE C45",
+      "FRIEDMAN HBE V1",
+      "FRIEDMAN HBE V2",
+      "FRIEDMAN HBE V3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "HBE mode has even more gain; 'Fat switch thickens up low end ... didn't increase gain'",
+    "gainConfidence": "high"
+  },
+  "FRIEDMAN HBE V2": {
+    "realAmp": "later BE-100, voice: middle (brightest), HBE mode",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FRIEDMAN BE C45",
+      "FRIEDMAN BE V1",
+      "FRIEDMAN BE V1 FAT",
+      "FRIEDMAN BE V2",
+      "FRIEDMAN BE V3",
+      "FRIEDMAN HBE C45",
+      "FRIEDMAN HBE V1",
+      "FRIEDMAN HBE V1 FAT",
+      "FRIEDMAN HBE V3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "HBE mode has even more gain (later BE-100, voice middle)",
+    "gainConfidence": "high"
+  },
+  "FRIEDMAN HBE V3": {
+    "realAmp": "later BE-100, voice: right, HBE mode",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "FRIEDMAN BE C45",
+      "FRIEDMAN BE V1",
+      "FRIEDMAN BE V1 FAT",
+      "FRIEDMAN BE V2",
+      "FRIEDMAN BE V3",
+      "FRIEDMAN HBE C45",
+      "FRIEDMAN HBE V1",
+      "FRIEDMAN HBE V1 FAT",
+      "FRIEDMAN HBE V2"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "HBE mode has even more gain (later BE-100, voice right)",
+    "gainConfidence": "high"
+  },
+  "FRIEDMAN SMALL BOX": {
+    "realAmp": "Friedman Smallbox, Channel 2 (high gain)",
+    "cab": "4x12 Friedman GB",
+    "cabOrig": "Friedman 3x12 (V30 &/or G12M)",
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7A (JJ)",
+    "controls": "Gain, Master, Bass, Middle, Treble, Presence, Bright switch (channel 1 “Plexi” only)",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "'Channel 2 (high gain)'; 'has modern high gain tone Friedman's known for'",
+    "gainConfidence": "high"
+  },
+  "FRYETTE D60 LESS": {
+    "realAmp": "Fryette Deliverance 60 Series II, less mode (3 gain stages)",
+    "cab": "4x12 Friedman V30",
+    "cabOrig": "Fryette 4x12 P50E (Fane F70G)",
+    "powerTubes": "KT88",
+    "preampTubes": "12AX7A",
+    "controls": "Gain 1 & 2, Master, Bass, Middle, Treble, Presence, Depth",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal"
+    ],
+    "gainBasis": "'Popular with metal players' (Fryette Deliverance 60)",
+    "gainConfidence": "high"
+  },
+  "FRYETTE D60 MORE": {
+    "realAmp": "Fryette Deliverance 60 II, more mode (4 gain stages)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal"
+    ],
+    "gainBasis": "'More gain with this mode' (Fryette Deliverance, popular with metal players)",
+    "gainConfidence": "high"
+  },
+  "GIBTONE SCOUT": {
+    "realAmp": "Gibson GA17RVT Scout",
+    "cab": "1x10 BF Princetone",
+    "cabOrig": "Gibson 1x10",
+    "powerTubes": "6AQ5 (EL84)",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume (Drive), Tremolo",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "blues"
+    ],
+    "gainBasis": "Gibson GA17RVT Scout, low-watt 6AQ5 practice combo, only control is Volume",
+    "gainConfidence": "med"
+  },
+  "HERBIE CH2+": {
+    "realAmp": "Diezel Herbert, Channel 2+ (based on Marshall JC800)",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": "Diezel 4x12 (V30, G12-K100)",
+    "powerTubes": "KT66 or KT77",
+    "preampTubes": "ECC83",
+    "controls": "Bass, Mid(1k), Treble, MV, Presence(>3k), Deep(120Hz)",
+    "tonestack": "POST",
+    "variants": [
+      "HERBIE CH2-",
+      "HERBIE CH3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "'(+) Mode ... much more gain ... punchy/heavy rhythm & searing solo tones' (Diezel Herbert, JCM800-based)",
+    "gainConfidence": "high"
+  },
+  "HERBIE CH2-": {
+    "realAmp": "Diezel Herbert, Channel 2- (based on Marshall Plexi)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "HERBIE CH2+",
+      "HERBIE CH3"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "'(-) Mode: dynamic range from vintage clean to broad crunch ... Blues/classic rock sounds easily obtained'",
+    "gainConfidence": "high"
+  },
+  "HERBIE CH3": {
+    "realAmp": "Diezel Herbert, Channel 3 (based on Diezel VH4)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "HERBIE CH2+",
+      "HERBIE CH2-"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal"
+    ],
+    "gainBasis": "'Channel 3 offers high gain structure ... very heavy/massive rhythm guitar ... metal rhythm channel'",
+    "gainConfidence": "high"
+  },
+  "HERBIE MK3": {
+    "realAmp": "Diezel Herbert MKIII, Channel 2+",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Diezel Herbert MKIII, Channel 2+ (high-gain channel, tighter MkIII voicing)",
+    "gainConfidence": "med"
+  },
+  "HIPOWER BRILLIANT": {
+    "realAmp": "1974 Hiwatt DR-103, Brilliant channel",
+    "cab": "4x12 Lerxst",
+    "cabOrig": "Hiwatt 4x12 (Fane)",
+    "powerTubes": "EL34",
+    "preampTubes": "ECC83",
+    "controls": "Volume, Master, Bass, Mid, Treble, Presence",
+    "tonestack": "MID",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "classic-rock",
+      "blues"
+    ],
+    "gainBasis": "'OD is certainly available when Hiwatt's pushed ... by use of higher-gain brilliant channel'",
+    "gainConfidence": "med"
+  },
+  "HIPOWER JUMPED": {
+    "realAmp": "Hiwatt DR-103, jumpered channels",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "HIPOWER NORMAL"
+    ],
+    "gain": "breakup",
+    "genres": [
+      "classic-rock"
+    ],
+    "gainBasis": "Hiwatt DR-103 jumpered channels (predominantly clean/headroom amp, mild OD when pushed)",
+    "gainConfidence": "med"
+  },
+  "HIPOWER NORMAL": {
+    "realAmp": "Hiwatt DR-103, Normal Channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "HIPOWER JUMPED"
+    ],
+    "gain": "clean",
+    "genres": [
+      "classic-rock"
+    ],
+    "gainBasis": "'Normal channel's voiced to stay clean and powerful at all levels'",
+    "gainConfidence": "high"
+  },
+  "HOT KITTY": {
+    "realAmp": "Bad Cat Hot Cat 30, Dirty channel",
+    "cab": "1x12 Hot Kitty",
+    "cabOrig": "BadCat 1x12 (proprietary Celestion)",
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Gain, Edge, Level, Bass, Mid, Treble, Brilliance (Hi-Cut), Master",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "boutique",
+      "hard-rock"
+    ],
+    "gainBasis": "Bad Cat Hot Cat 30, Dirty channel - documented high-gain boutique amp",
+    "gainConfidence": "med"
+  },
+  "JAZZ 120": {
+    "realAmp": "Roland Jazz Chorus 120",
+    "cab": "2x12 Double Verb",
+    "cabOrig": "Roland 2x12 Silver AlNiCo",
+    "powerTubes": "Transistor (solid-state)",
+    "preampTubes": null,
+    "controls": "Volume, Bass, Mid, Treble, Bright switch",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "jazz",
+      "clean"
+    ],
+    "gainBasis": "\"king of clean\"; \"universally recognized by pros as benchmark in clean guitar sound\"; \"Originally used mostly in jazz scene\"",
+    "gainConfidence": "high"
+  },
+  "JMPRE-1 CLEAN 1": {
+    "realAmp": "Marshall JMP-1 Preamp, Clean 1",
+    "cab": "4x12 1960TV",
+    "cabOrig": null,
+    "powerTubes": "EL34",
+    "preampTubes": "ECC83",
+    "controls": "Volume, Gain, Bass, Middle, Treble, Presence, Bass shift, Depth, PA Presence (power amp)",
+    "tonestack": "POST",
+    "variants": [
+      "JMPRE-1 CLEAN 1 BASS SHIFT",
+      "JMPRE-1 CLEAN 2",
+      "JMPRE-1 CLEAN 2 BASS SHIFT",
+      "JMPRE-1 OD1",
+      "JMPRE-1 OD1 BASS SHIFT",
+      "JMPRE-1 OD2",
+      "JMPRE-1 OD2 BASS SHIFT"
+    ],
+    "gain": "clean",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "\"Clean 1\" channel of Marshall JMP-1 preamp; \"based on 90s JCM 900 Marshall amp\"",
+    "gainConfidence": "high"
+  },
+  "JMPRE-1 CLEAN 1 BASS SHIFT": {
+    "realAmp": "Marshall JMP-1 Preamp, Clean 1, bass shift on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "JMPRE-1 CLEAN 1",
+      "JMPRE-1 CLEAN 2",
+      "JMPRE-1 CLEAN 2 BASS SHIFT",
+      "JMPRE-1 OD1",
+      "JMPRE-1 OD1 BASS SHIFT",
+      "JMPRE-1 OD2",
+      "JMPRE-1 OD2 BASS SHIFT"
+    ],
+    "gain": "clean",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "\"Clean 1, bass shift on\"; \"On clean models, adds body\"",
+    "gainConfidence": "high"
+  },
+  "JMPRE-1 CLEAN 2": {
+    "realAmp": "Marshall JMP-1 Preamp, Clean 2",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "JMPRE-1 CLEAN 1",
+      "JMPRE-1 CLEAN 1 BASS SHIFT",
+      "JMPRE-1 CLEAN 2 BASS SHIFT",
+      "JMPRE-1 OD1",
+      "JMPRE-1 OD1 BASS SHIFT",
+      "JMPRE-1 OD2",
+      "JMPRE-1 OD2 BASS SHIFT"
+    ],
+    "gain": "clean",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "\"Clean 2\" channel of Marshall JMP-1 preamp",
+    "gainConfidence": "high"
+  },
+  "JMPRE-1 CLEAN 2 BASS SHIFT": {
+    "realAmp": "Marshall JMP-1 Preamp, Clean 1, bass shift on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "JMPRE-1 CLEAN 1",
+      "JMPRE-1 CLEAN 1 BASS SHIFT",
+      "JMPRE-1 CLEAN 2",
+      "JMPRE-1 OD1",
+      "JMPRE-1 OD1 BASS SHIFT",
+      "JMPRE-1 OD2",
+      "JMPRE-1 OD2 BASS SHIFT"
+    ],
+    "gain": "clean",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "Clean 2 channel with bass shift; \"On clean models, it adds body\"",
+    "gainConfidence": "high"
+  },
+  "JMPRE-1 OD1": {
+    "realAmp": "Marshall JMP-1 Preamp, OD1 mode",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "JMPRE-1 CLEAN 1",
+      "JMPRE-1 CLEAN 1 BASS SHIFT",
+      "JMPRE-1 CLEAN 2",
+      "JMPRE-1 CLEAN 2 BASS SHIFT",
+      "JMPRE-1 OD1 BASS SHIFT",
+      "JMPRE-1 OD2",
+      "JMPRE-1 OD2 BASS SHIFT"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock",
+      "blues"
+    ],
+    "gainBasis": "\"warm vintage drive reminiscent of Marshall Super Lead amps\"; \"Vintage crunch, modern metal & fat blues lead sounds\"",
+    "gainConfidence": "high"
+  },
+  "JMPRE-1 OD1 BASS SHIFT": {
+    "realAmp": "Marshall JMP-1 Preamp, OD1 mode, bass shift on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "JMPRE-1 CLEAN 1",
+      "JMPRE-1 CLEAN 1 BASS SHIFT",
+      "JMPRE-1 CLEAN 2",
+      "JMPRE-1 CLEAN 2 BASS SHIFT",
+      "JMPRE-1 OD1",
+      "JMPRE-1 OD2",
+      "JMPRE-1 OD2 BASS SHIFT"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock",
+      "blues"
+    ],
+    "gainBasis": "OD1 mode with bass shift; \"On OD1/2, it provides extra low end throb, essential for heavy rock sound\"",
+    "gainConfidence": "high"
+  },
+  "JMPRE-1 OD2": {
+    "realAmp": "Marshall JMP-1 Preamp, OD2 mode",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "JMPRE-1 CLEAN 1",
+      "JMPRE-1 CLEAN 1 BASS SHIFT",
+      "JMPRE-1 CLEAN 2",
+      "JMPRE-1 CLEAN 2 BASS SHIFT",
+      "JMPRE-1 OD1",
+      "JMPRE-1 OD1 BASS SHIFT",
+      "JMPRE-1 OD2 BASS SHIFT"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"Tightly focused high gain. Modern, aggressive, smooth, fluid\"",
+    "gainConfidence": "high"
+  },
+  "JMPRE-1 OD2 BASS SHIFT": {
+    "realAmp": "Marshall JMP-1 Preamp, OD2 mode, bass shift on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "JMPRE-1 CLEAN 1",
+      "JMPRE-1 CLEAN 1 BASS SHIFT",
+      "JMPRE-1 CLEAN 2",
+      "JMPRE-1 CLEAN 2 BASS SHIFT",
+      "JMPRE-1 OD1",
+      "JMPRE-1 OD1 BASS SHIFT",
+      "JMPRE-1 OD2"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "OD2 mode with bass shift; \"On OD1/2, it provides extra low end throb, essential for heavy rock sound\"",
+    "gainConfidence": "high"
+  },
+  "JR BLUES": {
+    "realAmp": "Fender Blues Junior 15w",
+    "cab": "1x12 Jr Blues",
+    "cabOrig": "Fender 1x12",
+    "powerTubes": "EL84",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume, Treble, Bass, Middle, Master, Fat button",
+    "tonestack": "MID",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "\"aimed at achieving warm, tube-driven tone common in many styles of American blues & blues rock\"; \"every sound from vintage clean to expressive growl\"",
+    "gainConfidence": "high"
+  },
+  "JR BLUES FAT": {
+    "realAmp": "Fender Blues Junior, Fat switch on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "\"FAT switch boosts gain/mid freqs in preamp stage\"; \"adds warm, Fender American Tube distortion\"",
+    "gainConfidence": "high"
+  },
+  "JS410 CRUNCH ORANGE": {
+    "realAmp": "Joe Satriani’s Marshall JVM410HJS, Crunch Orange (JCM 2203)",
+    "cab": "4x12 Friedman V30",
+    "cabOrig": "Marshall 4x12 (V30 & G12H)",
+    "powerTubes": "EL34",
+    "preampTubes": "ECC83",
+    "controls": "Volume, Gain, Bass, Middle, Treble, Master, Presence, Resonance, Mid-Shift (off:~650Hz, on:~500Hz)",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "\"ORANGE: Based on JCM800 2203, a standard in rock music\"",
+    "gainConfidence": "high"
+  },
+  "JS410 CRUNCH RED": {
+    "realAmp": "Marshall JVM410HJS, Crunch Red (modded JCM 2203)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "JS410 LEAD ORANGE",
+      "JS410 LEAD RED"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "\"RED Mode: ... modded JCM800 sound that defined the '80s & still a go-to sound for any rock band\"",
+    "gainConfidence": "high"
+  },
+  "JS410 LEAD GREEN": {
+    "realAmp": "Marshall JVM410H, Lead Green (OD1 on original JVM)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "BRIT JVM OD1 GREEN"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"Lead Green (OD1 on original JVM)\"; JVM410H OD/Lead channel",
+    "gainConfidence": "med"
+  },
+  "JS410 LEAD ORANGE": {
+    "realAmp": "Marshall JVM410HJS, Lead Orange (more gain)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "JS410 CRUNCH RED",
+      "JS410 LEAD RED"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"Lead Orange (more gain)\"; OD channel of JVM410HJS",
+    "gainConfidence": "high"
+  },
+  "JS410 LEAD RED": {
+    "realAmp": "Marshall JVM410HJS, Lead Red (even more gain)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "JS410 CRUNCH RED",
+      "JS410 LEAD ORANGE"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"Lead Red (even more gain)\"; \"None more Gain Nigel Tufnel!\"",
+    "gainConfidence": "high"
+  },
+  "LEGEND 100": {
+    "realAmp": "Carvin Legacy VL100, Steve Vai’s VL100, lead channel",
+    "cab": "4x12 Friedman V30",
+    "cabOrig": "Carvin 2x12/4x12 (V30)",
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7A",
+    "controls": "Presence, Treble (11k), Mid(650Hz), Bass(80Hz), Drive, Vol",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Carvin Legacy VL100, Steve Vai's lead channel; \"For full blown OD, set control between 8-10\" and \"High gain: Boost switch on, turn down Drive\"",
+    "gainConfidence": "high"
+  },
+  "LEGEND 100 II": {
+    "realAmp": "Carvin VL300 Legacy 3, channel 3",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Bass, Middle, Treble, Presence, Drive, Volume, Master",
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Carvin VL300 Legacy 3, channel 3 (lead); \"See 193 Legend 100 for more info\"",
+    "gainConfidence": "med"
+  },
+  "MATCHBOX CHIEFTAIN 1": {
+    "realAmp": "Matchless Chieftain, Single channel",
+    "cab": "2x12 Chiefman",
+    "cabOrig": "Matchless 2x12 (G12H)",
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Vol, Master, Bass, Mid, Treble, Brilliance (HiCut)",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "boutique",
+      "country",
+      "classic-rock"
+    ],
+    "gainBasis": "Matchless Chieftain, \"often associated with country music/Nashville but are used by artists like Kings of Leon & Dave Grissom\"; \"Input Drive anywhere from 2-6 is a delight\"",
+    "gainConfidence": "med"
+  },
+  "MATCHBOX CHIEFTAIN 2": {
+    "realAmp": "Matchless Chieftain boosted (more gain/high emphasis)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "boutique",
+      "classic-rock"
+    ],
+    "gainBasis": "\"Matchless Chieftain boosted (more gain/high emphasis)\"",
+    "gainConfidence": "med"
+  },
+  "MATCHBOX D-30": {
+    "realAmp": "Matchless DC-30",
+    "cab": "2x12 Chiefman",
+    "cabOrig": "Matchless 2x12 (25w G12M & 30w G12H)",
+    "powerTubes": null,
+    "preampTubes": "12AX7A Syl (12AX7)",
+    "controls": "Volume, Bass, Treble, Cut, bypassable Master",
+    "tonestack": null,
+    "variants": [
+      "MATCHBOX D-30 EF86"
+    ],
+    "gain": "breakup",
+    "genres": [
+      "boutique",
+      "classic-rock"
+    ],
+    "gainBasis": "Matchless DC-30, universally documented Vox-style Class-A chime/breakup amp",
+    "gainConfidence": "high"
+  },
+  "MATCHBOX D-30 EF86": {
+    "realAmp": "Matchless DC-30, channel 2 (EF86 preamp tubes)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": "EL84",
+    "preampTubes": "EF86",
+    "controls": "Volume, Tone, Cut, bypassable Master",
+    "tonestack": null,
+    "variants": [
+      "MATCHBOX D-30"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "boutique",
+      "classic-rock"
+    ],
+    "gainBasis": "DC-30 channel 2 EF86; \"capable of more gain vs chnl 1 & capable of OD harder ... channel of choice for heavier sound, especially when OD\"",
+    "gainConfidence": "med"
+  },
+  "MR Z HWY 66": {
+    "realAmp": "Dr. Z Route 66",
+    "cab": "2x12 Chiefman",
+    "cabOrig": "Dr. Z 2x12 (V30 & G12H)",
+    "powerTubes": "KT66",
+    "preampTubes": "EF86",
+    "controls": "Volume, Bass, Treble",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "Dr. Z Route 66; \"Plenty of classic rock n roll crunch & sweet blues sustain\" and \"thick blues & medium rock tones\"",
+    "gainConfidence": "high"
+  },
+  "MR Z MZ-38": {
+    "realAmp": "Dr. Z Maz 38 SR",
+    "cab": "1x12 AC20",
+    "cabOrig": "Dr. Z 1x12 (G12H)",
+    "powerTubes": "EL84",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume, Master, Bass, Mid, Treble, Cut",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "country",
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "Dr. Z Maz 38 SR; \"quintessential country amp\" ... \"whether Blues, Country, Roots, or Rock\"",
+    "gainConfidence": "med"
+  },
+  "MR Z MZ-8": {
+    "realAmp": "Dr. Z Maz 8",
+    "cab": "1x12 AC20",
+    "cabOrig": "Dr. Z 1x12 G12H",
+    "powerTubes": "EL84",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume, Master, Bass, Mid, Treble, Cut",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "country",
+      "classic-rock",
+      "blues"
+    ],
+    "gainBasis": "Dr. Z Maz 8; \"shimmering cleans to full on rock\", \"clean country picking to grinding riff rock\", \"clean tones at verge of breakup\"",
+    "gainConfidence": "med"
+  },
+  "NUCLEAR-TONE": {
+    "realAmp": "Swart Atomic Space Tone",
+    "cab": "1x12 Nuclear Tone",
+    "cabOrig": "Swart 1x12 (Mojotone BV-25m)",
+    "powerTubes": "6V6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume (Drive), Tone (Treble), Tremolo effect",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "boutique",
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "Swart Atomic Space Tone; \"Amp has excellent breakup\", \"Combo of Tweed & VOX character\", \"Input Drive around 4 for a clean tone\"",
+    "gainConfidence": "med"
+  },
+  "ODS-100 CLEAN": {
+    "realAmp": "Dumble ODS-100 Ford, clean channel",
+    "cab": "4x12 Rumble EV12L",
+    "cabOrig": "Dumble 2x12 or 4x12 (G12-65, EVM/EV-L)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume, Bass, Middle, Treble, OD Level, OD Ratio, Master, Presence, Bright switch, Mid boost switch (Deep), footswitch PAB",
+    "tonestack": "MID",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "blues",
+      "jazz",
+      "fusion"
+    ],
+    "gainBasis": "Dumble ODS-100 clean channel; tone \"worshiped by lot of jazz, blues & fusion players\"",
+    "gainConfidence": "high"
+  },
+  "ODS-100 FORD": {
+    "realAmp": "#102 Dumble, Schematics of Robben Ford #102 Dumble OD channel, PAB off",
+    "cab": "4x12 Rumble EV12L",
+    "cabOrig": "Dumble 2x12 or 4x12 (G12-65, EVM)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": null,
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "mid-gain",
+    "genres": [
+      "blues",
+      "fusion",
+      "jazz"
+    ],
+    "gainBasis": "Dumble OD channel (Robben Ford #102); trademark tone \"Thick, mid-heavy, smooth, stable, very touch-sensitive\" worshiped by jazz/blues/fusion players",
+    "gainConfidence": "high"
+  },
+  "ODS-100 FORD PAB": {
+    "realAmp": "R. Ford’s #102 Dumble, OD chnl, PAB on, Mid switch off",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "ODS-100 FORD PAB MID"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "blues",
+      "fusion",
+      "jazz"
+    ],
+    "gainBasis": "R. Ford's #102 Dumble OD channel with PAB on; \"See 203 & 204 ODS-100 for more info\"",
+    "gainConfidence": "med"
+  },
+  "ODS-100 FORD PAB MID": {
+    "realAmp": "R. Ford’s #102 Dumble, OD chnl, PAB on, Mid sw on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "ODS-100 FORD PAB"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "blues",
+      "fusion",
+      "jazz"
+    ],
+    "gainBasis": "R. Ford's #102 Dumble OD channel, PAB+Mid on; \"See 203 & 204 ODS-100 for more info\"",
+    "gainConfidence": "med"
+  },
+  "ODS-100 HRM": {
+    "realAmp": "Dumble HRM circuit, OD chnl, Mid switch (Deep) off",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "mid-gain",
+    "genres": [
+      "blues",
+      "classic-rock",
+      "fusion"
+    ],
+    "gainBasis": "Dumble HRM OD channel; \"HRM means Hot Rod Marshall ... fixed Marshall tone stack at output of lead channel\"",
+    "gainConfidence": "med"
+  },
+  "ODS-100 HRM MID": {
+    "realAmp": "Based on Dumble HRM circuit, OD chnl, Deep on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "mid-gain",
+    "genres": [
+      "blues",
+      "classic-rock",
+      "fusion"
+    ],
+    "gainBasis": "Dumble HRM OD channel, Deep on; \"See 203, 204 & 207 ODS-100 HRM for more info\"",
+    "gainConfidence": "med"
+  },
+  "PLEXI 100W 1970": {
+    "realAmp": "1970 Marshall Plexi g100W EL34 model, jumpered channels",
+    "cab": "4x12 1960TV",
+    "cabOrig": "Marshall 4x12 (G12M, G12H)",
+    "powerTubes": "EL34",
+    "preampTubes": "ECC83",
+    "controls": "Vol Nrml/Treble, Bass, Middle, Treble, Presence",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "“The world’s greatest rock amp is a Marshall “Plexi””; “Play hard & amp rewards you with fullness of tone & smooth distortion ... Roll down guitar volume some for warm clean sound”",
+    "gainConfidence": "high"
+  },
+  "PLEXI 100W HIGH": {
+    "realAmp": "‘69 Marshall Super Lead Plexi 100w, High Treble channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "’69 Marshall Super Lead Plexi 100w, High Treble channel — “Lead (Treble) chnl has boosted bright tone”; universally-documented Marshall Plexi",
+    "gainConfidence": "high"
+  },
+  "PLEXI 100W JUMPED": {
+    "realAmp": "1969 Marshall Super Lead Plexi, 100W, jumper chnls",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "PLEXI 100W NORMAL"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "1969 Marshall Super Lead Plexi, 100W, jumper chnls — universally-documented Marshall Plexi (jumpered channels add gain)",
+    "gainConfidence": "med"
+  },
+  "PLEXI 100W NORMAL": {
+    "realAmp": "1969 Marshall Super Lead Plexi, 100W, Normal chnl",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "PLEXI 100W JUMPED"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "“Rhythm (Normal) chnl has flat response. Dark & lotta bass”; 1969 Marshall Super Lead Plexi",
+    "gainConfidence": "med"
+  },
+  "PLEXI 2204": {
+    "realAmp": "1981 Marshall JMP 2204 50W Master Volume Head",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Vol Nrml/Treble, Bass, Mid, Treble, Presence, MV",
+    "tonestack": null,
+    "variants": [],
+    "gain": "mid-gain",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "“1981 Marshall JMP 2204 50W Master Volume Head”; “Other’s almost JCM800”; “Turn MV up for more distortion”",
+    "gainConfidence": "high"
+  },
+  "PLEXI 50W 6550": {
+    "realAmp": "‘72 Marshall Plexi 50w, 6550 pwr tubes,hi treble chnl",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": "6550",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "’72 Marshall Plexi 50w — “50w a little more aggressive & compressed”; universally-documented Marshall Plexi",
+    "gainConfidence": "med"
+  },
+  "PLEXI 50W 6CA7": {
+    "realAmp": "Marshall Lead Plexi 50W, 6AC7 power tubes",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": "6AC7",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "PLEXI 50W 6CA7 JUMPED"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "Marshall Lead Plexi 50W — universally-documented Marshall Plexi",
+    "gainConfidence": "med"
+  },
+  "PLEXI 50W 6CA7 JUMPED": {
+    "realAmp": "Marshall Lead Plexi 50W, 6AC7 power tubes, jumpered channels",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "PLEXI 50W 6CA7"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "Marshall Lead Plexi 50W, jumpered channels — universally-documented Marshall Plexi",
+    "gainConfidence": "med"
+  },
+  "PLEXI 50W HIGH 1": {
+    "realAmp": "1967 Marshall Super Lead Plexi 50W, High Treble chnl",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "PLEXI 50W HIGH 2"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "1967 Marshall Super Lead Plexi 50W, High Treble chnl — universally-documented Marshall Plexi",
+    "gainConfidence": "med"
+  },
+  "PLEXI 50W HIGH 2": {
+    "realAmp": "1967 Marshall Super Lead Plexi 50W, High Treble chnl",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "PLEXI 50W HIGH 1"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "1967 Marshall Super Lead Plexi 50W, High Treble chnl — universally-documented Marshall Plexi",
+    "gainConfidence": "med"
+  },
+  "PLEXI 50W JUMPED": {
+    "realAmp": "1967 Marshall Plexi 50W, jumpered channels",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "PLEXI 50W NORMAL"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "1967 Marshall Plexi 50W, jumpered channels — universally-documented Marshall Plexi",
+    "gainConfidence": "med"
+  },
+  "PLEXI 50W NORMAL": {
+    "realAmp": "1967 Marshall Plexi 50W, Normal channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "PLEXI 50W JUMPED"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "1967 Marshall Plexi 50W, Normal channel — “Rhythm (Normal) chnl has flat response. Dark & lotta bass”",
+    "gainConfidence": "med"
+  },
+  "PLEXI STUDIO 20": {
+    "realAmp": "Marshall SV20H",
+    "cab": "4x12 1960TV",
+    "cabOrig": "Celestion V-Type",
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7",
+    "controls": "Low/Hi switch, Presence, Bass, Mid, Treble, Nrml/Hi Vol",
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "blues",
+      "hard-rock"
+    ],
+    "gainBasis": "“Has the iconic Plexi tone, saturated blues grit & biting leads ... The iconic amp that defined the sound of rock ’n’ roll”",
+    "gainConfidence": "high"
+  },
+  "PORTA-BASS": {
+    "realAmp": "Ampeg Portaflex bass amp (SVT-7 PRO???)",
+    "cab": "1x15 Portabass",
+    "cabOrig": "SVT cab, 1 or more 10”, 12” or 15” Eminence",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7",
+    "controls": "Gain, Volume, Bass, Mid, Treble, Ultra Hi",
+    "tonestack": null,
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "bass"
+    ],
+    "gainBasis": "“Ampeg Portaflex bass amp”; bass amp with Gain/Volume, “Ultra-high for snap”",
+    "gainConfidence": "med"
+  },
+  "PRINCETONE 5F2": {
+    "realAmp": "Fender Tweed Princeton Late ‘50s 5F2-A model",
+    "cab": "1x8 Princetone",
+    "cabOrig": "Fender 1x10 (C10n)",
+    "powerTubes": "6V6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume, Tone",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "clean"
+    ],
+    "gainBasis": "Fender Tweed Princeton late ’50s 5F2-A; low-power tweed combo — “Princeton-Amp is cleaner than Princeton-Reverb when volume is pushed beyond 3-4”",
+    "gainConfidence": "med"
+  },
+  "PRINCETONE AA964": {
+    "realAmp": "Fender Princeton 68- 70 Silverface AA964, no reverb",
+    "cab": "1x10 SF Princetone",
+    "cabOrig": "Fender 1x10",
+    "powerTubes": "6V6",
+    "preampTubes": "7025 (12AX7A Syl)",
+    "controls": "Volume, Bass, Treble",
+    "tonestack": "MID",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "blues",
+      "country"
+    ],
+    "gainBasis": "Fender Princeton 68-70 Silverface AA964, no reverb — universally-documented Fender clean combo",
+    "gainConfidence": "med"
+  },
+  "PRINCETONE REVERB": {
+    "realAmp": "Fender Princeton Reverb g1966 Blackface AA964 model",
+    "cab": "1x10 SF Princetone",
+    "cabOrig": "Fender 1x10",
+    "powerTubes": "6V6",
+    "preampTubes": "7025 (12AX7A Syl)",
+    "controls": "Volume, Bass, Treble",
+    "tonestack": "MID",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "blues",
+      "country"
+    ],
+    "gainBasis": "Fender Princeton Reverb blackface AA964 — universally documented low-wattage clean/breakup combo; body: “Princeton-Amp is cleaner vs Princeton Reverb if volume pushed past 3-4”",
+    "gainConfidence": "high"
+  },
+  "PVH 6160 BLOCK": {
+    "realAmp": "Peavey “Block Letter” EVH 5150, Lead channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A (JJ)",
+    "controls": "Pre Gain, Post Gain (Master), Low, Mid, High, Resonance/ Depth, Presence",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock",
+      "punk"
+    ],
+    "gainBasis": "“5150 has gained popularity with modern hard rock, hardcore punk & metal bands/guitarists due to large amount of distortion”",
+    "gainConfidence": "high"
+  },
+  "PVH 6160 BLOCK CRUNCH": {
+    "realAmp": "Peavey’s 6505, Rhythm channel, Crunch switch engaged",
+    "cab": "4x12 5153",
+    "cabOrig": "Peavey 4x12 (Sheffield 1200)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A (JJ)",
+    "controls": "Pre Gain, Post Gain (Master), Low, Mid, High, Resonance/Depth, Presence, Bright switch, Crunch switch",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "“Peavey’s 6505, Rhythm channel, Crunch switch engaged” — rhythm/crunch channel of the 5150/6505 high-gain platform",
+    "gainConfidence": "med"
+  },
+  "PVH 6160+ CLEAN": {
+    "realAmp": "Peavey 6160+/EVH 5150II, Clean chnl, Bright sw off",
+    "cab": "4x12 5153",
+    "cabOrig": "Peavey 4x12 (V30)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A",
+    "controls": "Pre (Input Drive), Bright switch (6dB@2kHz), Crunch switch, Low, Mid, High, Post (Master), Resonance (Depth), Presence",
+    "tonestack": "POST",
+    "variants": [
+      "PVH 6160+ CLEAN BRIGHT",
+      "PVH 6160+ CRUNCH",
+      "PVH 6160+ CRUNCH BRIGHT",
+      "PVH 6160+ LEAD"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean"
+    ],
+    "gainBasis": "“Peavey 6160+/EVH 5150II, Clean chnl”",
+    "gainConfidence": "high"
+  },
+  "PVH 6160+ CLEAN BRIGHT": {
+    "realAmp": "Peavey 6160+/EVH 5150II, Clean chnl, Bright on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "PVH 6160+ CLEAN",
+      "PVH 6160+ CRUNCH",
+      "PVH 6160+ CRUNCH BRIGHT",
+      "PVH 6160+ LEAD"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean"
+    ],
+    "gainBasis": "“Peavey 6160+/EVH 5150II, Clean chnl, Bright on”",
+    "gainConfidence": "high"
+  },
+  "PVH 6160+ CRUNCH": {
+    "realAmp": "Peavey 6160+/EVH 5150II, Crunch chnl, Bright off",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "PVH 6160+ CLEAN",
+      "PVH 6160+ CLEAN BRIGHT",
+      "PVH 6160+ CRUNCH BRIGHT",
+      "PVH 6160+ LEAD"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "“Peavey 6160+/EVH 5150II, Crunch chnl” — crunch channel of the 5150II high-gain platform",
+    "gainConfidence": "med"
+  },
+  "PVH 6160+ CRUNCH BRIGHT": {
+    "realAmp": "Peavey 6160+/EVH 5150II, Crunch chnl, Bright on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "PVH 6160+ CLEAN",
+      "PVH 6160+ CLEAN BRIGHT",
+      "PVH 6160+ CRUNCH",
+      "PVH 6160+ LEAD"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "“Peavey 6160+/EVH 5150II, Crunch chnl, Bright on”",
+    "gainConfidence": "med"
+  },
+  "PVH 6160+ LEAD": {
+    "realAmp": "Peavey 6160+/EVH 5150II, Lead channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Pre, Low, Mid, High, Post, Resonance, Presence",
+    "tonestack": null,
+    "variants": [
+      "PVH 6160+ CLEAN",
+      "PVH 6160+ CLEAN BRIGHT",
+      "PVH 6160+ CRUNCH",
+      "PVH 6160+ CRUNCH BRIGHT"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "“Peavey 6160+/EVH 5150II, Lead channel” — lead channel of the 5150II, universally documented high-gain metal amp",
+    "gainConfidence": "high"
+  },
+  "RECTO1 ORANGE MODERN": {
+    "realAmp": "MESA Dual Rectifier 2-channel, Orange, Modern mode",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": "Mesa 4x12 (V30)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A",
+    "controls": "Gain, MV, Bass, Mid, Treble, Presence, Supply Sag",
+    "tonestack": "POST",
+    "variants": [
+      "RECTO1 RED"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "MESA Dual Rectifier, Modern mode — universally documented high-gain metal amp",
+    "gainConfidence": "high"
+  },
+  "RECTO1 ORANGE NORMAL": {
+    "realAmp": "MESA Dual Rectifier 2-ch, Orange, Vintage mode",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "mid-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "“MESA Dual Rectifier 2-ch, Orange, Vintage mode” — lower-gain vintage voicing of the Recto",
+    "gainConfidence": "med"
+  },
+  "RECTO1 RED": {
+    "realAmp": "MESA Dual Rectifier 2-channel, Red, Modern",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "RECTO1 ORANGE MODERN"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "“MESA Dual Rectifier 2-channel, Red, Modern” — highest-gain channel/mode of the Recto",
+    "gainConfidence": "high"
+  },
+  "RECTO2 ORANGE MODERN": {
+    "realAmp": "MESA Dual Rectifier 3-chnl, Orange, Modern",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "RECTO2 ORANGE VINTAGE",
+      "RECTO2 RED MODERN",
+      "RECTO2 RED VINTAGE"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "“MESA Dual Rectifier 3-chnl, Orange, Modern” — high-gain Modern mode",
+    "gainConfidence": "high"
+  },
+  "RECTO2 ORANGE VINTAGE": {
+    "realAmp": "MESA Dual Rectifier 3-chnl, Orange, Vintage",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "RECTO2 ORANGE MODERN",
+      "RECTO2 RED MODERN",
+      "RECTO2 RED VINTAGE"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "“MESA Dual Rectifier 3-chnl, Orange, Vintage” — lower-gain vintage voicing",
+    "gainConfidence": "med"
+  },
+  "RECTO2 RED MODERN": {
+    "realAmp": "MESA Dual Rectifier 3-channel, Red, Modern",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "RECTO2 ORANGE MODERN",
+      "RECTO2 ORANGE VINTAGE",
+      "RECTO2 RED VINTAGE"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "“MESA Dual Rectifier 3-channel, Red, Modern” — highest-gain channel/mode",
+    "gainConfidence": "high"
+  },
+  "RECTO2 RED VINTAGE": {
+    "realAmp": "MESA Dual Rectifier 3-channel , Red, Vintage",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "RECTO2 ORANGE MODERN",
+      "RECTO2 ORANGE VINTAGE",
+      "RECTO2 RED MODERN"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "“MESA Dual Rectifier 3-channel, Red, Vintage” — hottest channel, vintage voicing",
+    "gainConfidence": "med"
+  },
+  "REVV GEN GREEN 1": {
+    "realAmp": "REVV GENERATOR 120 MKIII Rev A Green channel, Drive switch: off",
+    "cab": "4x12 Friedman V30",
+    "cabOrig": "Revv 4x12 (V30)",
+    "powerTubes": "6L6 (but KT88 & EL34 work too)",
+    "preampTubes": "12AX7",
+    "controls": "Gain, Bass, Mid, Treble, Level, MV, Presence, Depth",
+    "tonestack": "POST",
+    "variants": [
+      "REVV GEN GREEN 2",
+      "REVV GEN GREEN 3"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "“Green channel reminds of straight Marshall-esque rock tone” (Drive switch off)",
+    "gainConfidence": "med"
+  },
+  "REVV GEN GREEN 2": {
+    "realAmp": "REVV GENERATOR 120 MKIII Rev A Green channel, Drive switch: blue",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "REVV GEN GREEN 1",
+      "REVV GEN GREEN 3"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "Revv Generator 120 Green channel is the documented crunch/rhythm channel; Drive switch blue pushes harder",
+    "gainConfidence": "med"
+  },
+  "REVV GEN GREEN 3": {
+    "realAmp": "REVV GENERATOR 120 MKIII Rev A Green channel, Drive switch: red",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "REVV GEN GREEN 1",
+      "REVV GEN GREEN 2"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "Revv Generator 120 Green channel (crunch channel), Drive switch red",
+    "gainConfidence": "med"
+  },
+  "REVV GEN PURPLE 1": {
+    "realAmp": "REVV GENERATOR 120 MKIII Rev A Purple Gain channel, Aggression: least (green)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "REVV GEN PURPLE 2"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"Purple Gain channel (think SLO, Engl Savage)... Interacts with Gain, results from breakup rock to metal rhythm/lead tones\"; least aggression, \"less gain\"",
+    "gainConfidence": "med"
+  },
+  "REVV GEN PURPLE 2": {
+    "realAmp": "REVV GENERATOR 120 MKIII Rev A Purple Gain channel, Aggression: tight (blue)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "REVV GEN PURPLE 1"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "\"Purple Gain channel (think SLO, Engl Savage)... results from breakup rock to metal rhythm/lead tones\"; tight saturation",
+    "gainConfidence": "med"
+  },
+  "REVV GEN PURPLE 3": {
+    "realAmp": "REVV GENERATOR 120 MKIII Rev A",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "REVV GEN RED 1",
+      "REVV GEN RED 2",
+      "REVV GEN RED 3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "Purple Gain channel (think SLO, Engl), Aggression fat (red) = high/fattest saturation",
+    "gainConfidence": "med"
+  },
+  "REVV GEN RED 1": {
+    "realAmp": "REVV GENERATOR 120 MKIII Rev A",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "REVV GEN PURPLE 3",
+      "REVV GEN RED 2",
+      "REVV GEN RED 3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "\"Red Gain channel (think Recto)... everything from broken-up rock tones to metal rhythm tones & lead tones\"",
+    "gainConfidence": "med"
+  },
+  "REVV GEN RED 2": {
+    "realAmp": "REVV GENERATOR 120 MKIII Rev A",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "REVV GEN PURPLE 3",
+      "REVV GEN RED 1",
+      "REVV GEN RED 3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "Red Gain channel (think Recto), tight saturation; \"metal rhythm tones & lead tones\"",
+    "gainConfidence": "med"
+  },
+  "REVV GEN RED 3": {
+    "realAmp": "REVV GENERATOR 120 MKIII Rev A",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "REVV GEN PURPLE 3",
+      "REVV GEN RED 1",
+      "REVV GEN RED 2"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "Red Gain channel (think Recto), Aggression fat (red) highest/fattest saturation",
+    "gainConfidence": "med"
+  },
+  "RUBY ROCKET": {
+    "realAmp": "Paul Ruby Rocket",
+    "cab": "1x12 Div13 CJ",
+    "cabOrig": "1x12 (Alnico/G12M)",
+    "powerTubes": "EL84",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume, Bass, Treble, Cut, Bright switch",
+    "tonestack": "POST",
+    "variants": [
+      "RUBY ROCKET BRIGHT"
+    ],
+    "gain": "breakup",
+    "genres": [
+      "classic-rock",
+      "boutique"
+    ],
+    "gainBasis": "\"sound like a VOX AC30 Top Boost\"; \"I especially like the edge-of-breakup tone of the models\"",
+    "gainConfidence": "high"
+  },
+  "RUBY ROCKET BRIGHT": {
+    "realAmp": "Paul Ruby Rocket , Bright switch: on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "RUBY ROCKET"
+    ],
+    "gain": "breakup",
+    "genres": [
+      "classic-rock",
+      "boutique"
+    ],
+    "gainBasis": "Paul Ruby Rocket (VOX AC30 Top Boost-style), Bright on; \"edge-of-breakup tone\"",
+    "gainConfidence": "high"
+  },
+  "SHIVER CLEAN": {
+    "realAmp": "Bogner Shiva 20th Anniversary, Clean channel",
+    "cab": "2x12 Lead 80",
+    "cabOrig": "Bogner 1x12 or 2x12 (Classic 80, V30)",
+    "powerTubes": "KT88",
+    "preampTubes": "ECC83",
+    "controls": "Volume, Bass, Treble, Bright switch, Presence, Master, Excursion (Depth)",
+    "tonestack": "MID",
+    "variants": [
+      "SHIVER LEAD"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "boutique"
+    ],
+    "gainBasis": "Bogner Shiva Clean channel: \"Warm clean tone\"; \"Stays clean until high Volume settings\"",
+    "gainConfidence": "high"
+  },
+  "SHIVER LEAD": {
+    "realAmp": "Bogner Shiva 20th Anniversary, Lead channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Gain, Bass, Middle, Treble, Bright switch, Presence, Master, Excursion (Depth)",
+    "tonestack": "POST",
+    "variants": [
+      "SHIVER CLEAN"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "\"great amp for classic rock tones. Metal ain't its thing\"; \"higher gain & slightly more refined type of gain\"",
+    "gainConfidence": "high"
+  },
+  "SOLO 88 CLEAN": {
+    "realAmp": "Soldano X88R preamp, Clean channel",
+    "cab": "4x12 Solo 100",
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A",
+    "controls": "Gain, Bass, Middle, Treble, Volume, Bright switch",
+    "tonestack": null,
+    "variants": [
+      "SOLO 88 LEAD",
+      "SOLO 88 RHYTHM"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean"
+    ],
+    "gainBasis": "Soldano X88R preamp, Clean channel",
+    "gainConfidence": "med"
+  },
+  "SOLO 88 LEAD": {
+    "realAmp": "Soldano X88R preamp, Lead channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "SOLO 88 CLEAN",
+      "SOLO 88 RHYTHM"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Soldano X88R Lead channel using SLO-100 power amp; SLO-100 is the universally-documented high-gain lead amp",
+    "gainConfidence": "high"
+  },
+  "SOLO 88 RHYTHM": {
+    "realAmp": "Soldano X88R preamp, Rhythm channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "SOLO 88 CLEAN",
+      "SOLO 88 LEAD"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "\"rhythm channel of X99 is identical to an SLO-100\"; SLO-100 rhythm/crunch channel",
+    "gainConfidence": "med"
+  },
+  "SOLO 99 CLEAN": {
+    "realAmp": "Soldano/Caswell X99 preamp, Clean channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A",
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "SOLO 99 LEAD",
+      "SOLO 99 LEAD BRIGHT"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean"
+    ],
+    "gainBasis": "Soldano/Caswell X99 preamp, Clean channel, SLO-100 power amp",
+    "gainConfidence": "med"
+  },
+  "SOLO 99 LEAD": {
+    "realAmp": "Soldano/Caswell X99 preamp, Lead channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "SOLO 99 CLEAN",
+      "SOLO 99 LEAD BRIGHT"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Model: Soldano/Caswell X99 preamp, Lead channel; Soldano lead-channel preamp, universally documented high-gain",
+    "gainConfidence": "med"
+  },
+  "SOLO 99 LEAD BRIGHT": {
+    "realAmp": "Soldano/Caswell X99 preamp, Lead channel, Bright: on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "SOLO 99 CLEAN",
+      "SOLO 99 LEAD"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Model: Soldano/Caswell X99 preamp, Lead channel, Bright: on",
+    "gainConfidence": "med"
+  },
+  "SOLO 100 CLEAN": {
+    "realAmp": "Soldano SLO-100, Normal channel, Clean mode",
+    "cab": "4x12 Solo 100",
+    "cabOrig": "Soldano 4x12 (Eminence)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A",
+    "controls": "Gain, Bass, Middle, Treble, Master, Presence, Bright switch (Normal channel only), Depth (with Depth mod)",
+    "tonestack": "POST",
+    "variants": [
+      "SOLO 100 LEAD",
+      "SOLO 100 RHYTHM"
+    ],
+    "gain": "clean",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "Model: Soldano SLO-100, Normal channel, Clean mode; 'For full-bodied clean tone' / Clean mode of SLO-100",
+    "gainConfidence": "high"
+  },
+  "SOLO 100 LEAD": {
+    "realAmp": "Soldano SLO-100, Overdrive channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "SOLO 100 CLEAN",
+      "SOLO 100 RHYTHM"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal",
+      "blues"
+    ],
+    "gainBasis": "'100w Super Lead Overdrive sets ... the benchmark, for high-gain tube amp OD & distortion ... the heart & soul of many of Rock, Metal & Electric Blues' most ... players'",
+    "gainConfidence": "high"
+  },
+  "SOLO 100 RHYTHM": {
+    "realAmp": "Soldano SLO-100, Normal chnl, Rhythm mode",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "SOLO 100 CLEAN",
+      "SOLO 100 LEAD"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "hard-rock",
+      "classic-rock"
+    ],
+    "gainBasis": "Model: Soldano SLO-100, Normal chnl, Rhythm mode (rhythm/crunch channel of SLO-100)",
+    "gainConfidence": "med"
+  },
+  "SPAWN NITROUS 1": {
+    "realAmp": "Splawn Nitro, OD channel, OD-1 (Rhythm mode)",
+    "cab": "4x12 Lerxst",
+    "cabOrig": "Splawn 4x12 (G12M, G12-65, V30)",
+    "powerTubes": "KT88 (EL34 & 6L6 work too)",
+    "preampTubes": "12AX7A",
+    "controls": "Resonance, Presence, Bass, Middle, Treble, Master, Gain",
+    "tonestack": "POST",
+    "variants": [
+      "SPAWN NITROUS 2"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "'Splawn builds its own hot-rod versions of modded Marshalls'; 'Think Recto, EVH, Peavey etc.'",
+    "gainConfidence": "high"
+  },
+  "SPAWN NITROUS 2": {
+    "realAmp": "Splawn Nitro, OD channel, OD-2 (Lead mode)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "SPAWN NITROUS 1"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "Model: Splawn Nitro, OD channel, OD-2 (Lead mode); 'More saturation vs Splawn Quickrod'",
+    "gainConfidence": "high"
+  },
+  "SPAWN Q-ROD OD1-1": {
+    "realAmp": "Splawn Quickrod, OD channel, Rhythm mode, 1st gear (Plexi)",
+    "cab": "4x12 Friedman GB",
+    "cabOrig": "Splawn (G12M, G12-65, V30)",
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7A",
+    "controls": "Presence, Bass, Middle, Treble, Volume, Gain, Mode",
+    "tonestack": "POST",
+    "variants": [
+      "SPAWN Q-ROD OD1-2",
+      "SPAWN Q-ROD OD1-3",
+      "SPAWN Q-ROD OD2-1",
+      "SPAWN Q-ROD OD2-2",
+      "SPAWN Q-ROD OD2-3"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock"
+    ],
+    "gainBasis": "'1st gear designed to sound like Plexi'",
+    "gainConfidence": "high"
+  },
+  "SPAWN Q-ROD OD1-2": {
+    "realAmp": "Splawn Quickrod, OD ch, Rhythm, gear 3(hot rod JCM800)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "SPAWN Q-ROD OD1-1",
+      "SPAWN Q-ROD OD1-3",
+      "SPAWN Q-ROD OD2-1",
+      "SPAWN Q-ROD OD2-2",
+      "SPAWN Q-ROD OD2-3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Model: Splawn Quickrod, OD ch, Rhythm, gear 3(hot rod JCM800)",
+    "gainConfidence": "high"
+  },
+  "SPAWN Q-ROD OD1-3": {
+    "realAmp": "Splawn Quickrod, OD, Rhythm, gear 3 (super hot-rod 800)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "SPAWN Q-ROD OD1-1",
+      "SPAWN Q-ROD OD1-2",
+      "SPAWN Q-ROD OD2-1",
+      "SPAWN Q-ROD OD2-2",
+      "SPAWN Q-ROD OD2-3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "'gear 3 (super hot-rod 800)'",
+    "gainConfidence": "high"
+  },
+  "SPAWN Q-ROD OD2-1": {
+    "realAmp": "Splawn Quickrod, OD ch, Lead mode, 1st gear",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "SPAWN Q-ROD OD1-1",
+      "SPAWN Q-ROD OD1-2",
+      "SPAWN Q-ROD OD1-3",
+      "SPAWN Q-ROD OD2-2",
+      "SPAWN Q-ROD OD2-3"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "hard-rock"
+    ],
+    "gainBasis": "OD ch, Lead mode, 1st gear (Plexi-voiced) with 'additional gain boost' (OD2 models)",
+    "gainConfidence": "med"
+  },
+  "SPAWN Q-ROD OD2-2": {
+    "realAmp": "Splawn Quickrod, OD ch, Lead mode, 2nd gear",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "SPAWN Q-ROD OD1-1",
+      "SPAWN Q-ROD OD1-2",
+      "SPAWN Q-ROD OD1-3",
+      "SPAWN Q-ROD OD2-1",
+      "SPAWN Q-ROD OD2-3"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "Lead mode 2nd gear (hot-rodded JCM 800) with 'additional gain boost'",
+    "gainConfidence": "high"
+  },
+  "SPAWN Q-ROD OD2-3": {
+    "realAmp": "Splawn Quickrod, OD ch, Lead mode, 3rd gear",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "SPAWN Q-ROD OD1-1",
+      "SPAWN Q-ROD OD1-2",
+      "SPAWN Q-ROD OD1-3",
+      "SPAWN Q-ROD OD2-1",
+      "SPAWN Q-ROD OD2-2"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "Lead mode 3rd gear (super hot-rodded JCM 800) with 'additional gain boost'",
+    "gainConfidence": "high"
+  },
+  "SUHR BADGER 18": {
+    "realAmp": "Suhr Badger 18",
+    "cab": "1x12 Hot Kitty",
+    "cabOrig": "Suhr 1(or 2)x12 V30",
+    "powerTubes": "EL84",
+    "preampTubes": "12AX7A Syl",
+    "controls": "Bass, Middle, Treble, Gain (Drive), Drive (Master)",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "classic-rock",
+      "blues",
+      "boutique"
+    ],
+    "gainBasis": "'they're edge-of-breakup amps'; 'g18w amps are mostly used for crunchy tones at low volume levels'; 'Capable of achieving clear cleans to saturated leads'",
+    "gainConfidence": "high"
+  },
+  "SUHR BADGER 30": {
+    "realAmp": "Suhr Badger 30",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": "EL34",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "classic-rock",
+      "blues",
+      "boutique"
+    ],
+    "gainBasis": "'variety of full, punchy cleans & rich, tight dynamic OD tones'; 'clear cleans to saturated leads. 30w has more headroom'",
+    "gainConfidence": "high"
+  },
+  "SUPER VERB NORMAL": {
+    "realAmp": "1964 Fender Super Reverb",
+    "cab": "4x10 Bassguy RI",
+    "cabOrig": "Fender 4x10",
+    "powerTubes": "6L6",
+    "preampTubes": "7025 (12AX7A Syl)",
+    "controls": "Vol, Bass, Treble, Bright",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "blues",
+      "country",
+      "surf"
+    ],
+    "gainBasis": "1964 Fender Super Reverb AB763 Normal Channel; 'Super Reverb commonly used by blues guitarists for its loud, warm tube distortion'",
+    "gainConfidence": "high"
+  },
+  "SUPER VERB VIBRATO": {
+    "realAmp": "‘64 Fender Super Reverb AB763, Vibrato chnl",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Volume, Bass, Middle, Treble, Bright switch",
+    "tonestack": null,
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "'64 Fender Super Reverb AB763, Vibrato chnl — universally documented blackface Fender clean amp",
+    "gainConfidence": "high"
+  },
+  "SUPERTWEED": {
+    "realAmp": "Custom FAS model",
+    "cab": "1x12 Deluxe Tweed",
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "BIG HAIR",
+      "FAS LEAD 1",
+      "FAS LEAD 2",
+      "FAS MODERN"
+    ],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "“Starts distort early, set Input Drive low, below 2”; based on Tweed Deluxe",
+    "gainConfidence": "med"
+  },
+  "SUPREMO TREM": {
+    "realAmp": "Supro 1964T",
+    "cab": "1x12 AC20",
+    "cabOrig": "Supro 2x12",
+    "powerTubes": "6973",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume, Tone",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "“Mid-heavy edgy & dirty amp, used by Jimmy Page on early Zep albums”",
+    "gainConfidence": "med"
+  },
+  "SUPRO BLACK MAGICK": {
+    "realAmp": "Supro 1695T Black Magick",
+    "cab": "1x12 Black Magick",
+    "cabOrig": "Supro 1x12",
+    "powerTubes": "6973",
+    "preampTubes": "12AX7",
+    "controls": "Volume, Tone, Tremolo effect",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "“Has phenomenal touch sensitivity & bite”; 25w Class A all-tube Supro",
+    "gainConfidence": "med"
+  },
+  "SV BASS 1": {
+    "realAmp": "Ampeg SVT Bass Amp",
+    "cab": "8x10 SV Bass",
+    "cabOrig": "SVT 8x10",
+    "powerTubes": "6550",
+    "preampTubes": "12AX7 (Syl)",
+    "controls": "Vol, Treble, Midrange, Bass, MV, Ultra-Hi switch (Bright)",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "bass"
+    ],
+    "gainBasis": "Ampeg SVT — “Maybe the world's most popular bass amp”",
+    "gainConfidence": "high"
+  },
+  "SV BASS 2": {
+    "realAmp": "1970 Ampeg SVT, channel 1, midrange switch in position 3",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "bass"
+    ],
+    "gainBasis": "1970 Ampeg SVT bass amp (see SVT info)",
+    "gainConfidence": "high"
+  },
+  "TEXAS STAR CLEAN": {
+    "realAmp": "MESA Lone Star Classic, Clean channel",
+    "cab": "2x12 Texas Star",
+    "cabOrig": "Mesa 2x12 (C90)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7",
+    "controls": "Gain, Treble, Mid, Bass, Presence, MV, Channel Master",
+    "tonestack": "PRE",
+    "variants": [
+      "TEXAS STAR LEAD"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "blues",
+      "country"
+    ],
+    "gainBasis": "MESA Lone Star Classic, Clean channel — “on a clean amp model”",
+    "gainConfidence": "high"
+  },
+  "TEXAS STAR LEAD": {
+    "realAmp": "MESA Lone Star Classic, Lead channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "TEXAS STAR CLEAN"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "classic-rock",
+      "blues",
+      "hard-rock"
+    ],
+    "gainBasis": "MESA Lone Star Classic, Lead channel — universally documented mid-gain lead channel",
+    "gainConfidence": "med"
+  },
+  "THORDENDAL MODERN": {
+    "realAmp": "Custom model MESA Dual Rectifier, Modern mode",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": "Mesa 4x12 (V30)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A",
+    "controls": "Gain, MV, Bass, Middle, Treble, Presence, Supply Sag",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "djent"
+    ],
+    "gainBasis": "“Fredrik Thordendal is the guitar player of metal band Meshuggah... known for djent-style metal”; MESA Dual Rectifier Modern mode",
+    "gainConfidence": "high"
+  },
+  "THORDENDAL VINTAGE": {
+    "realAmp": "Custom model of MESA Dual Rectifier, Vintage mode",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "djent"
+    ],
+    "gainBasis": "MESA Dual Rectifier Vintage mode, Thordendal (Meshuggah) custom model",
+    "gainConfidence": "high"
+  },
+  "TREMOLO LUX": {
+    "realAmp": "Fender Tremolux g60’s Blackface, AA763",
+    "cab": "2x12 Super 6G4",
+    "cabOrig": "Fender 2x10",
+    "powerTubes": "6L6",
+    "preampTubes": "7025 (12AX7 Syl)",
+    "controls": "Vol, Bright, Treble, Bass",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "“stays rather clean (with single coils) for the most part of the Volume control”",
+    "gainConfidence": "high"
+  },
+  "TRIPLE CREST 2": {
+    "realAmp": "MESA Triple Crown TC-100, Channel 2 (Lo)",
+    "cab": "4x12 USA Mc90",
+    "cabOrig": "MESA cab with V30 speakers",
+    "powerTubes": "EL34",
+    "preampTubes": "12AX7",
+    "controls": "Gain, Treble, Mid, Bass, Presence",
+    "tonestack": null,
+    "variants": [
+      "TRIPLE CREST 3"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "hard-rock",
+      "classic-rock",
+      "metal"
+    ],
+    "gainBasis": "“Channel 2 starts out in lower saturation GAIN ranges”",
+    "gainConfidence": "med"
+  },
+  "TRIPLE CREST 3": {
+    "realAmp": "MESA Triple Crown TC-100, Channel 3 (Hi)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "TRIPLE CREST 2"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock",
+      "djent"
+    ],
+    "gainBasis": "“Channel 3 delivers full-blown, yet controlled, mayhem with even more saturation & harmonic layering”; “high gain voice”",
+    "gainConfidence": "high"
+  },
+  "TUBE PRE": {
+    "realAmp": "Generic tube preamp model",
+    "cab": "1x12 G12T-100",
+    "cabOrig": null,
+    "powerTubes": "5881",
+    "preampTubes": "12AX7",
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "clean",
+    "genres": [],
+    "gainBasis": "“generic model of a 12AX7 preamp tube, neutral & low-gain” — utility model, not a voiced guitar amp",
+    "gainConfidence": "med"
+  },
+  "TWO STONE J35": {
+    "realAmp": "Two-Rock Jet 35",
+    "cab": "4x12 Rumble EV12L",
+    "cabOrig": "Two Stone 2x12 (G12-65)",
+    "powerTubes": "6L6 (6v6 used in 22w version)",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Treble (pulled: Bright), Mid (pulled: boost), Bass (pulled: Deep), Gain (pulled: Bypass), Master (pulled: Lead mode), Lead Gain, Lead Master & Reverb",
+    "tonestack": "PRE",
+    "variants": [
+      "TWO STONE J35 PAB"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "boutique",
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "“D-style amp model, I've used it successfully for rock leads”; Two-Rock Jet 35 Dumble-style (John Mayer)",
+    "gainConfidence": "med"
+  },
+  "TWO STONE J35 PAB": {
+    "realAmp": "Two-Rock Jet 35, Lead mode PAB on (tonestack byp)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "TWO STONE J35"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "boutique",
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "Two-Rock Jet 35, Lead mode PAB on (tonestack bypass) — same Dumble-style amp",
+    "gainConfidence": "med"
+  },
+  "USA BASS 400 1": {
+    "realAmp": "MESA Bass 400 amp",
+    "cab": "1x15 Heart Key",
+    "cabOrig": "Mesa bass cab",
+    "powerTubes": "6550",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Bass, Middle, Treble, Pull Bright, Bass Shift, 7-band GEQ, Master, Volume",
+    "tonestack": "POST",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "bass",
+      "funk"
+    ],
+    "gainBasis": "\"Channel One: Input 1 & Volume l, offers high headroom preamp... Pull Bright switch built into Volume 1 can be great for funk bass\"",
+    "gainConfidence": "high"
+  },
+  "USA BASS 400 2": {
+    "realAmp": "MESA Bass 400 bass amp, Bass Shift on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "bass"
+    ],
+    "gainBasis": "\"Model: MESA Bass 400 bass amp, Bass Shift on\"; high-headroom bass amp per USA bass 400 1",
+    "gainConfidence": "high"
+  },
+  "USA JP IIC+ GREEN": {
+    "realAmp": "MESA/Boogie JP-2C, Green: channel 1",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": "Mesa 1x12 (C90, V30)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A",
+    "controls": "Gain, Master, Presence, Treble, Mid, Bass, GEQ,",
+    "tonestack": "PRE",
+    "variants": [
+      "USA JP IIC+ RED",
+      "USA JP IIC+ RED SHRED",
+      "USA JP IIC+ YELLOW",
+      "USA JP IIC+ YELLOW SHRED"
+    ],
+    "gain": "clean",
+    "genres": [
+      "metal",
+      "fusion"
+    ],
+    "gainBasis": "\"JP has less gain & much larger midrange pot\"; channel 1 of John Petrucci's MESA/Boogie JP-2C signature",
+    "gainConfidence": "med"
+  },
+  "USA JP IIC+ RED": {
+    "realAmp": "MESA/Boogie JP-2C, Red: channel 3",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "(Pull) Gain, Master, (Pull) Presence, Presence Shift, Treble, Mid, Bass, GEQ, Shred mode switch",
+    "tonestack": null,
+    "variants": [
+      "USA JP IIC+ GREEN",
+      "USA JP IIC+ RED SHRED",
+      "USA JP IIC+ YELLOW",
+      "USA JP IIC+ YELLOW SHRED"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "fusion"
+    ],
+    "gainBasis": "\"Red is 5.7\" (fixed internal gain), channel 3 of John Petrucci's MESA/Boogie JP-2C",
+    "gainConfidence": "high"
+  },
+  "USA JP IIC+ RED SHRED": {
+    "realAmp": "MESA/Boogie JP-2C, Red: channel 3, Shred mode",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "USA JP IIC+ GREEN",
+      "USA JP IIC+ RED",
+      "USA JP IIC+ YELLOW",
+      "USA JP IIC+ YELLOW SHRED"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "fusion"
+    ],
+    "gainBasis": "\"Red: channel 3, Shred mode\"; Shred is \"a clean boost on input, like Tube Screamer\" on the high-gain Red channel",
+    "gainConfidence": "high"
+  },
+  "USA JP IIC+ YELLOW": {
+    "realAmp": "MESA/Boogie JP-2C, Yellow: channel 2",
+    "cab": "(Pull) Gain, Master, (Pull) Presence, Presence Shift, Treble, Mid, Bass, GEQ, Shred mode switch",
+    "cabOrig": "(Pull) Gain, Master, (Pull) Presence, Presence Shift, Treble, Mid, Bass, GEQ, Shred mode switch",
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "USA JP IIC+ GREEN",
+      "USA JP IIC+ RED",
+      "USA JP IIC+ RED SHRED",
+      "USA JP IIC+ YELLOW SHRED"
+    ],
+    "gain": "mid-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "\"Yellow is 2.9. Red is 5.7\" (fixed internal gain), channel 2 of the JP-2C",
+    "gainConfidence": "med"
+  },
+  "USA JP IIC+ YELLOW SHRED": {
+    "realAmp": "MESA/Boogie JP-2C, Yellow: channel 2, Shred mode",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "USA JP IIC+ GREEN",
+      "USA JP IIC+ RED",
+      "USA JP IIC+ RED SHRED",
+      "USA JP IIC+ YELLOW"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "\"Yellow: channel 2, Shred mode\"; Shred adds \"a clean boost on input, like Tube Screamer\"",
+    "gainConfidence": "med"
+  },
+  "USA METRO BLUES": {
+    "realAmp": "MESA Subway Blues",
+    "cab": "1x10 Metro Blues",
+    "cabOrig": "Mesa 1x10 (Eminence Black Shadow)",
+    "powerTubes": "EL84",
+    "preampTubes": "12AX7A",
+    "controls": "Volume, Bass, Mid, Treble, FAT switch",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "blues",
+      "clean"
+    ],
+    "gainBasis": "\"Nice amp for clean tones. If turned up, OD gets boxy\"; MESA Subway Blues, EL84",
+    "gainConfidence": "high"
+  },
+  "USA MK IIC+": {
+    "realAmp": "MESA/Boogie Mark IIC+",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": "Mesa 1x12 (C90, EVM)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A",
+    "controls": "Volume (pull: Bright), Treble (pull: Shift = Fat), Bass (pull: Shift, not modeled), Middle, Presence, Master rhythm (pull: Deep), Lead Drive & Master Lead (pull: Bright)",
+    "tonestack": "PRE",
+    "variants": [
+      "USA MK IIC+ BRIGHT",
+      "USA MK IIC+ DEEP"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "fusion"
+    ],
+    "gainBasis": "\"Known for smooth high gain tones, loved by metal heads & fusion guitarists\"",
+    "gainConfidence": "high"
+  },
+  "USA MK IIC+ BRIGHT": {
+    "realAmp": "MESA/Boogie Mark IIC+, Lead Master, Pull Bright on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "USA MK IIC+",
+      "USA MK IIC+ DEEP"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "fusion"
+    ],
+    "gainBasis": "\"Mark IIC+, Lead Master, Pull Bright on\"; see USA MK IIC+ high-gain",
+    "gainConfidence": "high"
+  },
+  "USA MK IIC+ DEEP": {
+    "realAmp": "MESA/Boogie Mark IIC+, Lead Master, Pull Deep on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "USA MK IIC+",
+      "USA MK IIC+ BRIGHT"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "fusion"
+    ],
+    "gainBasis": "\"Mark IIC+, Lead Master, Pull Deep on\"; see USA MK IIC+ high-gain",
+    "gainConfidence": "high"
+  },
+  "USA MK IIC+ DEEP BRIGHT": {
+    "realAmp": null,
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "fusion"
+    ],
+    "gainBasis": "Variant of MESA/Boogie Mark IIC+, a universally-documented high-gain amp \"loved by metal heads & fusion guitarists\"",
+    "gainConfidence": "med"
+  },
+  "USA MK IIC++": {
+    "realAmp": "custom FAS model of MESA/Boogie IIC+",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal"
+    ],
+    "gainBasis": "\"referred to as Metallica's IIC+... part of Metallica's live sound\"",
+    "gainConfidence": "high"
+  },
+  "USA MK IV LEAD/RHYTHM": {
+    "realAmp": "MESA/Boogie Mark IV",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": "Mesa 1x12 (C90, V30)",
+    "powerTubes": "6L6 (deliver most powerful clean sounds along with richest distortion). Can also use: g1. Type 5881 (like 6L6, but just slightly less powerful, somewhat rounder, more vintage tone) g2. EL34+6L6 (for those seeking traditional British edge to their OD sounds. In Simul-Class, combo of 6L6’s & EL34’s produce louder, fatter sound, while retaining British edge. Expect clean sound to suffer a bit when EL34s are used) g3. 6V6 (for old Fender Deluxes, when Tweed/Simul-Class selected)",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Gain, Treble, Bass, Mid, Presence, Master, Graphic EQ, Pentode/Triode switch, Class-A/Simul-Class switch, Voicing switch (Mid Gain/Harmonics), Variac",
+    "tonestack": null,
+    "variants": [],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "fusion"
+    ],
+    "gainBasis": "\"famous for smooth high gain tones, endorsement by Petrucci\"; \"The Lead Mode is blistering high-gain focus\"",
+    "gainConfidence": "high"
+  },
+  "USA MK IV LEAD BRIGHT": {
+    "realAmp": "Lead channel, Voicing: Harmonics, Pull Bright on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "USA MK IV LEAD MID GAIN",
+      "USA MK IV LEAD MID GAIN BRIGHT"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "fusion"
+    ],
+    "gainBasis": "\"Lead channel, Voicing: Harmonics, Pull Bright on\"; see USA MK IV blistering high-gain Lead mode",
+    "gainConfidence": "high"
+  },
+  "USA MK IV LEAD MID GAIN": {
+    "realAmp": "Lead channel, Voicing: Mid Gain, Pull Bright off",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "USA MK IV LEAD BRIGHT",
+      "USA MK IV LEAD MID GAIN BRIGHT"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "fusion"
+    ],
+    "gainBasis": "\"Lead channel, Voicing: Mid Gain\" where \"Mid Gain delivers more gain\" on the blistering high-gain Lead mode",
+    "gainConfidence": "high"
+  },
+  "USA MK IV LEAD MID GAIN BRIGHT": {
+    "realAmp": "Lead channel, Voicing: Mid Gain, Pull Bright engaged",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "USA MK IV LEAD BRIGHT",
+      "USA MK IV LEAD MID GAIN"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal",
+      "fusion"
+    ],
+    "gainBasis": "Lead channel, with Voicing set to Mid Gain; Mesa Mark IV Lead channel is the high-gain lead voice",
+    "gainConfidence": "high"
+  },
+  "USA MK IV RHYTHM 1": {
+    "realAmp": "Rhythm 1 channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Gain, Treble, Bass, Mid, Presence, Master, Pull Bright, GEQ, Pentode/Triode switch, Class-A/Simul-Class switch, Voicing switch (Mid Gain/Harmonics), Variac",
+    "tonestack": null,
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "jazz",
+      "funk"
+    ],
+    "gainBasis": "\"the clean tone, stays really clean for the most part of its Gain range\"; \"Dark, warm jazz tone\"; \"shimmering 'funk rhythm' sound\"",
+    "gainConfidence": "high"
+  },
+  "USA MK IV RHYTHM 2": {
+    "realAmp": "Rhythm 2 channel",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Gain, Treble, Bass, Mid, Presence, Master, Pull Fat, Presence Shift, GEQ, Pentode/Triode switch, Class-A/Simul-Class switch, Voicing switch (Mid Gain/Harmonics), Variac",
+    "tonestack": null,
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "blues",
+      "hard-rock",
+      "metal"
+    ],
+    "gainBasis": "\"can produce an alternate Clean, purring Blues or grinding Crunch\"; \"For hard rock & metal sounds, pull out FAT & max RHYTHM 2 GAIN\"",
+    "gainConfidence": "high"
+  },
+  "USA MK V GREEN": {
+    "realAmp": "MESA/Boogie Mark V, Channel 1, Clean",
+    "cab": "4x12 Recto Straight",
+    "cabOrig": "Mesa 1x12 (C90, V30)",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7",
+    "controls": "Gain, Bass, Mid, Treble, Presence, Master, Normal/ Bold switch & EQ switch",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "blues"
+    ],
+    "gainBasis": "\"CHANNEL 1 has the lowest gain sounds of 3 Channels & can be thought of as Rhythm or Clean channel\"; \"tight, skinny CLEAN, a warm, rich FAT clean sound\"",
+    "gainConfidence": "high"
+  },
+  "USA MK V RED IIC+": {
+    "realAmp": "MESA/Boogie MkV, Channel 3, IIC+ mode, Bright off",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Gain, Bass, Mid, Treble, Presence, Master, Normal/ Bright, EQ switch",
+    "tonestack": null,
+    "variants": [
+      "USA MK V RED IIC+ Bright",
+      "USA MK V RED MKIV",
+      "USA MK V RED MKIV Bright",
+      "USA MK V RED XT",
+      "USA MK V RED XT Bright"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock",
+      "djent"
+    ],
+    "gainBasis": "\"Overall highest gain in amp\"; \"the foundation for players like John Petrucci, James Hetfield, Kirk Hammett\"; classic '80s Boogie high-gain Mark IIC+ lead",
+    "gainConfidence": "high"
+  },
+  "USA MK V RED IIC+ Bright": {
+    "realAmp": "MESA/Boogie MkV, Channel 3 in MK II C+ mode, Bright on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "USA MK V RED IIC+",
+      "USA MK V RED MKIV",
+      "USA MK V RED MKIV Bright",
+      "USA MK V RED XT",
+      "USA MK V RED XT Bright"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "MESA/Boogie MkV Channel 3 MkIIC+ mode (Bright on); highest-gain channel, classic Boogie high-gain lead voice",
+    "gainConfidence": "high"
+  },
+  "USA MK V RED MKIV": {
+    "realAmp": "MESA/Boogie MkV, Channel 3 in MK IV mode, Bright off",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "USA MK V RED IIC+",
+      "USA MK V RED IIC+ Bright",
+      "USA MK V RED MKIV Bright",
+      "USA MK V RED XT",
+      "USA MK V RED XT Bright"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "MkV Channel 3 MkIV mode: \"big increase in midrange gain\"; Channel 3 is overall highest gain in amp",
+    "gainConfidence": "high"
+  },
+  "USA MK V RED MKIV Bright": {
+    "realAmp": "MESA/Boogie MkV, Channel 3 in MK IV mode, Bright on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "USA MK V RED IIC+",
+      "USA MK V RED IIC+ Bright",
+      "USA MK V RED MKIV",
+      "USA MK V RED XT",
+      "USA MK V RED XT Bright"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "MkV Channel 3 MkIV mode (Bright on); high-gain lead channel of the Mark V",
+    "gainConfidence": "high"
+  },
+  "USA MK V RED XT": {
+    "realAmp": "MESA/Boogie MkV, Channel 3 in Extreme mode, Bright off",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "USA MK V RED IIC+",
+      "USA MK V RED IIC+ Bright",
+      "USA MK V RED MKIV",
+      "USA MK V RED MKIV Bright",
+      "USA MK V RED XT Bright"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "djent",
+      "hard-rock"
+    ],
+    "gainBasis": "\"EXTREME is exactly what it sounds like, extreme... the highest gain/loudest of the MkV's 9 Modes\"; \"most suited for heavy styles where max gain & lightning fast attack are the order of the day\"",
+    "gainConfidence": "high"
+  },
+  "USA MK V RED XT Bright": {
+    "realAmp": "MESA/Boogie MkV, Chnl 3, Extreme mode, Bright on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "USA MK V RED IIC+",
+      "USA MK V RED IIC+ Bright",
+      "USA MK V RED MKIV",
+      "USA MK V RED MKIV Bright",
+      "USA MK V RED XT"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "djent",
+      "hard-rock"
+    ],
+    "gainBasis": "MkV Channel 3 Extreme mode (Bright on); highest-gain/loudest of the 9 modes",
+    "gainConfidence": "high"
+  },
+  "USA PRE CLEAN": {
+    "realAmp": "MESA TriAxis preamp, Rhythm Green",
+    "cab": "2x12 Lead 80",
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Drive, Treble, Middle, Bass, Preamp Presence, P.A. Presence, Dynamic Voice (GEQ)",
+    "tonestack": null,
+    "variants": [
+      "USA PRE LD1 RED",
+      "USA PRE LD2 GREEN",
+      "USA PRE LD2 RED",
+      "USA PRE LD2 YELLOW"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "blues",
+      "fusion"
+    ],
+    "gainBasis": "\"A beyond-vintage clean sound\"; \"works great for Blues rhythm grooves\"; \"when Blues/Fusion changed & revoiced rock with tasty medium gain sounds\" (TriAxis Rhythm Green)",
+    "gainConfidence": "high"
+  },
+  "USA PRE LD1 RED": {
+    "realAmp": "MESA TriAxis preamp, Lead 1 Red (TX-4 board)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Drive, Lead Drive (Overdrive), Treble, Middle, Bass, Preamp Presence, Dynamic Voice (GEQ)",
+    "tonestack": null,
+    "variants": [
+      "USA PRE CLEAN",
+      "USA PRE LD2 GREEN",
+      "USA PRE LD2 RED",
+      "USA PRE LD2 YELLOW"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock"
+    ],
+    "gainBasis": "\"Players wanting extremely high gain metal or hard rock sounds find LEAD 1 much more suited to the maxed out gain regions\"",
+    "gainConfidence": "high"
+  },
+  "USA PRE LD2 GREEN": {
+    "realAmp": "MESA TriAxis preamp, Lead 2 Green",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": "Drive, Lead Drive (Overdrive), Treble, Middle, Bass, Preamp Presence, P.A. Presence, Presence Shift, Dynamic Voice (GEQ)",
+    "tonestack": null,
+    "variants": [
+      "USA PRE CLEAN",
+      "USA PRE LD1 RED",
+      "USA PRE LD2 RED",
+      "USA PRE LD2 YELLOW"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal",
+      "fusion"
+    ],
+    "gainBasis": "MkIV Lead channel-derived focused gain; \"saturate the note fairly completely, especially at high gain settings\"; \"radical rock sound\" lead voice",
+    "gainConfidence": "high"
+  },
+  "USA PRE LD2 RED": {
+    "realAmp": "MESA TriAxis preamp, Lead 2 Red",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "USA PRE CLEAN",
+      "USA PRE LD1 RED",
+      "USA PRE LD2 GREEN",
+      "USA PRE LD2 YELLOW"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "metal",
+      "hard-rock",
+      "djent"
+    ],
+    "gainBasis": "\"This mode is made for shred\"; \"sizzling edge\"; \"bodacious low end crunch\" with modded British EL34-style aggression",
+    "gainConfidence": "high"
+  },
+  "USA PRE LD2 YELLOW": {
+    "realAmp": "MESA TriAxis preamp, Lead 2 Yellow",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "USA PRE CLEAN",
+      "USA PRE LD1 RED",
+      "USA PRE LD2 GREEN",
+      "USA PRE LD2 RED"
+    ],
+    "gain": "high-gain",
+    "genres": [
+      "hard-rock",
+      "metal",
+      "blues"
+    ],
+    "gainBasis": "\"reincarnation of the fabled Mark IIC+ Lead mode\"; \"excels at medium to high gain settings\"; also \"low gain sounds possess the sting essential to tortured blues soloing\"",
+    "gainConfidence": "high"
+  },
+  "VIBRA-KING": {
+    "realAmp": "Custom Fender Vibro-King",
+    "cab": "4x10 Bassguy RI",
+    "cabOrig": "Fender 3x10",
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume, Treble, Bass, Middle, Fat switch, Tremolo effect",
+    "tonestack": "POST",
+    "variants": [
+      "VIBRA-KING FAT"
+    ],
+    "gain": "breakup",
+    "genres": [
+      "blues",
+      "clean",
+      "classic-rock"
+    ],
+    "gainBasis": "\"sparkling-clean shimmer at lower volumes & powerfully thick overdrive when cranked up\"; blackface Fender tones, players Clapton, Cray, Townshend",
+    "gainConfidence": "high"
+  },
+  "VIBRA-KING FAT": {
+    "realAmp": "Custom Fender Vibro-King, Fat switch: on",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "VIBRA-KING"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "blues"
+    ],
+    "gainBasis": "Custom Fender Vibro-King; universally documented as a clean vintage-Fender combo (Fat switch on)",
+    "gainConfidence": "med"
+  },
+  "VIBRATO LUX": {
+    "realAmp": "Fender Vibrolux g‘62/63 Brownface 6G11 model",
+    "cab": "1x12 Vibrato Lux",
+    "cabOrig": "Fender 2x10 or 1x12",
+    "powerTubes": "6L6",
+    "preampTubes": "7025 (12AX7A Syl)",
+    "controls": "Volume, Bass, Treble",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "blues",
+      "classic-rock"
+    ],
+    "gainBasis": "“Brown Fenders are typically cleaner vs Tweed versions”; “Mark Knopfler used it to record the Sultans of Swing album”",
+    "gainConfidence": "high"
+  },
+  "VIBRATO VERB": {
+    "realAmp": "Fender Vibroverb, old model",
+    "cab": "1x15 Vibratoverb",
+    "cabOrig": "Fender 1x15",
+    "powerTubes": "6L6",
+    "preampTubes": "7025 (12AX7A Syl)",
+    "controls": "Volume, Bass, Treble, Bright switch, Tremolo effect",
+    "tonestack": "PRE",
+    "variants": [
+      "VIBRATO VERB AA",
+      "VIBRATO VERB AB"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "blues"
+    ],
+    "gainBasis": "“SRV’s favorite”; blackface AB763 Fender, “widely associated with his signature tone”",
+    "gainConfidence": "high"
+  },
+  "VIBRATO VERB AA": {
+    "realAmp": "Fender Vibroverb",
+    "cab": "1x15 Vibratoverb",
+    "cabOrig": "Fender 1x15 (Jensen C15N, JBL D130, Eminence)",
+    "powerTubes": "6L6",
+    "preampTubes": "7025 (12AX7A Syl)",
+    "controls": null,
+    "tonestack": "PRE",
+    "variants": [
+      "VIBRATO VERB",
+      "VIBRATO VERB AB"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "blues"
+    ],
+    "gainBasis": "“Cliff’s own 1964 blackface Vibroverb with AA763 circuit”; same SRV-associated clean Fender",
+    "gainConfidence": "high"
+  },
+  "VIBRATO VERB AB": {
+    "realAmp": "Fender Vibroverb, AB763 (based on AB763 circuit)",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": "7025 (12AX7A Syl)",
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "VIBRATO VERB",
+      "VIBRATO VERB AA"
+    ],
+    "gain": "clean",
+    "genres": [
+      "clean",
+      "blues"
+    ],
+    "gainBasis": "“Fender Vibroverb, AB763”; blackface clean Fender, SRV-associated",
+    "gainConfidence": "med"
+  },
+  "VIBRATO VERB SRV": {
+    "realAmp": "Fender Vibroverb Custom RI",
+    "cab": "1x15 Vibratoverb",
+    "cabOrig": null,
+    "powerTubes": "6L6",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": null,
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "breakup",
+    "genres": [
+      "blues"
+    ],
+    "gainBasis": "“normal channel’s preamp tube removed, roughly doubles the gain of the Vibrato channel”; SRV tone",
+    "gainConfidence": "high"
+  },
+  "WRECKER EXPRESS": {
+    "realAmp": "Trainwreck Express, Bright switch in center/top position",
+    "cab": "4x12 Friedman GB",
+    "cabOrig": "Marshall 4x12 (G12-M25)",
+    "powerTubes": "EL34 (can use 6V6)",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume, Bass, Mid, Treble, Presence, 3-position Bright switch (center: off, top: clarity & sparkle, bottom: jangly highs)",
+    "tonestack": "POST",
+    "variants": [
+      "WRECKER EXPRESS BRIGHT"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock",
+      "boutique"
+    ],
+    "gainBasis": "“Trainwreck Express sounds like a Marshall Plexi”; “go from gorgeous clean to crunch”",
+    "gainConfidence": "high"
+  },
+  "WRECKER EXPRESS BRIGHT": {
+    "realAmp": "Trainwreck Express",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "WRECKER EXPRESS"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "hard-rock",
+      "boutique"
+    ],
+    "gainBasis": "“Trainwreck Express”, Bright switch variant; see Wrecker Express (Marshall Plexi-like, clean to crunch)",
+    "gainConfidence": "med"
+  },
+  "WRECKER LIVERPOOL": {
+    "realAmp": "Trainwreck Liverpool",
+    "cab": "4x12 Friedman GB",
+    "cabOrig": "Marshall 4x12 (G12-M25)",
+    "powerTubes": "EL84",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume, Bass, Mid, Treble, Presence, three-position Bright switch (center: off, top: clarity & sparkle, bottom: jangly highs)",
+    "tonestack": "PRE",
+    "variants": [
+      "WRECKER LIVERPOOL BRIGHT"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "boutique"
+    ],
+    "gainBasis": "“Marshall meets VOX”; fusion of Trainwreck Express preamp & Rocket power amp",
+    "gainConfidence": "high"
+  },
+  "WRECKER LIVERPOOL BRIGHT": {
+    "realAmp": "Trainwreck Liverpool",
+    "cab": null,
+    "cabOrig": null,
+    "powerTubes": null,
+    "preampTubes": null,
+    "controls": null,
+    "tonestack": null,
+    "variants": [
+      "WRECKER LIVERPOOL"
+    ],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "boutique"
+    ],
+    "gainBasis": "“Trainwreck Liverpool” Bright variant; see Wrecker Liverpool (Marshall meets VOX)",
+    "gainConfidence": "med"
+  },
+  "WRECKER ROCKET": {
+    "realAmp": "Trainwreck Rocket,",
+    "cab": "4x12 Friedman GB",
+    "cabOrig": "Marshall 4x12 (G12-M25)",
+    "powerTubes": "EL84",
+    "preampTubes": "12AX7A (Syl)",
+    "controls": "Volume (Input Drive), Bass, Treble, Cut (Hi-Cut)",
+    "tonestack": "PRE",
+    "variants": [],
+    "gain": "crunch",
+    "genres": [
+      "classic-rock",
+      "boutique"
+    ],
+    "gainBasis": "“A boutique amp based on a VOX AC30 Top Boost”; clean and OD tones, British EL84 chime",
+    "gainConfidence": "high"
+  }
+}

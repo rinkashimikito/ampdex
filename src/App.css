@@ -602,6 +602,112 @@ mark {
   font-size: 1rem;
 }
 
+/* collections (hero "Start here") */
+.collections {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1.5rem 0 0.5rem;
+}
+
+.collections-label {
+  font-family: 'Geist Mono', ui-monospace, monospace;
+  font-size: 0.6875rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-right: 0.25rem;
+}
+
+.collection-chip {
+  font-family: 'Geist Mono', ui-monospace, monospace;
+  font-size: 0.8rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--ink);
+  padding: 0.25rem 0.65rem;
+  cursor: pointer;
+}
+
+.collection-chip:hover {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+/* per-amp tag chips + variants */
+.amp-tags {
+  margin: 0 0 1.5rem;
+}
+
+.amp-tags-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.75rem;
+}
+
+.tag {
+  font-family: 'Geist Mono', ui-monospace, monospace;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink);
+  background: var(--paper-2);
+  border: 1px solid rgba(10, 10, 10, 0.25);
+  padding: 0.18rem 0.5rem;
+}
+
+button.tag {
+  cursor: pointer;
+}
+
+button.tag:hover {
+  background: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
+}
+
+.tag-gain {
+  background: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
+}
+
+button.tag-gain:hover {
+  opacity: 0.8;
+}
+
+.amp-variants {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.amp-variants-label {
+  font-family: 'Geist Mono', ui-monospace, monospace;
+  font-size: 0.6875rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.amp-variant-link {
+  font-family: 'Geist Mono', ui-monospace, monospace;
+  font-size: 0.75rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid rgba(10, 10, 10, 0.25);
+  padding: 0.15rem 0.5rem;
+  cursor: pointer;
+}
+
+.amp-variant-link:hover {
+  background: var(--ink);
+  color: var(--paper);
+}
+
 .amp-body {
   list-style: none;
   margin: 0;

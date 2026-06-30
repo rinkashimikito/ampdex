@@ -4,6 +4,7 @@ import data from './data/amps.json';
 import wikiStatus from './data/wiki-status.json';
 import usageData from './data/amp-usage.json';
 import guitaristsData from './data/guitarists.json';
+import ampTagsData from './data/amp-tags.json';
 import './App.css';
 
 type Amp = {
@@ -135,6 +136,48 @@ type Guitarist = {
 const guitarists = guitaristsData as Guitarist[];
 const guitaristBySlug: Record<string, Guitarist> = Object.fromEntries(
   guitarists.map((g) => [g.slug, g]),
+);
+
+type AmpTag = {
+  realAmp?: string | null;
+  cab?: string | null;
+  cabOrig?: string | null;
+  powerTubes?: string | null;
+  preampTubes?: string | null;
+  controls?: string | null;
+  tonestack?: string | null;
+  variants?: string[];
+  gain?: string | null;
+  genres?: string[];
+  gainBasis?: string | null;
+  gainConfidence?: string | null;
+};
+const tagsByName = ampTagsData as Record<string, AmpTag>;
+const GAIN_LABEL: Record<string, string> = {
+  clean: 'Clean',
+  breakup: 'Edge of breakup',
+  crunch: 'Crunch',
+  'mid-gain': 'Mid gain',
+  'high-gain': 'High gain',
+};
+
+type Collection = { key: string; label: string; test: (t: AmpTag) => boolean };
+const COLLECTIONS: Collection[] = [
+  { key: 'clean', label: 'Cleans', test: (t) => t.gain === 'clean' },
+  { key: 'breakup', label: 'Edge of breakup', test: (t) => t.gain === 'breakup' },
+  { key: 'crunch', label: 'Crunch', test: (t) => t.gain === 'crunch' },
+  { key: 'high-gain', label: 'High gain', test: (t) => t.gain === 'high-gain' },
+  {
+    key: 'metal',
+    label: 'Metal & djent',
+    test: (t) => !!t.genres?.some((g) => g === 'metal' || g === 'djent'),
+  },
+  { key: 'blues', label: 'Blues', test: (t) => !!t.genres?.includes('blues') },
+  { key: 'boutique', label: 'Boutique', test: (t) => !!t.genres?.includes('boutique') },
+  { key: 'bass', label: 'Bass', test: (t) => !!t.genres?.includes('bass') },
+];
+const collectionByKey: Record<string, Collection> = Object.fromEntries(
+  COLLECTIONS.map((c) => [c.key, c]),
 );
 
 type ResultItem =
@@ -283,6 +326,11 @@ export default function App() {
     const g = new URLSearchParams(window.location.hash.slice(1)).get('g');
     return g && guitaristBySlug[g] ? g : null;
   });
+  const [collection, setCollection] = useState<string | null>(() => {
+    if (typeof window === 'undefined') return null;
+    const c = new URLSearchParams(window.location.hash.slice(1)).get('c');
+    return c && collectionByKey[c] ? c : null;
+  });
   const [zoomImg, setZoomImg] = useState<string | null>(null);
   const [device, setDevice] = useState<Device | null>(() => {
     if (typeof window === 'undefined') return null;
@@ -302,6 +350,13 @@ export default function App() {
     setQuery(v);
     setSelected(null);
     setSelGuitar(null);
+    setCollection(null);
+  };
+  const pickCollection = (key: string) => {
+    setCollection(key);
+    setQuery('');
+    setSelected(null);
+    setSelGuitar(null);
   };
 
   useEffect(() => {
@@ -315,12 +370,13 @@ export default function App() {
         if (zoomImg !== null) setZoomImg(null);
         else if (selGuitar) setSelGuitar(null);
         else if (selected) setSelected(null);
+        else if (collection) setCollection(null);
         else if (query) setQuery('');
       }
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [query, selected, selGuitar, zoomImg]);
+  }, [query, selected, selGuitar, collection, zoomImg]);
 
   const results: ResultItem[] = useMemo(() => {
     const trimmed = query.trim();
@@ -442,11 +498,13 @@ export default function App() {
       }));
 
     const genHits = generalFuse.search(trimmed, { limit: 3 });
-    const genResults: ResultItem[] = genHits.map((h) => ({
-      kind: 'general' as const,
-      item: h.item,
-      score: (h.score ?? 1) + 0.5,
-    }));
+    const genResults: ResultItem[] = genHits
+      .filter((h) => (h.score ?? 1) <= 0.4) // drop scattered-subsequence noise (e.g. "santa" → Page 36)
+      .map((h) => ({
+        kind: 'general' as const,
+        item: h.item,
+        score: (h.score ?? 1) + 0.5,
+      }));
 
     // Guitarist matches: precise token-substring against name + bands (no fuzzy
     // noise). All query tokens must appear; exact name match ranks highest.
@@ -482,6 +540,7 @@ export default function App() {
       setQuery('');
       setSelected(a);
       setSelGuitar(null);
+      setCollection(null);
     }
   };
 
@@ -493,19 +552,21 @@ export default function App() {
       ? `#a=${selected.num}`
       : selGuitar
         ? `#g=${selGuitar}`
-        : query.trim()
-          ? `#q=${encodeURIComponent(query.trim())}`
-          : '';
+        : collection
+          ? `#c=${collection}`
+          : query.trim()
+            ? `#q=${encodeURIComponent(query.trim())}`
+            : '';
     if (target === window.location.hash || (!target && !window.location.hash)) {
       return;
     }
     const base = window.location.pathname + window.location.search;
-    if (selected || selGuitar) {
+    if (selected || selGuitar || collection) {
       window.location.hash = target; // new history entry
     } else {
       window.history.replaceState(null, '', target ? base + target : base);
     }
-  }, [query, selected, selGuitar]);
+  }, [query, selected, selGuitar, collection]);
 
   // URL hash → app state (deep links, browser back/forward).
   useEffect(() => {
@@ -513,23 +574,33 @@ export default function App() {
       const p = new URLSearchParams(window.location.hash.slice(1));
       const a = p.get('a');
       const g = p.get('g');
+      const c = p.get('c');
       const q = p.get('q');
       if (a && ampByNum[a]) {
         setSelected(ampByNum[a]);
         setSelGuitar(null);
+        setCollection(null);
         setQuery('');
       } else if (g && guitaristBySlug[g]) {
         setSelGuitar(g);
         setSelected(null);
+        setCollection(null);
+        setQuery('');
+      } else if (c && collectionByKey[c]) {
+        setCollection(c);
+        setSelected(null);
+        setSelGuitar(null);
         setQuery('');
       } else if (q != null) {
         setQuery(decodeURIComponent(q));
         setSelected(null);
         setSelGuitar(null);
+        setCollection(null);
       } else {
         setQuery('');
         setSelected(null);
         setSelGuitar(null);
+        setCollection(null);
       }
     };
     window.addEventListener('hashchange', onHash);
@@ -540,11 +611,18 @@ export default function App() {
   // cross-navigated selection so the UI stays consistent with the detail pane.
   const listResults: ResultItem[] = query.trim()
     ? results
-    : selGuitar && guitaristBySlug[selGuitar]
-      ? [{ kind: 'guitarist', item: guitaristBySlug[selGuitar], score: 0 }]
-      : selected
-        ? [{ kind: 'amp', item: selected, score: 0, highlights: [] }]
-        : [];
+    : collection && collectionByKey[collection]
+      ? amps
+          .filter((a) => {
+            const t = tagsByName[a.name];
+            return t ? collectionByKey[collection].test(t) : false;
+          })
+          .map((a) => ({ kind: 'amp' as const, item: a, score: 0, highlights: [] }))
+      : selGuitar && guitaristBySlug[selGuitar]
+        ? [{ kind: 'guitarist', item: guitaristBySlug[selGuitar], score: 0 }]
+        : selected
+          ? [{ kind: 'amp', item: selected, score: 0, highlights: [] }]
+          : [];
   const topMatch = listResults[0];
 
   if (!device) {
@@ -589,7 +667,7 @@ export default function App() {
       </header>
 
       <main className="main">
-        {!query && !selected && !selGuitar && (
+        {!query && !selected && !selGuitar && !collection && (
           <section className="empty">
             <h2>Three hundred thirty-one amps. One field.</h2>
             <p>
@@ -600,6 +678,18 @@ export default function App() {
               <button onClick={() => setQuery('clean fender')}>clean fender</button>
               <button onClick={() => setQuery('bias')}>bias</button>
             </p>
+            <div className="collections">
+              <span className="collections-label">Start here</span>
+              {COLLECTIONS.map((c) => (
+                <button
+                  key={c.key}
+                  className="collection-chip"
+                  onClick={() => pickCollection(c.key)}
+                >
+                  {c.label}
+                </button>
+              ))}
+            </div>
             <p className="hint">Fuzzy. <kbd>/</kbd> to focus &nbsp; <kbd>Esc</kbd> to clear</p>
           </section>
         )}
@@ -615,6 +705,9 @@ export default function App() {
           <section className="layout">
             <aside className="results">
               <div className="results-count">
+                {collection && collectionByKey[collection]
+                  ? `${collectionByKey[collection].label} · `
+                  : ''}
                 {listResults.length} match{listResults.length === 1 ? '' : 'es'}
               </div>
               <ul>
@@ -697,6 +790,7 @@ export default function App() {
                 selected={selected}
                 selectedGuitarist={selGuitar ? guitaristBySlug[selGuitar] : null}
                 onPickAmp={pickAmp}
+                onPickCollection={pickCollection}
                 tokens={query.trim().toLowerCase().split(/\s+/).filter((t) => t.length >= 2)}
                 onZoomImg={setZoomImg}
                 device={device}
@@ -932,6 +1026,69 @@ function AmpUsage({ name }: { name: string }) {
   );
 }
 
+function AmpTags({
+  name,
+  onPickCollection,
+  onPickAmp,
+}: {
+  name: string;
+  onPickCollection: (key: string) => void;
+  onPickAmp: (name: string) => void;
+}) {
+  const t = tagsByName[name];
+  if (!t) return null;
+  const gainKey = t.gain && collectionByKey[t.gain] ? t.gain : null;
+  const genreKey = (g: string) =>
+    g === 'djent' || g === 'metal' ? 'metal' : collectionByKey[g] ? g : null;
+  const hasChips = t.gain || (t.genres && t.genres.length > 0);
+  if (!hasChips && !(t.variants && t.variants.length)) return null;
+  return (
+    <div className="amp-tags">
+      {hasChips && (
+        <div className="amp-tags-row">
+          {t.gain &&
+            (gainKey ? (
+              <button
+                className="tag tag-gain"
+                onClick={() => onPickCollection(gainKey)}
+              >
+                {GAIN_LABEL[t.gain] ?? t.gain}
+              </button>
+            ) : (
+              <span className="tag tag-gain">{GAIN_LABEL[t.gain] ?? t.gain}</span>
+            ))}
+          {(t.genres ?? []).map((g) => {
+            const key = genreKey(g);
+            return key ? (
+              <button key={g} className="tag" onClick={() => onPickCollection(key)}>
+                {g}
+              </button>
+            ) : (
+              <span key={g} className="tag">
+                {g}
+              </span>
+            );
+          })}
+        </div>
+      )}
+      {t.variants && t.variants.length > 0 && (
+        <div className="amp-variants">
+          <span className="amp-variants-label">Same real amp</span>
+          {t.variants.map((v) => (
+            <button
+              key={v}
+              className="amp-variant-link"
+              onClick={() => onPickAmp(v)}
+            >
+              {v}
+            </button>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
 function GuitaristView({
   g,
   onPickAmp,
@@ -1007,6 +1164,7 @@ function DetailView({
   selected,
   selectedGuitarist,
   onPickAmp,
+  onPickCollection,
   tokens,
   onZoomImg,
   device,
@@ -1015,6 +1173,7 @@ function DetailView({
   selected: Amp | null;
   selectedGuitarist: Guitarist | null;
   onPickAmp: (name: string) => void;
+  onPickCollection: (key: string) => void;
   tokens: string[];
   onZoomImg: (file: string) => void;
   device: Device;
@@ -1088,6 +1247,12 @@ function DetailView({
           is available in the FM3 amp block. Loads and plays, but won't be 1:1 with III/FM9.
         </div>
       )}
+
+      <AmpTags
+        name={a.name}
+        onPickCollection={onPickCollection}
+        onPickAmp={onPickAmp}
+      />
 
       <AmpUsage name={a.name} />
 
