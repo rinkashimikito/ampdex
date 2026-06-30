@@ -1029,12 +1029,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Carol Kaye (on bass)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "‘59 BASSGUY BRIGHT": {
     "brand": "Fender",
@@ -1098,10 +1093,6 @@
             "strength": "weak"
           }
         ]
-      },
-      {
-        "artist": "Jimi Hendrix",
-        "links": []
       },
       {
         "artist": "Buddy Guy",
@@ -1199,10 +1190,6 @@
         ]
       },
       {
-        "artist": "Jimi Hendrix",
-        "links": []
-      },
-      {
         "artist": "Johnny Marr",
         "links": [
           {
@@ -1276,10 +1263,6 @@
             "strength": "weak"
           }
         ]
-      },
-      {
-        "artist": "Jimi Hendrix",
-        "links": []
       },
       {
         "artist": "Johnny Marr",
@@ -1935,14 +1918,6 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Jimi Hendrix",
-        "links": []
-      },
-      {
-        "artist": "Jimmy Page",
-        "links": []
-      },
-      {
         "artist": "Duane Allman",
         "links": [
           {
@@ -2009,14 +1984,6 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Jimi Hendrix",
-        "links": []
-      },
-      {
-        "artist": "Jimmy Page",
-        "links": []
-      },
-      {
         "artist": "Duane Allman",
         "links": [
           {
@@ -2082,14 +2049,6 @@
     "info": [],
     "infoLink": null,
     "usage": [
-      {
-        "artist": "Jimi Hendrix",
-        "links": []
-      },
-      {
-        "artist": "Jimmy Page",
-        "links": []
-      },
       {
         "artist": "Duane Allman",
         "links": [
@@ -2383,7 +2342,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "AC-20 12AX7 TREBLE": {
     "brand": "Morgan",
@@ -2394,7 +2354,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "AC-20 EF86 BASS": {
     "brand": "Morgan",
@@ -2405,7 +2366,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "AC-20 EF86 TREBLE": {
     "brand": "Morgan",
@@ -2416,7 +2378,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "ANGLE SEVERE 1": {
     "brand": "Engl",
@@ -2435,10 +2398,6 @@
     ],
     "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-angle-severe-engl-savage-120.111501/",
     "usage": [
-      {
-        "artist": "Steve Morse",
-        "links": []
-      },
       {
         "artist": "Thin Lizzy",
         "links": [
@@ -2500,10 +2459,6 @@
     ],
     "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-angle-severe-engl-savage-120.111501/",
     "usage": [
-      {
-        "artist": "Steve Morse",
-        "links": []
-      },
       {
         "artist": "Thin Lizzy",
         "links": [
@@ -2835,7 +2790,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-atomica-cameron-atomica.111547/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-atomica-cameron-atomica.111547/",
+    "usage": []
   },
   "ATOMICA LOW": {
     "brand": "Atomica",
@@ -2848,7 +2804,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-atomica-cameron-atomica.111547/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-atomica-cameron-atomica.111547/",
+    "usage": []
   },
   "BAND-COMMANDER": {
     "brand": "Fender",
@@ -2885,12 +2842,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "N/A",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "BLANKENSHIP LEEDS": {
     "brand": "Blankenship",
@@ -3479,7 +3431,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "BRIT AFS100 1": {
     "brand": "Marshall",
@@ -4120,14 +4073,6 @@
     "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-brit-pre-and-jmpre-1-marshall-jmp-1.112139/",
     "usage": [
       {
-        "artist": "Steve Vai",
-        "links": []
-      },
-      {
-        "artist": "Joe Satriani",
-        "links": []
-      },
-      {
         "artist": "Angus Young",
         "links": [
           {
@@ -4272,7 +4217,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-buttery-budda-twinmaster.112228/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-buttery-budda-twinmaster.112228/",
+    "usage": []
   },
   "CA3+ CLEAN": {
     "brand": "Custom Audio Amplifiers",
@@ -4328,7 +4274,14 @@
       },
       {
         "artist": "Richie Sambora",
-        "links": []
+        "links": [
+          {
+            "url": "https://www.audio-digital.net/c-pages/custom-audio-amplifiers-3-se-preamp.html",
+            "title": "Custom Audio Amplifiers 3+ SE Preamp | Audio-Digital.net",
+            "supporting_quote": "It's been the preamp Steve Lukather (and Mike Landau, Ritchie Sambora, etc.) used for most of his recording and touring years.",
+            "strength": "moderate"
+          }
+        ]
       },
       {
         "artist": "Eddie Van Halen",
@@ -4419,7 +4372,14 @@
       },
       {
         "artist": "Richie Sambora",
-        "links": []
+        "links": [
+          {
+            "url": "https://www.audio-digital.net/c-pages/custom-audio-amplifiers-3-se-preamp.html",
+            "title": "Custom Audio Amplifiers 3+ SE Preamp | Audio-Digital.net",
+            "supporting_quote": "It's been the preamp Steve Lukather (and Mike Landau, Ritchie Sambora, etc.) used for most of his recording and touring years.",
+            "strength": "moderate"
+          }
+        ]
       },
       {
         "artist": "Eddie Van Halen",
@@ -4510,7 +4470,14 @@
       },
       {
         "artist": "Richie Sambora",
-        "links": []
+        "links": [
+          {
+            "url": "https://www.audio-digital.net/c-pages/custom-audio-amplifiers-3-se-preamp.html",
+            "title": "Custom Audio Amplifiers 3+ SE Preamp | Audio-Digital.net",
+            "supporting_quote": "It's been the preamp Steve Lukather (and Mike Landau, Ritchie Sambora, etc.) used for most of his recording and touring years.",
+            "strength": "moderate"
+          }
+        ]
       },
       {
         "artist": "Eddie Van Halen",
@@ -4558,7 +4525,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-cameron-ccv-100.112486/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-cameron-ccv-100.112486/",
+    "usage": []
   },
   "CAMERON CCV 1B": {
     "brand": "Cameron",
@@ -4571,7 +4539,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-cameron-ccv-100.112486/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-cameron-ccv-100.112486/",
+    "usage": []
   },
   "CAMERON CCV 2A": {
     "brand": "Cameron",
@@ -4584,7 +4553,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-cameron-ccv-100.112486/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-cameron-ccv-100.112486/",
+    "usage": []
   },
   "CAMERON CCV 2B": {
     "brand": "Cameron",
@@ -4597,7 +4567,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-cameron-ccv-100.112486/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-cameron-ccv-100.112486/",
+    "usage": []
   },
   "CAMERON CCV 2C": {
     "brand": "Cameron",
@@ -4610,7 +4581,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-cameron-ccv-100.112486/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-cameron-ccv-100.112486/",
+    "usage": []
   },
   "CAMERON CCV 2D": {
     "brand": "Cameron",
@@ -4623,7 +4595,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-cameron-ccv-100.112486/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-cameron-ccv-100.112486/",
+    "usage": []
   },
   "CAPT HOOK 1A": {
     "brand": "Hook",
@@ -4634,7 +4607,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "CAPT HOOK 1B": {
     "brand": "Hook",
@@ -4645,7 +4619,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "CAPT HOOK 2A": {
     "brand": "Hook",
@@ -4656,7 +4631,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "CAPT HOOK 2B": {
     "brand": "Hook",
@@ -4667,7 +4643,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "CAPT HOOK 3A": {
     "brand": "Hook",
@@ -4678,7 +4655,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "CAPT HOOK 3B": {
     "brand": "Hook",
@@ -4689,7 +4667,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "CAR AMBLER": {
     "brand": "Carr",
@@ -4700,7 +4679,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "CAROL-ANN OD-2": {
     "brand": "Carol-Ann",
@@ -4713,7 +4693,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ca-od-2-carol-ann-od2.112259/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ca-od-2-carol-ann-od2.112259/",
+    "usage": []
   },
   "CAROL-ANN TRIPTIK CLASSIC": {
     "brand": "Carol-Ann",
@@ -4726,7 +4707,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ca-triptik-carol-ann-triptik.112303/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ca-triptik-carol-ann-triptik.112303/",
+    "usage": []
   },
   "CAROL-ANN TRIPTIK CLEAN": {
     "brand": "Carol-Ann",
@@ -4739,7 +4721,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ca-triptik-carol-ann-triptik.112303/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ca-triptik-carol-ann-triptik.112303/",
+    "usage": []
   },
   "CAROL-ANN TRIPTIK MODERN": {
     "brand": "Carol-Ann",
@@ -4752,7 +4735,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ca-triptik-carol-ann-triptik.112303/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ca-triptik-carol-ann-triptik.112303/",
+    "usage": []
   },
   "CAROL-ANN TUCANA CLEAN": {
     "brand": "Carol-Ann",
@@ -4765,7 +4749,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ca-tucana-carol-ann-tucana-3.112349/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ca-tucana-carol-ann-tucana-3.112349/",
+    "usage": []
   },
   "CAROL-ANN TUCANA LEAD": {
     "brand": "Carol-Ann",
@@ -4778,7 +4763,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ca-tucana-carol-ann-tucana-3.112349/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ca-tucana-carol-ann-tucana-3.112349/",
+    "usage": []
   },
   "CITRUS A30 CLEAN": {
     "brand": "Orange",
@@ -4793,16 +4779,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Jim Root",
-        "links": []
-      },
-      {
-        "artist": "Omar Rodriguez-López",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "CITRUS A30 DIRTY": {
     "brand": "Orange",
@@ -4817,16 +4794,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Jim Root",
-        "links": []
-      },
-      {
-        "artist": "Omar Rodriguez-López",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "CITRUS BASS 200": {
     "brand": "Orange",
@@ -4837,7 +4805,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "CITRUS RV50": {
     "brand": "Orange",
@@ -4874,7 +4843,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "CLASS-A 15W TB": {
     "brand": "Vox",
@@ -4889,16 +4859,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Brian May",
-        "links": []
-      },
-      {
-        "artist": "George Harrison",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "CLASS-A 30W": {
     "brand": "Vox",
@@ -5991,10 +5952,6 @@
         ]
       },
       {
-        "artist": "Joe Bonamassa",
-        "links": []
-      },
-      {
         "artist": "Lee Ritenour",
         "links": [
           {
@@ -6064,10 +6021,6 @@
         ]
       },
       {
-        "artist": "Joe Bonamassa",
-        "links": []
-      },
-      {
         "artist": "Lee Ritenour",
         "links": [
           {
@@ -6108,7 +6061,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "DIRTY SHIRLEY 1": {
     "brand": "Friedman",
@@ -6123,16 +6077,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Jerry Cantrell",
-        "links": []
-      },
-      {
-        "artist": "Steve Stevens",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "DIRTY SHIRLEY 2": {
     "brand": "Friedman",
@@ -6147,16 +6092,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Jerry Cantrell",
-        "links": []
-      },
-      {
-        "artist": "Steve Stevens",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "DIV/13 CJ": {
     "brand": "Divided By 13",
@@ -6173,10 +6109,6 @@
     "info": [],
     "infoLink": null,
     "usage": [
-      {
-        "artist": "Billy Gibbons",
-        "links": []
-      },
       {
         "artist": "Paul McCartney",
         "links": [
@@ -6217,10 +6149,6 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Billy Gibbons",
-        "links": []
-      },
-      {
         "artist": "Paul McCartney",
         "links": [
           {
@@ -6260,10 +6188,6 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Billy Gibbons",
-        "links": []
-      },
-      {
         "artist": "Paul McCartney",
         "links": [
           {
@@ -6302,10 +6226,6 @@
     "info": [],
     "infoLink": null,
     "usage": [
-      {
-        "artist": "Billy Gibbons",
-        "links": []
-      },
       {
         "artist": "Paul McCartney",
         "links": [
@@ -6854,10 +6774,6 @@
             "strength": "moderate"
           }
         ]
-      },
-      {
-        "artist": "John Frusciante",
-        "links": []
       },
       {
         "artist": "B.B. King",
@@ -7521,12 +7437,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS BASS": {
     "brand": "FAS",
@@ -7540,12 +7451,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS BROOTALZ": {
     "brand": "FAS",
@@ -7559,12 +7465,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS BROWN": {
     "brand": "FAS",
@@ -7578,12 +7479,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS BUTTERY": {
     "brand": "FAS",
@@ -7597,12 +7493,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS CLASS-A": {
     "brand": "FAS",
@@ -7616,12 +7507,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS CRUNCH": {
     "brand": "FAS",
@@ -7635,12 +7521,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS EXPRESS": {
     "brand": "FAS",
@@ -7654,12 +7535,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS HOT ROD": {
     "brand": "FAS",
@@ -7673,12 +7549,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS LEAD 1": {
     "brand": "FAS",
@@ -7692,12 +7563,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS LEAD 2": {
     "brand": "FAS",
@@ -7711,12 +7577,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS MODERN": {
     "brand": "FAS",
@@ -7730,12 +7591,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS MODERN II": {
     "brand": "FAS",
@@ -7749,12 +7605,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS MODERN III": {
     "brand": "FAS",
@@ -7768,12 +7619,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS RHYTHM": {
     "brand": "FAS",
@@ -7787,12 +7633,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS SKULL CRUSHER": {
     "brand": "FAS",
@@ -7806,12 +7647,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS STEALTH BLUE": {
     "brand": "FAS",
@@ -7825,12 +7661,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FAS WRECK": {
     "brand": "FAS",
@@ -7844,12 +7675,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Fractal Audio (digital amp)",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FOX ODS": {
     "brand": "Fuchs",
@@ -7862,7 +7688,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-fox-ods-fuchs-overdrive-supreme.113514/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-fox-ods-fuchs-overdrive-supreme.113514/",
+    "usage": []
   },
   "FOX ODS DEEP": {
     "brand": "Fuchs",
@@ -7875,7 +7702,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-fox-ods-fuchs-overdrive-supreme.113514/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-fox-ods-fuchs-overdrive-supreme.113514/",
+    "usage": []
   },
   "FRIEDMAN BE 2010": {
     "brand": "Friedman",
@@ -7900,20 +7728,15 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Jerry Cantrell",
-        "links": []
-      },
-      {
-        "artist": "Steve Stevens",
-        "links": []
-      },
-      {
         "artist": "Bill Kelliher",
-        "links": []
-      },
-      {
-        "artist": "Joe Bonamassa",
-        "links": []
+        "links": [
+          {
+            "url": "https://guitarfxdepot.com/rigs/bill-kelliher-mastodon-guitar-rig/",
+            "title": "Bill Kelliher (Mastodon) Guitar Rig | Guitar FX Depot",
+            "supporting_quote": "For his second amp Kelliher used a Friedman HBE 100-watt head.",
+            "strength": "strong"
+          }
+        ]
       },
       {
         "artist": "Neal Schon (Journey)",
@@ -8018,20 +7841,15 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Jerry Cantrell",
-        "links": []
-      },
-      {
-        "artist": "Steve Stevens",
-        "links": []
-      },
-      {
         "artist": "Bill Kelliher",
-        "links": []
-      },
-      {
-        "artist": "Joe Bonamassa",
-        "links": []
+        "links": [
+          {
+            "url": "https://guitarfxdepot.com/rigs/bill-kelliher-mastodon-guitar-rig/",
+            "title": "Bill Kelliher (Mastodon) Guitar Rig | Guitar FX Depot",
+            "supporting_quote": "For his second amp Kelliher used a Friedman HBE 100-watt head.",
+            "strength": "strong"
+          }
+        ]
       },
       {
         "artist": "Neal Schon (Journey)",
@@ -8136,20 +7954,15 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Jerry Cantrell",
-        "links": []
-      },
-      {
-        "artist": "Steve Stevens",
-        "links": []
-      },
-      {
         "artist": "Bill Kelliher",
-        "links": []
-      },
-      {
-        "artist": "Joe Bonamassa",
-        "links": []
+        "links": [
+          {
+            "url": "https://guitarfxdepot.com/rigs/bill-kelliher-mastodon-guitar-rig/",
+            "title": "Bill Kelliher (Mastodon) Guitar Rig | Guitar FX Depot",
+            "supporting_quote": "For his second amp Kelliher used a Friedman HBE 100-watt head.",
+            "strength": "strong"
+          }
+        ]
       },
       {
         "artist": "Neal Schon (Journey)",
@@ -8254,20 +8067,15 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Jerry Cantrell",
-        "links": []
-      },
-      {
-        "artist": "Steve Stevens",
-        "links": []
-      },
-      {
         "artist": "Bill Kelliher",
-        "links": []
-      },
-      {
-        "artist": "Joe Bonamassa",
-        "links": []
+        "links": [
+          {
+            "url": "https://guitarfxdepot.com/rigs/bill-kelliher-mastodon-guitar-rig/",
+            "title": "Bill Kelliher (Mastodon) Guitar Rig | Guitar FX Depot",
+            "supporting_quote": "For his second amp Kelliher used a Friedman HBE 100-watt head.",
+            "strength": "strong"
+          }
+        ]
       },
       {
         "artist": "Neal Schon (Journey)",
@@ -8372,20 +8180,15 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Jerry Cantrell",
-        "links": []
-      },
-      {
-        "artist": "Steve Stevens",
-        "links": []
-      },
-      {
         "artist": "Bill Kelliher",
-        "links": []
-      },
-      {
-        "artist": "Joe Bonamassa",
-        "links": []
+        "links": [
+          {
+            "url": "https://guitarfxdepot.com/rigs/bill-kelliher-mastodon-guitar-rig/",
+            "title": "Bill Kelliher (Mastodon) Guitar Rig | Guitar FX Depot",
+            "supporting_quote": "For his second amp Kelliher used a Friedman HBE 100-watt head.",
+            "strength": "strong"
+          }
+        ]
       },
       {
         "artist": "Neal Schon (Journey)",
@@ -8490,20 +8293,15 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Jerry Cantrell",
-        "links": []
-      },
-      {
-        "artist": "Steve Stevens",
-        "links": []
-      },
-      {
         "artist": "Bill Kelliher",
-        "links": []
-      },
-      {
-        "artist": "Joe Bonamassa",
-        "links": []
+        "links": [
+          {
+            "url": "https://guitarfxdepot.com/rigs/bill-kelliher-mastodon-guitar-rig/",
+            "title": "Bill Kelliher (Mastodon) Guitar Rig | Guitar FX Depot",
+            "supporting_quote": "For his second amp Kelliher used a Friedman HBE 100-watt head.",
+            "strength": "strong"
+          }
+        ]
       },
       {
         "artist": "Neal Schon (Journey)",
@@ -8608,20 +8406,15 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Jerry Cantrell",
-        "links": []
-      },
-      {
-        "artist": "Steve Stevens",
-        "links": []
-      },
-      {
         "artist": "Bill Kelliher",
-        "links": []
-      },
-      {
-        "artist": "Joe Bonamassa",
-        "links": []
+        "links": [
+          {
+            "url": "https://guitarfxdepot.com/rigs/bill-kelliher-mastodon-guitar-rig/",
+            "title": "Bill Kelliher (Mastodon) Guitar Rig | Guitar FX Depot",
+            "supporting_quote": "For his second amp Kelliher used a Friedman HBE 100-watt head.",
+            "strength": "strong"
+          }
+        ]
       },
       {
         "artist": "Neal Schon (Journey)",
@@ -8726,20 +8519,15 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Jerry Cantrell",
-        "links": []
-      },
-      {
-        "artist": "Steve Stevens",
-        "links": []
-      },
-      {
         "artist": "Bill Kelliher",
-        "links": []
-      },
-      {
-        "artist": "Joe Bonamassa",
-        "links": []
+        "links": [
+          {
+            "url": "https://guitarfxdepot.com/rigs/bill-kelliher-mastodon-guitar-rig/",
+            "title": "Bill Kelliher (Mastodon) Guitar Rig | Guitar FX Depot",
+            "supporting_quote": "For his second amp Kelliher used a Friedman HBE 100-watt head.",
+            "strength": "strong"
+          }
+        ]
       },
       {
         "artist": "Neal Schon (Journey)",
@@ -8844,20 +8632,15 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Jerry Cantrell",
-        "links": []
-      },
-      {
-        "artist": "Steve Stevens",
-        "links": []
-      },
-      {
         "artist": "Bill Kelliher",
-        "links": []
-      },
-      {
-        "artist": "Joe Bonamassa",
-        "links": []
+        "links": [
+          {
+            "url": "https://guitarfxdepot.com/rigs/bill-kelliher-mastodon-guitar-rig/",
+            "title": "Bill Kelliher (Mastodon) Guitar Rig | Guitar FX Depot",
+            "supporting_quote": "For his second amp Kelliher used a Friedman HBE 100-watt head.",
+            "strength": "strong"
+          }
+        ]
       },
       {
         "artist": "Neal Schon (Journey)",
@@ -8962,20 +8745,15 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Jerry Cantrell",
-        "links": []
-      },
-      {
-        "artist": "Steve Stevens",
-        "links": []
-      },
-      {
         "artist": "Bill Kelliher",
-        "links": []
-      },
-      {
-        "artist": "Joe Bonamassa",
-        "links": []
+        "links": [
+          {
+            "url": "https://guitarfxdepot.com/rigs/bill-kelliher-mastodon-guitar-rig/",
+            "title": "Bill Kelliher (Mastodon) Guitar Rig | Guitar FX Depot",
+            "supporting_quote": "For his second amp Kelliher used a Friedman HBE 100-watt head.",
+            "strength": "strong"
+          }
+        ]
       },
       {
         "artist": "Neal Schon (Journey)",
@@ -9080,20 +8858,15 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Jerry Cantrell",
-        "links": []
-      },
-      {
-        "artist": "Steve Stevens",
-        "links": []
-      },
-      {
         "artist": "Bill Kelliher",
-        "links": []
-      },
-      {
-        "artist": "Joe Bonamassa",
-        "links": []
+        "links": [
+          {
+            "url": "https://guitarfxdepot.com/rigs/bill-kelliher-mastodon-guitar-rig/",
+            "title": "Bill Kelliher (Mastodon) Guitar Rig | Guitar FX Depot",
+            "supporting_quote": "For his second amp Kelliher used a Friedman HBE 100-watt head.",
+            "strength": "strong"
+          }
+        ]
       },
       {
         "artist": "Neal Schon (Journey)",
@@ -9198,20 +8971,15 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Jerry Cantrell",
-        "links": []
-      },
-      {
-        "artist": "Steve Stevens",
-        "links": []
-      },
-      {
         "artist": "Bill Kelliher",
-        "links": []
-      },
-      {
-        "artist": "Joe Bonamassa",
-        "links": []
+        "links": [
+          {
+            "url": "https://guitarfxdepot.com/rigs/bill-kelliher-mastodon-guitar-rig/",
+            "title": "Bill Kelliher (Mastodon) Guitar Rig | Guitar FX Depot",
+            "supporting_quote": "For his second amp Kelliher used a Friedman HBE 100-watt head.",
+            "strength": "strong"
+          }
+        ]
       },
       {
         "artist": "Neal Schon (Journey)",
@@ -9306,16 +9074,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Jerry Cantrell",
-        "links": []
-      },
-      {
-        "artist": "Steve Stevens",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "FRYETTE D60 LESS": {
     "brand": "Fryette",
@@ -9328,7 +9087,8 @@
     "info": [
       "New Deliverance 60 Series II+ Info"
     ],
-    "infoLink": "https://www.fryette.com/new-deliverance-sixty-series-ii-head/?searchid=66385&search_query=deliver"
+    "infoLink": "https://www.fryette.com/new-deliverance-sixty-series-ii-head/?searchid=66385&search_query=deliver",
+    "usage": []
   },
   "FRYETTE D60 MORE": {
     "brand": "Fryette",
@@ -9341,7 +9101,8 @@
     "info": [
       "New Deliverance 60 Series II+ Info"
     ],
-    "infoLink": "https://www.fryette.com/new-deliverance-sixty-series-ii-head/?searchid=66385&search_query=deliver"
+    "infoLink": "https://www.fryette.com/new-deliverance-sixty-series-ii-head/?searchid=66385&search_query=deliver",
+    "usage": []
   },
   "GIBTONE SCOUT": {
     "brand": "Gibson",
@@ -9354,7 +9115,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-gibtone-scout-gibson-scout.113698/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-gibtone-scout-gibson-scout.113698/",
+    "usage": []
   },
   "HERBIE CH2+": {
     "brand": "Diezel",
@@ -9763,7 +9525,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "JAZZ 120": {
     "brand": "Roland",
@@ -9793,10 +9556,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "Kurt Cobain",
-        "links": []
       },
       {
         "artist": "James Hetfield (Metallica)",
@@ -9877,14 +9636,6 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Steve Vai",
-        "links": []
-      },
-      {
-        "artist": "Joe Satriani",
-        "links": []
-      },
-      {
         "artist": "Angus Young",
         "links": [
           {
@@ -9910,14 +9661,6 @@
     "info": [],
     "infoLink": null,
     "usage": [
-      {
-        "artist": "Steve Vai",
-        "links": []
-      },
-      {
-        "artist": "Joe Satriani",
-        "links": []
-      },
       {
         "artist": "Angus Young",
         "links": [
@@ -9945,14 +9688,6 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Steve Vai",
-        "links": []
-      },
-      {
-        "artist": "Joe Satriani",
-        "links": []
-      },
-      {
         "artist": "Angus Young",
         "links": [
           {
@@ -9977,16 +9712,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Steve Vai",
-        "links": []
-      },
-      {
-        "artist": "Joe Satriani",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "JMPRE-1 OD1": {
     "brand": "Marshall",
@@ -10001,16 +9727,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Steve Vai",
-        "links": []
-      },
-      {
-        "artist": "Joe Satriani",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "JMPRE-1 OD1 BASS SHIFT": {
     "brand": "Marshall",
@@ -10025,16 +9742,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Steve Vai",
-        "links": []
-      },
-      {
-        "artist": "Joe Satriani",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "JMPRE-1 OD2": {
     "brand": "Marshall",
@@ -10049,16 +9757,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Steve Vai",
-        "links": []
-      },
-      {
-        "artist": "Joe Satriani",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "JMPRE-1 OD2 BASS SHIFT": {
     "brand": "Marshall",
@@ -10073,16 +9772,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Steve Vai",
-        "links": []
-      },
-      {
-        "artist": "Joe Satriani",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "JR BLUES": {
     "brand": "Fender",
@@ -10093,7 +9783,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "JR BLUES FAT": {
     "brand": "Fender",
@@ -10104,7 +9795,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "JS410 CRUNCH ORANGE": {
     "brand": "Marshall",
@@ -10328,20 +10020,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Joe Walsh",
-        "links": []
-      },
-      {
-        "artist": "Peter Frampton",
-        "links": []
-      },
-      {
-        "artist": "Bruce Springsteen",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "MATCHBOX CHIEFTAIN 2": {
     "brand": "Matchless",
@@ -10357,20 +10036,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Joe Walsh",
-        "links": []
-      },
-      {
-        "artist": "Peter Frampton",
-        "links": []
-      },
-      {
-        "artist": "Bruce Springsteen",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "MATCHBOX D-30": {
     "brand": "Matchless",
@@ -10388,14 +10054,6 @@
     "info": [],
     "infoLink": null,
     "usage": [
-      {
-        "artist": "Joe Bonamassa",
-        "links": []
-      },
-      {
-        "artist": "David Gilmour",
-        "links": []
-      },
       {
         "artist": "Billy Duffy",
         "links": [
@@ -10437,14 +10095,6 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Joe Bonamassa",
-        "links": []
-      },
-      {
-        "artist": "David Gilmour",
-        "links": []
-      },
-      {
         "artist": "Billy Duffy",
         "links": [
           {
@@ -10483,24 +10133,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Warren Haynes",
-        "links": []
-      },
-      {
-        "artist": "Keith Urban",
-        "links": []
-      },
-      {
-        "artist": "Brad Paisley",
-        "links": []
-      },
-      {
-        "artist": "Billy Gibbons",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "MR Z MZ-38": {
     "brand": "Dr. Z",
@@ -10540,12 +10173,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "Brad Paisley",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "NUCLEAR-TONE": {
     "brand": "Swart",
@@ -10556,7 +10184,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "ODS-100 CLEAN": {
     "brand": "Dumble",
@@ -11851,7 +11480,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "PORTA-BASS": {
     "brand": "Ampeg",
@@ -11862,7 +11492,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "PRINCETONE 5F2": {
     "brand": "Fender",
@@ -11944,10 +11575,6 @@
             "strength": "moderate"
           }
         ]
-      },
-      {
-        "artist": "Joe Bonamassa",
-        "links": []
       },
       {
         "artist": "Gary Clark Jr",
@@ -12328,10 +11955,6 @@
     "infoLink": "https://www.rectifierguide.com/",
     "usage": [
       {
-        "artist": "James Hetfield",
-        "links": []
-      },
-      {
         "artist": "Kirk Hammett",
         "links": [
           {
@@ -12387,10 +12010,6 @@
     "infoLink": "https://www.rectifierguide.com/",
     "usage": [
       {
-        "artist": "James Hetfield",
-        "links": []
-      },
-      {
         "artist": "Kirk Hammett",
         "links": [
           {
@@ -12445,10 +12064,6 @@
     ],
     "infoLink": "https://www.rectifierguide.com/",
     "usage": [
-      {
-        "artist": "James Hetfield",
-        "links": []
-      },
       {
         "artist": "Kirk Hammett",
         "links": [
@@ -12509,7 +12124,14 @@
     "usage": [
       {
         "artist": "James Hetfield",
-        "links": []
+        "links": [
+          {
+            "url": "https://www.riffhard.com/how-to-get-james-hetfields-guitar-tone/",
+            "title": "How to Get James Hetfield's Guitar Tone - Riffhard",
+            "supporting_quote": "The classic Metallica tone is often associated with the Mesa Boogie amplifiers, particularly the Mark IIC+ and the Dual Rectifier.",
+            "strength": "moderate"
+          }
+        ]
       },
       {
         "artist": "Kirk Hammett",
@@ -12582,7 +12204,14 @@
     "usage": [
       {
         "artist": "James Hetfield",
-        "links": []
+        "links": [
+          {
+            "url": "https://www.riffhard.com/how-to-get-james-hetfields-guitar-tone/",
+            "title": "How to Get James Hetfield's Guitar Tone - Riffhard",
+            "supporting_quote": "The classic Metallica tone is often associated with the Mesa Boogie amplifiers, particularly the Mark IIC+ and the Dual Rectifier.",
+            "strength": "moderate"
+          }
+        ]
       },
       {
         "artist": "Kirk Hammett",
@@ -12655,7 +12284,14 @@
     "usage": [
       {
         "artist": "James Hetfield",
-        "links": []
+        "links": [
+          {
+            "url": "https://www.riffhard.com/how-to-get-james-hetfields-guitar-tone/",
+            "title": "How to Get James Hetfield's Guitar Tone - Riffhard",
+            "supporting_quote": "The classic Metallica tone is often associated with the Mesa Boogie amplifiers, particularly the Mark IIC+ and the Dual Rectifier.",
+            "strength": "moderate"
+          }
+        ]
       },
       {
         "artist": "Kirk Hammett",
@@ -12728,7 +12364,14 @@
     "usage": [
       {
         "artist": "James Hetfield",
-        "links": []
+        "links": [
+          {
+            "url": "https://www.riffhard.com/how-to-get-james-hetfields-guitar-tone/",
+            "title": "How to Get James Hetfield's Guitar Tone - Riffhard",
+            "supporting_quote": "The classic Metallica tone is often associated with the Mesa Boogie amplifiers, particularly the Mark IIC+ and the Dual Rectifier.",
+            "strength": "moderate"
+          }
+        ]
       },
       {
         "artist": "Kirk Hammett",
@@ -13329,7 +12972,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ruby-rocket-paul-ruby-rocket.114725/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ruby-rocket-paul-ruby-rocket.114725/",
+    "usage": []
   },
   "RUBY ROCKET BRIGHT": {
     "brand": "Ruby",
@@ -13342,7 +12986,8 @@
     "info": [
       "FAS Forum Info"
     ],
-    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ruby-rocket-paul-ruby-rocket.114725/"
+    "infoLink": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-ruby-rocket-paul-ruby-rocket.114725/",
+    "usage": []
   },
   "SHIVER CLEAN": {
     "brand": "Bogner",
@@ -13447,10 +13092,6 @@
         ]
       },
       {
-        "artist": "Howard Leese",
-        "links": []
-      },
-      {
         "artist": "Mark Knopfler",
         "links": [
           {
@@ -13471,10 +13112,6 @@
             "strength": "weak"
           }
         ]
-      },
-      {
-        "artist": "Warren Haynes",
-        "links": []
       }
     ]
   },
@@ -13521,10 +13158,6 @@
         ]
       },
       {
-        "artist": "Howard Leese",
-        "links": []
-      },
-      {
         "artist": "Mark Knopfler",
         "links": [
           {
@@ -13545,10 +13178,6 @@
             "strength": "weak"
           }
         ]
-      },
-      {
-        "artist": "Warren Haynes",
-        "links": []
       }
     ]
   },
@@ -13595,10 +13224,6 @@
         ]
       },
       {
-        "artist": "Howard Leese",
-        "links": []
-      },
-      {
         "artist": "Mark Knopfler",
         "links": [
           {
@@ -13619,10 +13244,6 @@
             "strength": "weak"
           }
         ]
-      },
-      {
-        "artist": "Warren Haynes",
-        "links": []
       }
     ]
   },
@@ -14630,10 +14251,6 @@
     "infoLink": null,
     "usage": [
       {
-        "artist": "Guthrie Govan",
-        "links": []
-      },
-      {
         "artist": "Pete Thorn",
         "links": [
           {
@@ -14812,12 +14429,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "N/A",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "SUPREMO TREM": {
     "brand": "Supro",
@@ -14887,10 +14499,6 @@
             "strength": "moderate"
           }
         ]
-      },
-      {
-        "artist": "Dan Auerbach",
-        "links": []
       },
       {
         "artist": "Tyler Bryant",
@@ -15004,14 +14612,6 @@
         ]
       },
       {
-        "artist": "Joe Bonamassa",
-        "links": []
-      },
-      {
-        "artist": "Brad Paisley",
-        "links": []
-      },
-      {
         "artist": "Mick Jones",
         "links": [
           {
@@ -15050,14 +14650,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "Joe Bonamassa",
-        "links": []
-      },
-      {
-        "artist": "Brad Paisley",
-        "links": []
       },
       {
         "artist": "Mick Jones",
@@ -15133,7 +14725,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "TRIPLE CREST 2": {
     "brand": "Mesa",
@@ -15171,10 +14764,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "John Browne",
-        "links": []
       }
     ]
   },
@@ -15214,10 +14803,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "John Browne",
-        "links": []
       }
     ]
   },
@@ -15233,12 +14818,7 @@
     "songLink": null,
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "N/A",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "TWO STONE J35": {
     "brand": "Two-Rock",
@@ -15383,7 +14963,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "USA BASS 400 2": {
     "brand": "Mesa",
@@ -15394,7 +14975,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "USA JP IIC+ GREEN": {
     "brand": "Mesa",
@@ -15545,7 +15127,8 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": []
   },
   "USA MK IIC+": {
     "brand": "Mesa",
@@ -15786,16 +15369,7 @@
     "songLink": "https://www.groundguitar.com/james-hetfield-guitars-and-gear/james-hetfields-mesa-boogie-mark-iic/",
     "info": [],
     "infoLink": null,
-    "usage": [
-      {
-        "artist": "James Hetfield (Master of Puppets (1986))",
-        "links": []
-      },
-      {
-        "artist": "John Petrucci",
-        "links": []
-      }
-    ]
+    "usage": []
   },
   "USA MK IV LEAD/RHYTHM": {
     "brand": "Mesa",
@@ -15821,10 +15395,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "Carlos Santana",
-        "links": []
       },
       {
         "artist": "Philip Sayce",
@@ -15864,10 +15434,6 @@
         ]
       },
       {
-        "artist": "Carlos Santana",
-        "links": []
-      },
-      {
         "artist": "Philip Sayce",
         "links": [
           {
@@ -15903,10 +15469,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "Carlos Santana",
-        "links": []
       }
     ]
   },
@@ -15934,10 +15496,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "Carlos Santana",
-        "links": []
       }
     ]
   },
@@ -15965,10 +15523,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "Carlos Santana",
-        "links": []
       }
     ]
   },
@@ -15996,10 +15550,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "Carlos Santana",
-        "links": []
       }
     ]
   },
@@ -16027,10 +15577,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "Carlos Santana",
-        "links": []
       }
     ]
   },
@@ -16058,10 +15604,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "Carlos Santana",
-        "links": []
       }
     ]
   },
@@ -16089,10 +15631,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "Carlos Santana",
-        "links": []
       }
     ]
   },
@@ -16120,10 +15658,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "Carlos Santana",
-        "links": []
       }
     ]
   },
@@ -16151,10 +15685,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "Carlos Santana",
-        "links": []
       }
     ]
   },
@@ -16182,10 +15712,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "Carlos Santana",
-        "links": []
       }
     ]
   },
@@ -16213,10 +15739,6 @@
             "strength": "strong"
           }
         ]
-      },
-      {
-        "artist": "Carlos Santana",
-        "links": []
       }
     ]
   },
@@ -16246,10 +15768,6 @@
             "strength": "moderate"
           }
         ]
-      },
-      {
-        "artist": "Steve Lukather",
-        "links": []
       }
     ]
   },
@@ -16279,10 +15797,6 @@
             "strength": "moderate"
           }
         ]
-      },
-      {
-        "artist": "Steve Lukather",
-        "links": []
       }
     ]
   },
@@ -16312,10 +15826,6 @@
             "strength": "moderate"
           }
         ]
-      },
-      {
-        "artist": "Steve Lukather",
-        "links": []
       }
     ]
   },
@@ -16345,10 +15855,6 @@
             "strength": "moderate"
           }
         ]
-      },
-      {
-        "artist": "Steve Lukather",
-        "links": []
       }
     ]
   },
@@ -16378,10 +15884,6 @@
             "strength": "moderate"
           }
         ]
-      },
-      {
-        "artist": "Steve Lukather",
-        "links": []
       }
     ]
   },

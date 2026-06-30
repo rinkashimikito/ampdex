@@ -932,7 +932,9 @@ function OutOfScope({ onBack }: { onBack: () => void }) {
 function AmpUsage({ name }: { name: string }) {
   const u = usageByName[name];
   if (!u) return null;
-  const artists = u.usage?.length ? u.usage : null;
+  // Only show players whose usage is backed by at least one verified source.
+  const sourced = u.usage?.filter((a) => a.links && a.links.length > 0) ?? [];
+  const artists = sourced.length ? sourced : null;
   const realAmp = u.realAmp?.trim();
   if (!realAmp && !artists && !u.songs?.length && !u.info?.length) return null;
   return (
