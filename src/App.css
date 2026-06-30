@@ -594,6 +594,23 @@ mark {
   color: var(--paper);
 }
 
+.back-btn {
+  display: inline-block;
+  font-family: 'Geist Mono', ui-monospace, monospace;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  background: none;
+  border: none;
+  padding: 0 0 0.5rem;
+  cursor: pointer;
+}
+
+.back-btn:hover {
+  color: var(--ink);
+}
+
 .gtr-lib-none {
   font-family: 'Geist Mono', ui-monospace, monospace;
   font-size: 0.72rem;

@@ -1103,6 +1103,9 @@ function GuitaristView({
     <>
       <header className="detail-head">
         <div>
+          <button className="back-btn" onClick={() => window.history.back()}>
+            ← back
+          </button>
           <div className="kicker">Guitarist</div>
           <h2>{g.name}</h2>
           {g.bands.length > 0 && <div className="sub">{g.bands.join(' · ')}</div>}
@@ -1226,6 +1229,9 @@ function DetailView({
     <>
       <header className="detail-head">
         <div>
+          <button className="back-btn" onClick={() => window.history.back()}>
+            ← back
+          </button>
           <div className="kicker">Amp · {a.num}</div>
           <h2>{a.name}</h2>
           {wikiEntryFor(a.name)?.description && (
