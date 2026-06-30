@@ -713,15 +713,17 @@ export default function App() {
           <section className="layout">
             <aside className="results">
               <div className="results-count">
-                {query.trim() || collection
-                  ? `${
-                      collection && collectionByKey[collection]
-                        ? collectionByKey[collection].label + ' · '
-                        : ''
-                    }${listResults.length} match${listResults.length === 1 ? '' : 'es'}`
-                  : topMatch?.kind === 'guitarist'
-                    ? 'Guitarist'
-                    : 'Amp'}
+                {query.trim() || collection ? (
+                  `${
+                    collection && collectionByKey[collection]
+                      ? collectionByKey[collection].label + ' · '
+                      : ''
+                  }${listResults.length} match${listResults.length === 1 ? '' : 'es'}`
+                ) : (
+                  <button className="back-btn" onClick={() => changeQuery('')}>
+                    ← back to search
+                  </button>
+                )}
               </div>
               <ul>
                 {listResults.map((r, i) => {
