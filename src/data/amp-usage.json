@@ -43,6 +43,51 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "Buddy Guy",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/buddy-guy-guitars-and-gear/",
+            "title": "Buddy Guy's Guitars and Gear - Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Keith Richards",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/gear/how-the-fender-twin-amp-became-a-worthy-weapon-of-choice-for-clapton-richards-gilmour-and-bonamassa",
+            "title": "How the Fender Twin-Amp Became a Worthy Weapon of Choice for Clapton, Richards, Gilmour and Bonamassa | GuitarPlayer",
+            "strength": "strong"
+          },
+          {
+            "url": "https://mixdownmag.com.au/features/gear-rundown-keith-richards/",
+            "title": "Gear Rundown: Keith Richards | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Larry Carlton",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-larry-carlton",
+            "title": "Rig Rundown: Larry Carlton - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jonny Greenwood",
+        "links": [
+          {
+            "url": "https://thekingofgear.com/jonny/amplifiers",
+            "title": "Jonny Greenwood's Amplifiers | The King of Gear",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -78,6 +123,71 @@
             "url": "https://www.groundguitar.com/mac-demarco/",
             "title": "Mac DeMarco Guitars & Gear - Ground Guitar",
             "supporting_quote": "This is the amplifier that Mac DeMarco used on his early records, at least up until Another One (2015). [Identified as a Fender Vibro-Champ, the Champ family amp.]",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jeff Beck",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jeff-beck-guitars-and-gear/",
+            "title": "Jeff Beck's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Buddy Guy",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/buddy-guy-guitars-and-gear/",
+            "title": "Buddy Guy's Guitars and Gear - Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Keith Richards",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/gear/how-the-fender-twin-amp-became-a-worthy-weapon-of-choice-for-clapton-richards-gilmour-and-bonamassa",
+            "title": "How the Fender Twin-Amp Became a Worthy Weapon of Choice for Clapton, Richards, Gilmour and Bonamassa | GuitarPlayer",
+            "strength": "strong"
+          },
+          {
+            "url": "https://mixdownmag.com.au/features/gear-rundown-keith-richards/",
+            "title": "Gear Rundown: Keith Richards | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Larry Carlton",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-larry-carlton",
+            "title": "Rig Rundown: Larry Carlton - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jonny Greenwood",
+        "links": [
+          {
+            "url": "https://thekingofgear.com/jonny/amplifiers",
+            "title": "Jonny Greenwood's Amplifiers | The King of Gear",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Gary Clark Jr",
+        "links": [
+          {
+            "url": "https://happybluesman.com/sound-gary-clark-jr/",
+            "title": "How to sound like Gary Clark Jr. - Happy Bluesman",
             "strength": "strong"
           }
         ]
@@ -181,6 +291,151 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "B.B. King",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/232-bb-kings-guitar-gear-rig-and-equipment",
+            "title": "B.B. King's Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Buddy Guy",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/buddy-guy-guitars-and-gear/",
+            "title": "Buddy Guy's Guitars and Gear - Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Keith Richards",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/gear/how-the-fender-twin-amp-became-a-worthy-weapon-of-choice-for-clapton-richards-gilmour-and-bonamassa",
+            "title": "How the Fender Twin-Amp Became a Worthy Weapon of Choice for Clapton, Richards, Gilmour and Bonamassa | GuitarPlayer",
+            "strength": "strong"
+          },
+          {
+            "url": "https://mixdownmag.com.au/features/gear-rundown-keith-richards/",
+            "title": "Gear Rundown: Keith Richards | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Jerry Garcia",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/features/gear-features/the-songs-that-we-hear-capturing-jerry-garcias-tone",
+            "title": "How to Capture Jerry Garcia's Signature Tones | Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Duane Allman",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/duane-allman-guitars-and-gear/",
+            "title": "Duane Allman Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Larry Carlton",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-larry-carlton",
+            "title": "Rig Rundown: Larry Carlton - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "George Benson",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/guitars/namm-2016-fenders-george-benson-amp-range-expanded-with-twin-reverb-633437",
+            "title": "NAMM 2016: Fender's George Benson amp range expanded with Twin Reverb | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Wes Montgomery",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/wes-montgomery-guitars-and-gear/",
+            "title": "Wes Montgomery Guitars & Gear List - Guitar Lobby",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Steve Howe",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-yes-steve-howe-and-chris-squire",
+            "title": "Rig Rundown - Yes' Steve Howe and Chris Squire - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jack White",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jack-white-guitars-and-gear/",
+            "title": "Jack White's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jonny Greenwood",
+        "links": [
+          {
+            "url": "https://thekingofgear.com/jonny/amplifiers",
+            "title": "Jonny Greenwood's Amplifiers | The King of Gear",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "J Mascis",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Kenny Wayne Shepherd",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-kenny-wayne-shepherd",
+            "title": "Rig Rundown - Kenny Wayne Shepherd - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -278,6 +533,151 @@
             "url": "https://www.guitarplayer.com/gear/how-the-fender-twin-amp-became-a-worthy-weapon-of-choice-for-clapton-richards-gilmour-and-bonamassa",
             "title": "How the Fender Twin-Amp Became a Worthy Weapon of Choice for Clapton, Richards, Gilmour and Bonamassa | GuitarPlayer",
             "supporting_quote": "David Gilmour's well-worn 1958 Fender Twin-Amp [tweed Twin, used on Pink Floyd's The Endless River].",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "B.B. King",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/232-bb-kings-guitar-gear-rig-and-equipment",
+            "title": "B.B. King's Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Buddy Guy",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/buddy-guy-guitars-and-gear/",
+            "title": "Buddy Guy's Guitars and Gear - Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Keith Richards",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/gear/how-the-fender-twin-amp-became-a-worthy-weapon-of-choice-for-clapton-richards-gilmour-and-bonamassa",
+            "title": "How the Fender Twin-Amp Became a Worthy Weapon of Choice for Clapton, Richards, Gilmour and Bonamassa | GuitarPlayer",
+            "strength": "strong"
+          },
+          {
+            "url": "https://mixdownmag.com.au/features/gear-rundown-keith-richards/",
+            "title": "Gear Rundown: Keith Richards | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Jerry Garcia",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/features/gear-features/the-songs-that-we-hear-capturing-jerry-garcias-tone",
+            "title": "How to Capture Jerry Garcia's Signature Tones | Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Duane Allman",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/duane-allman-guitars-and-gear/",
+            "title": "Duane Allman Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Larry Carlton",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-larry-carlton",
+            "title": "Rig Rundown: Larry Carlton - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "George Benson",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/guitars/namm-2016-fenders-george-benson-amp-range-expanded-with-twin-reverb-633437",
+            "title": "NAMM 2016: Fender's George Benson amp range expanded with Twin Reverb | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Wes Montgomery",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/wes-montgomery-guitars-and-gear/",
+            "title": "Wes Montgomery Guitars & Gear List - Guitar Lobby",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Steve Howe",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-yes-steve-howe-and-chris-squire",
+            "title": "Rig Rundown - Yes' Steve Howe and Chris Squire - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jack White",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jack-white-guitars-and-gear/",
+            "title": "Jack White's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jonny Greenwood",
+        "links": [
+          {
+            "url": "https://thekingofgear.com/jonny/amplifiers",
+            "title": "Jonny Greenwood's Amplifiers | The King of Gear",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "J Mascis",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Kenny Wayne Shepherd",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-kenny-wayne-shepherd",
+            "title": "Rig Rundown - Kenny Wayne Shepherd - Premier Guitar",
             "strength": "strong"
           }
         ]
@@ -381,6 +781,151 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "B.B. King",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/232-bb-kings-guitar-gear-rig-and-equipment",
+            "title": "B.B. King's Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Buddy Guy",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/buddy-guy-guitars-and-gear/",
+            "title": "Buddy Guy's Guitars and Gear - Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Keith Richards",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/gear/how-the-fender-twin-amp-became-a-worthy-weapon-of-choice-for-clapton-richards-gilmour-and-bonamassa",
+            "title": "How the Fender Twin-Amp Became a Worthy Weapon of Choice for Clapton, Richards, Gilmour and Bonamassa | GuitarPlayer",
+            "strength": "strong"
+          },
+          {
+            "url": "https://mixdownmag.com.au/features/gear-rundown-keith-richards/",
+            "title": "Gear Rundown: Keith Richards | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Jerry Garcia",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/features/gear-features/the-songs-that-we-hear-capturing-jerry-garcias-tone",
+            "title": "How to Capture Jerry Garcia's Signature Tones | Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Duane Allman",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/duane-allman-guitars-and-gear/",
+            "title": "Duane Allman Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Larry Carlton",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-larry-carlton",
+            "title": "Rig Rundown: Larry Carlton - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "George Benson",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/guitars/namm-2016-fenders-george-benson-amp-range-expanded-with-twin-reverb-633437",
+            "title": "NAMM 2016: Fender's George Benson amp range expanded with Twin Reverb | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Wes Montgomery",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/wes-montgomery-guitars-and-gear/",
+            "title": "Wes Montgomery Guitars & Gear List - Guitar Lobby",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Steve Howe",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-yes-steve-howe-and-chris-squire",
+            "title": "Rig Rundown - Yes' Steve Howe and Chris Squire - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jack White",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jack-white-guitars-and-gear/",
+            "title": "Jack White's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jonny Greenwood",
+        "links": [
+          {
+            "url": "https://thekingofgear.com/jonny/amplifiers",
+            "title": "Jonny Greenwood's Amplifiers | The King of Gear",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "J Mascis",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Kenny Wayne Shepherd",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-kenny-wayne-shepherd",
+            "title": "Rig Rundown - Kenny Wayne Shepherd - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -393,7 +938,84 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": [
+      {
+        "artist": "Freddie King",
+        "links": [
+          {
+            "url": "https://happybluesman.com/how-sound-freddie-king/",
+            "title": "How to sound like Freddie King - Happy Bluesman",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Keith Richards",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/gear/how-the-fender-twin-amp-became-a-worthy-weapon-of-choice-for-clapton-richards-gilmour-and-bonamassa",
+            "title": "How the Fender Twin-Amp Became a Worthy Weapon of Choice for Clapton, Richards, Gilmour and Bonamassa | GuitarPlayer",
+            "strength": "strong"
+          },
+          {
+            "url": "https://mixdownmag.com.au/features/gear-rundown-keith-richards/",
+            "title": "Gear Rundown: Keith Richards | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Derek Trucks",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/derek-trucks-guitars-and-gear/derek-trucks-alessandro-azz-amp/",
+            "title": "Derek Trucks' Alessandro AZZ Amp - Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Wes Montgomery",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/wes-montgomery-guitars-and-gear/",
+            "title": "Wes Montgomery Guitars & Gear List - Guitar Lobby",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Jonny Greenwood",
+        "links": [
+          {
+            "url": "https://thekingofgear.com/jonny/amplifiers",
+            "title": "Jonny Greenwood's Amplifiers | The King of Gear",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Kenny Wayne Shepherd",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-kenny-wayne-shepherd",
+            "title": "Rig Rundown - Kenny Wayne Shepherd - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
+      }
+    ]
   },
   "6G12 CONCERT": {
     "brand": "Fender",
@@ -480,6 +1102,36 @@
       {
         "artist": "Jimi Hendrix",
         "links": []
+      },
+      {
+        "artist": "Buddy Guy",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/buddy-guy-guitars-and-gear/",
+            "title": "Buddy Guy's Guitars and Gear - Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Larry Carlton",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-larry-carlton",
+            "title": "Rig Rundown: Larry Carlton - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -549,6 +1201,16 @@
       {
         "artist": "Jimi Hendrix",
         "links": []
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -618,6 +1280,16 @@
       {
         "artist": "Jimi Hendrix",
         "links": []
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -630,7 +1302,19 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": [
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
+      }
+    ]
   },
   "‘65 BASSGUY BASS": {
     "brand": "Fender",
@@ -654,6 +1338,16 @@
             "url": "https://www.groundguitar.com/mike-mccready/mike-mccreadys-fender-bassman-ab165-amp/",
             "title": "Mike McCready's Fender Bassman AB165 Amp – Ground Guitar",
             "supporting_quote": "Mike regularly uses a 1963 blonde Fender Bassman (AB165) for clean tones in his live rig.",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
             "strength": "strong"
           }
         ]
@@ -682,6 +1376,16 @@
             "url": "https://www.groundguitar.com/mike-mccready/mike-mccreadys-fender-bassman-ab165-amp/",
             "title": "Mike McCready's Fender Bassman AB165 Amp – Ground Guitar",
             "supporting_quote": "Mike regularly uses a 1963 blonde Fender Bassman (AB165) for clean tones in his live rig.",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
             "strength": "strong"
           }
         ]
@@ -761,6 +1465,106 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "Angus Young",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/angus-young-gear/angus-youngs-marshall-model-1959-super-lead/",
+            "title": "Angus Young's Marshall Model 1959 Super Lead - Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Randy Rhoads",
+        "links": [
+          {
+            "url": "https://guitar.com/features/artist-rigs/gear-used-by-randy-rhoads-blizzard-of-ozz-ozzy-osbourne/",
+            "title": "The Gear Used By Randy Rhoads on Blizzard of Ozz | Guitar.com",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Paul Gilbert",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/articles/25853-rig-rundown-mr-bigs-paul-gilbert-billy-sheehan-2017",
+            "title": "Mr. Big 2017 Rig Rundown: Paul Gilbert & Billy Sheehan - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Frank Zappa",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/players/frank-zappa-inside-the-guitars-and-amps-behind-his-greatest-recordings",
+            "title": "Frank Zappa's Favorite Guitars and Amps | GuitarPlayer",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Robert Fripp",
+        "links": [
+          {
+            "url": "https://frippgear.wordpress.com/amplifiers/",
+            "title": "Amplifiers | Fripperies",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "J Mascis",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Uli Jon Roth",
+        "links": [
+          {
+            "url": "https://guitardoor.com/uli-jon-roth-the-original-neo-classical-master/",
+            "title": "Uli Jon Roth: The Original Neo-Classical Master - Guitardoor",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Glenn Tipton",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Glenn_Tipton",
+            "title": "Glenn Tipton - Wikipedia",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Dave Murray",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/dave-murray-iron-maiden-rig-the-future-pasttour-2023",
+            "title": "Dave Murray's Iron Maiden touring rig has been revealed - MusicRadar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -834,6 +1638,106 @@
             "url": "https://www.premierguitar.com/gear/rig-rundown-j-d-simo",
             "title": "Rig Rundown: J.D. Simo – Premier Guitar",
             "supporting_quote": "His No. 1 is an über rare purple, 1967, 100-watt Marshall Super Lead which he runs into a 1969 [Marshall cabinet].",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Angus Young",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/angus-young-gear/angus-youngs-marshall-model-1959-super-lead/",
+            "title": "Angus Young's Marshall Model 1959 Super Lead - Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Randy Rhoads",
+        "links": [
+          {
+            "url": "https://guitar.com/features/artist-rigs/gear-used-by-randy-rhoads-blizzard-of-ozz-ozzy-osbourne/",
+            "title": "The Gear Used By Randy Rhoads on Blizzard of Ozz | Guitar.com",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Paul Gilbert",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/articles/25853-rig-rundown-mr-bigs-paul-gilbert-billy-sheehan-2017",
+            "title": "Mr. Big 2017 Rig Rundown: Paul Gilbert & Billy Sheehan - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Frank Zappa",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/players/frank-zappa-inside-the-guitars-and-amps-behind-his-greatest-recordings",
+            "title": "Frank Zappa's Favorite Guitars and Amps | GuitarPlayer",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Robert Fripp",
+        "links": [
+          {
+            "url": "https://frippgear.wordpress.com/amplifiers/",
+            "title": "Amplifiers | Fripperies",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "J Mascis",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Uli Jon Roth",
+        "links": [
+          {
+            "url": "https://guitardoor.com/uli-jon-roth-the-original-neo-classical-master/",
+            "title": "Uli Jon Roth: The Original Neo-Classical Master - Guitardoor",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Glenn Tipton",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Glenn_Tipton",
+            "title": "Glenn Tipton - Wikipedia",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Dave Murray",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/dave-murray-iron-maiden-rig-the-future-pasttour-2023",
+            "title": "Dave Murray's Iron Maiden touring rig has been revealed - MusicRadar",
             "strength": "strong"
           }
         ]
@@ -913,6 +1817,106 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "Angus Young",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/angus-young-gear/angus-youngs-marshall-model-1959-super-lead/",
+            "title": "Angus Young's Marshall Model 1959 Super Lead - Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Randy Rhoads",
+        "links": [
+          {
+            "url": "https://guitar.com/features/artist-rigs/gear-used-by-randy-rhoads-blizzard-of-ozz-ozzy-osbourne/",
+            "title": "The Gear Used By Randy Rhoads on Blizzard of Ozz | Guitar.com",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Paul Gilbert",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/articles/25853-rig-rundown-mr-bigs-paul-gilbert-billy-sheehan-2017",
+            "title": "Mr. Big 2017 Rig Rundown: Paul Gilbert & Billy Sheehan - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Frank Zappa",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/players/frank-zappa-inside-the-guitars-and-amps-behind-his-greatest-recordings",
+            "title": "Frank Zappa's Favorite Guitars and Amps | GuitarPlayer",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Robert Fripp",
+        "links": [
+          {
+            "url": "https://frippgear.wordpress.com/amplifiers/",
+            "title": "Amplifiers | Fripperies",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "J Mascis",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Uli Jon Roth",
+        "links": [
+          {
+            "url": "https://guitardoor.com/uli-jon-roth-the-original-neo-classical-master/",
+            "title": "Uli Jon Roth: The Original Neo-Classical Master - Guitardoor",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Glenn Tipton",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Glenn_Tipton",
+            "title": "Glenn Tipton - Wikipedia",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Dave Murray",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/dave-murray-iron-maiden-rig-the-future-pasttour-2023",
+            "title": "Dave Murray's Iron Maiden touring rig has been revealed - MusicRadar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -937,6 +1941,56 @@
       {
         "artist": "Jimmy Page",
         "links": []
+      },
+      {
+        "artist": "Duane Allman",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/duane-allman-guitars-and-gear/",
+            "title": "Duane Allman Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Michael Schenker",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/522-michael-schenker-guitar-rig-gear-and-equipment",
+            "title": "Michael Schenker Guitar Rig Gear and Equipment - UberProAudio",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Glenn Tipton",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Glenn_Tipton",
+            "title": "Glenn Tipton - Wikipedia",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "K.K. Downing",
+        "links": [
+          {
+            "url": "https://www.bonhams.com/auction/24669/lot/155A/ken-kk-downingjudas-priest-a-marshall-jcm800-model-1987-50-watt-lead-amplifier-1981/",
+            "title": "Ken (K.K.) Downing/Judas Priest: A Marshall JCM800 Model 1987 50 watt Lead amplifier, 1981 - Bonhams",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Dave Murray",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/dave-murray-iron-maiden-rig-the-future-pasttour-2023",
+            "title": "Dave Murray's Iron Maiden touring rig has been revealed - MusicRadar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -961,6 +2015,56 @@
       {
         "artist": "Jimmy Page",
         "links": []
+      },
+      {
+        "artist": "Duane Allman",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/duane-allman-guitars-and-gear/",
+            "title": "Duane Allman Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Michael Schenker",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/522-michael-schenker-guitar-rig-gear-and-equipment",
+            "title": "Michael Schenker Guitar Rig Gear and Equipment - UberProAudio",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Glenn Tipton",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Glenn_Tipton",
+            "title": "Glenn Tipton - Wikipedia",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "K.K. Downing",
+        "links": [
+          {
+            "url": "https://www.bonhams.com/auction/24669/lot/155A/ken-kk-downingjudas-priest-a-marshall-jcm800-model-1987-50-watt-lead-amplifier-1981/",
+            "title": "Ken (K.K.) Downing/Judas Priest: A Marshall JCM800 Model 1987 50 watt Lead amplifier, 1981 - Bonhams",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Dave Murray",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/dave-murray-iron-maiden-rig-the-future-pasttour-2023",
+            "title": "Dave Murray's Iron Maiden touring rig has been revealed - MusicRadar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -985,6 +2089,56 @@
       {
         "artist": "Jimmy Page",
         "links": []
+      },
+      {
+        "artist": "Duane Allman",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/duane-allman-guitars-and-gear/",
+            "title": "Duane Allman Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Michael Schenker",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/522-michael-schenker-guitar-rig-gear-and-equipment",
+            "title": "Michael Schenker Guitar Rig Gear and Equipment - UberProAudio",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Glenn Tipton",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Glenn_Tipton",
+            "title": "Glenn Tipton - Wikipedia",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "K.K. Downing",
+        "links": [
+          {
+            "url": "https://www.bonhams.com/auction/24669/lot/155A/ken-kk-downingjudas-priest-a-marshall-jcm800-model-1987-50-watt-lead-amplifier-1981/",
+            "title": "Ken (K.K.) Downing/Judas Priest: A Marshall JCM800 Model 1987 50 watt Lead amplifier, 1981 - Bonhams",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Dave Murray",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/dave-murray-iron-maiden-rig-the-future-pasttour-2023",
+            "title": "Dave Murray's Iron Maiden touring rig has been revealed - MusicRadar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -1306,6 +2460,26 @@
             "strength": "moderate"
           }
         ]
+      },
+      {
+        "artist": "Vinnie Moore",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/631-vinnie-moore-guitar-rig-gear-and-equipment",
+            "title": "Vinnie Moore Guitar Rig Gear and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Glenn Tipton",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Glenn_Tipton",
+            "title": "Glenn Tipton - Wikipedia",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -1349,6 +2523,26 @@
             "title": "Engl (amplifiers) - Academic dictionaries and encyclopedias",
             "supporting_quote": "The design is based on the Engl Savage 120 with modified voicing to suit the style of former Deep Purple guitarist Ritchie Blackmore.",
             "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Vinnie Moore",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/631-vinnie-moore-guitar-rig-gear-and-equipment",
+            "title": "Vinnie Moore Guitar Rig Gear and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Glenn Tipton",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Glenn_Tipton",
+            "title": "Glenn Tipton - Wikipedia",
+            "strength": "strong"
           }
         ]
       }
@@ -1665,7 +2859,19 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": [
+      {
+        "artist": "Duane Allman",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/duane-allman-guitars-and-gear/",
+            "title": "Duane Allman Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
+      }
+    ]
   },
   "BIG HAIR": {
     "brand": "FAS",
@@ -1724,7 +2930,19 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": [
+      {
+        "artist": "Larry Carlton",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-larry-carlton",
+            "title": "Rig Rundown: Larry Carlton - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      }
+    ]
   },
   "BLUDOJAI LEAD": {
     "brand": "Bludotone",
@@ -1735,7 +2953,19 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": [
+      {
+        "artist": "Larry Carlton",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-larry-carlton",
+            "title": "Rig Rundown: Larry Carlton - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      }
+    ]
   },
   "BLUDOJAI LEAD PAB": {
     "brand": "Bludotone",
@@ -1746,7 +2976,19 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": [
+      {
+        "artist": "Larry Carlton",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-larry-carlton",
+            "title": "Rig Rundown: Larry Carlton - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      }
+    ]
   },
   "BOGFISH BROWN": {
     "brand": "Bogner",
@@ -1845,6 +3087,36 @@
             "strength": "weak"
           }
         ]
+      },
+      {
+        "artist": "Duane Allman",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/duane-allman-guitars-and-gear/",
+            "title": "Duane Allman Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Michael Schenker",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/522-michael-schenker-guitar-rig-gear-and-equipment",
+            "title": "Michael Schenker Guitar Rig Gear and Equipment - UberProAudio",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "K.K. Downing",
+        "links": [
+          {
+            "url": "https://www.bonhams.com/auction/24669/lot/155A/ken-kk-downingjudas-priest-a-marshall-jcm800-model-1987-50-watt-lead-amplifier-1981/",
+            "title": "Ken (K.K.) Downing/Judas Priest: A Marshall JCM800 Model 1987 50 watt Lead amplifier, 1981 - Bonhams",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -1881,6 +3153,36 @@
             "title": "Marshall JCM 800 Kerry King 2203KK 100-watt Guitar Amp Head | True Tone Music",
             "supporting_quote": "This head was designed with King to give you his undeniably tone with unique features that Kerry added to his 'Beast.' [Marshall JCM 800 Kerry King 2203KK 100-watt Guitar Amp Head]",
             "strength": "weak"
+          }
+        ]
+      },
+      {
+        "artist": "Duane Allman",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/duane-allman-guitars-and-gear/",
+            "title": "Duane Allman Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Michael Schenker",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/522-michael-schenker-guitar-rig-gear-and-equipment",
+            "title": "Michael Schenker Guitar Rig Gear and Equipment - UberProAudio",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "K.K. Downing",
+        "links": [
+          {
+            "url": "https://www.bonhams.com/auction/24669/lot/155A/ken-kk-downingjudas-priest-a-marshall-jcm800-model-1987-50-watt-lead-amplifier-1981/",
+            "title": "Ken (K.K.) Downing/Judas Priest: A Marshall JCM800 Model 1987 50 watt Lead amplifier, 1981 - Bonhams",
+            "strength": "strong"
           }
         ]
       }
@@ -1923,6 +3225,66 @@
             "url": "https://www.groundguitar.com/james-hetfield-guitars-and-gear/james-hetfields-marshall-jmp-2203/",
             "title": "James Hetfield's Marshall JCM 800 Model 2203 - Ground Guitar",
             "supporting_quote": "For the recording of Ride the Lightning in 1984, Hetfield ended up using this Marshall JCM800 alongside an Ibanez Tube Screamer TS-9 overdrive pedal and Marshall 1960B speaker cabinets.",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Angus Young",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/angus-young-gear/angus-youngs-marshall-model-1959-super-lead/",
+            "title": "Angus Young's Marshall Model 1959 Super Lead - Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Frank Zappa",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/players/frank-zappa-inside-the-guitars-and-amps-behind-his-greatest-recordings",
+            "title": "Frank Zappa's Favorite Guitars and Amps | GuitarPlayer",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Robert Fripp",
+        "links": [
+          {
+            "url": "https://frippgear.wordpress.com/amplifiers/",
+            "title": "Amplifiers | Fripperies",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Uli Jon Roth",
+        "links": [
+          {
+            "url": "https://guitardoor.com/uli-jon-roth-the-original-neo-classical-master/",
+            "title": "Uli Jon Roth: The Original Neo-Classical Master - Guitardoor",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Dave Murray",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/dave-murray-iron-maiden-rig-the-future-pasttour-2023",
+            "title": "Dave Murray's Iron Maiden touring rig has been revealed - MusicRadar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jeff Hanneman",
+        "links": [
+          {
+            "url": "https://guitar.com/features/artist-rigs/the-guitar-gear-used-on-slayer-reign-in-blood/",
+            "title": "The Guitar Gear Used on Slayer's 'Reign In Blood' - Guitar.com",
             "strength": "strong"
           }
         ]
@@ -1969,6 +3331,66 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "Angus Young",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/angus-young-gear/angus-youngs-marshall-model-1959-super-lead/",
+            "title": "Angus Young's Marshall Model 1959 Super Lead - Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Frank Zappa",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/players/frank-zappa-inside-the-guitars-and-amps-behind-his-greatest-recordings",
+            "title": "Frank Zappa's Favorite Guitars and Amps | GuitarPlayer",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Robert Fripp",
+        "links": [
+          {
+            "url": "https://frippgear.wordpress.com/amplifiers/",
+            "title": "Amplifiers | Fripperies",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Uli Jon Roth",
+        "links": [
+          {
+            "url": "https://guitardoor.com/uli-jon-roth-the-original-neo-classical-master/",
+            "title": "Uli Jon Roth: The Original Neo-Classical Master - Guitardoor",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Dave Murray",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/dave-murray-iron-maiden-rig-the-future-pasttour-2023",
+            "title": "Dave Murray's Iron Maiden touring rig has been revealed - MusicRadar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jeff Hanneman",
+        "links": [
+          {
+            "url": "https://guitar.com/features/artist-rigs/the-guitar-gear-used-on-slayer-reign-in-blood/",
+            "title": "The Guitar Gear Used on Slayer's 'Reign In Blood' - Guitar.com",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -1981,7 +3403,49 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": [
+      {
+        "artist": "Duane Allman",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/duane-allman-guitars-and-gear/",
+            "title": "Duane Allman Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jason Becker",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Jason_Becker",
+            "title": "Jason Becker - Wikipedia",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Michael Schenker",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/522-michael-schenker-guitar-rig-gear-and-equipment",
+            "title": "Michael Schenker Guitar Rig Gear and Equipment - UberProAudio",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "K.K. Downing",
+        "links": [
+          {
+            "url": "https://www.bonhams.com/auction/24669/lot/155A/ken-kk-downingjudas-priest-a-marshall-jcm800-model-1987-50-watt-lead-amplifier-1981/",
+            "title": "Ken (K.K.) Downing/Judas Priest: A Marshall JCM800 Model 1987 50 watt Lead amplifier, 1981 - Bonhams",
+            "strength": "strong"
+          }
+        ]
+      }
+    ]
   },
   "BRIT 800 MOD": {
     "brand": "Marshall",
@@ -1992,7 +3456,19 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": [
+      {
+        "artist": "Jason Becker",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Jason_Becker",
+            "title": "Jason Becker - Wikipedia",
+            "strength": "moderate"
+          }
+        ]
+      }
+    ]
   },
   "BRIT 800 STUDIO 20": {
     "brand": "Marshall",
@@ -2025,6 +3501,46 @@
             "url": "https://www.slashparadise.com/equipment/amps-slash.php",
             "title": "Slash's Amps | Marshall JCM 800, Silver Jubilee and AFD100 - Slash Paradise",
             "supporting_quote": "Slash and Marshall have tweaked the AFD100 enough to be the most accurate reproduction of the original amp that Slash used to record the Guns N' Roses album, Appetite For Destruction.",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Frank Zappa",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/players/frank-zappa-inside-the-guitars-and-amps-behind-his-greatest-recordings",
+            "title": "Frank Zappa's Favorite Guitars and Amps | GuitarPlayer",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Robert Fripp",
+        "links": [
+          {
+            "url": "https://frippgear.wordpress.com/amplifiers/",
+            "title": "Amplifiers | Fripperies",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Uli Jon Roth",
+        "links": [
+          {
+            "url": "https://guitardoor.com/uli-jon-roth-the-original-neo-classical-master/",
+            "title": "Uli Jon Roth: The Original Neo-Classical Master - Guitardoor",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Dave Murray",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/dave-murray-iron-maiden-rig-the-future-pasttour-2023",
+            "title": "Dave Murray's Iron Maiden touring rig has been revealed - MusicRadar",
             "strength": "strong"
           }
         ]
@@ -2120,6 +3636,26 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "Jeff Beck",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jeff-beck-guitars-and-gear/",
+            "title": "Jeff Beck's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Peter Green",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/peter-greens-1964-marshall-jtm45",
+            "title": "Peter Green's 1964 Marshall JTM45 - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -2160,6 +3696,26 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "Jeff Beck",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jeff-beck-guitars-and-gear/",
+            "title": "Jeff Beck's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Peter Green",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/peter-greens-1964-marshall-jtm45",
+            "title": "Peter Green's 1964 Marshall JTM45 - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -2191,6 +3747,36 @@
             "url": "https://www.musicradar.com/reviews/guitars/marshall-jvm410hjs-joe-satriani-signature-565303",
             "title": "Marshall JVM410HJS Joe Satriani Signature review | MusicRadar",
             "supporting_quote": "The Marshall JVM410HJS Joe Satriani Signature is based on a modified JVM410H tweaked, fine-tuned and transformed into a signature model, all channels precisely tuned to Joe's needs.",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "John 5",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-john-5",
+            "title": "Rig Rundown: John 5 - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Adrian Smith",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/adrian-smith-guitars-and-gear/",
+            "title": "Adrian Smith Guitars & Gear List - Guitar Lobby",
             "strength": "strong"
           }
         ]
@@ -2228,6 +3814,36 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "John 5",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-john-5",
+            "title": "Rig Rundown: John 5 - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Adrian Smith",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/adrian-smith-guitars-and-gear/",
+            "title": "Adrian Smith Guitars & Gear List - Guitar Lobby",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -2259,6 +3875,36 @@
             "url": "https://www.musicradar.com/reviews/guitars/marshall-jvm410hjs-joe-satriani-signature-565303",
             "title": "Marshall JVM410HJS Joe Satriani Signature review | MusicRadar",
             "supporting_quote": "The Marshall JVM410HJS Joe Satriani Signature is based on a modified JVM410H tweaked, fine-tuned and transformed into a signature model, all channels precisely tuned to Joe's needs.",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "John 5",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-john-5",
+            "title": "Rig Rundown: John 5 - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Adrian Smith",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/adrian-smith-guitars-and-gear/",
+            "title": "Adrian Smith Guitars & Gear List - Guitar Lobby",
             "strength": "strong"
           }
         ]
@@ -2296,6 +3942,36 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "John 5",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-john-5",
+            "title": "Rig Rundown: John 5 - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Adrian Smith",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/adrian-smith-guitars-and-gear/",
+            "title": "Adrian Smith Guitars & Gear List - Guitar Lobby",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -2327,6 +4003,36 @@
             "url": "https://www.musicradar.com/reviews/guitars/marshall-jvm410hjs-joe-satriani-signature-565303",
             "title": "Marshall JVM410HJS Joe Satriani Signature review | MusicRadar",
             "supporting_quote": "The Marshall JVM410HJS Joe Satriani Signature is based on a modified JVM410H tweaked, fine-tuned and transformed into a signature model, all channels precisely tuned to Joe's needs.",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "John 5",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-john-5",
+            "title": "Rig Rundown: John 5 - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Adrian Smith",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/adrian-smith-guitars-and-gear/",
+            "title": "Adrian Smith Guitars & Gear List - Guitar Lobby",
             "strength": "strong"
           }
         ]
@@ -2364,6 +4070,36 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "John 5",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-john-5",
+            "title": "Rig Rundown: John 5 - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Adrian Smith",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/adrian-smith-guitars-and-gear/",
+            "title": "Adrian Smith Guitars & Gear List - Guitar Lobby",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -2390,6 +4126,16 @@
       {
         "artist": "Joe Satriani",
         "links": []
+      },
+      {
+        "artist": "Angus Young",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/angus-young-gear/angus-youngs-marshall-model-1959-super-lead/",
+            "title": "Angus Young's Marshall Model 1959 Super Lead - Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -2460,6 +4206,56 @@
             "title": "Slash's Amps | Marshall JCM 800, Silver Jubilee and AFD100 - Slashparadise",
             "supporting_quote": "The AFD100 (Slash's signature Marshall designed to recreate his Appetite For Destruction tone) was limited to 2,300 pieces worldwide, plus 100 pieces of a Special Collectors Edition hand signed by Slash himself.",
             "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Angus Young",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/angus-young-gear/angus-youngs-marshall-model-1959-super-lead/",
+            "title": "Angus Young's Marshall Model 1959 Super Lead - Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Randy Rhoads",
+        "links": [
+          {
+            "url": "https://guitar.com/features/artist-rigs/gear-used-by-randy-rhoads-blizzard-of-ozz-ozzy-osbourne/",
+            "title": "The Gear Used By Randy Rhoads on Blizzard of Ozz | Guitar.com",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Paul Gilbert",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/articles/25853-rig-rundown-mr-bigs-paul-gilbert-billy-sheehan-2017",
+            "title": "Mr. Big 2017 Rig Rundown: Paul Gilbert & Billy Sheehan - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "J Mascis",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
           }
         ]
       }
@@ -3193,6 +4989,56 @@
             "strength": "moderate"
           }
         ]
+      },
+      {
+        "artist": "Keith Richards",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/gear-rundown-keith-richards/",
+            "title": "Gear Rundown: Keith Richards | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "John Scofield",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-john-scofield-avi-bortnick",
+            "title": "Rig Rundown: John Scofield & Avi Bortnick - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jonny Greenwood",
+        "links": [
+          {
+            "url": "https://thekingofgear.com/jonny/amplifiers",
+            "title": "Jonny Greenwood's Amplifiers | The King of Gear",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Kevin Shields",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/my-bloody-valentine-kevin-shields/",
+            "title": "Gear Rundown: Kevin Shields of My Bloody Valentine | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -3282,6 +5128,56 @@
             "url": "https://en.wikipedia.org/wiki/Vox_AC30",
             "title": "Vox AC30 - Wikipedia",
             "supporting_quote": "Rory Gallagher paired an AC30 with a Dallas Rangemaster Treble Booster.",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Keith Richards",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/gear-rundown-keith-richards/",
+            "title": "Gear Rundown: Keith Richards | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "John Scofield",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-john-scofield-avi-bortnick",
+            "title": "Rig Rundown: John Scofield & Avi Bortnick - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jonny Greenwood",
+        "links": [
+          {
+            "url": "https://thekingofgear.com/jonny/amplifiers",
+            "title": "Jonny Greenwood's Amplifiers | The King of Gear",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Kevin Shields",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/my-bloody-valentine-kevin-shields/",
+            "title": "Gear Rundown: Kevin Shields of My Bloody Valentine | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
             "strength": "moderate"
           }
         ]
@@ -3377,6 +5273,56 @@
             "strength": "moderate"
           }
         ]
+      },
+      {
+        "artist": "Keith Richards",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/gear-rundown-keith-richards/",
+            "title": "Gear Rundown: Keith Richards | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "John Scofield",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-john-scofield-avi-bortnick",
+            "title": "Rig Rundown: John Scofield & Avi Bortnick - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jonny Greenwood",
+        "links": [
+          {
+            "url": "https://thekingofgear.com/jonny/amplifiers",
+            "title": "Jonny Greenwood's Amplifiers | The King of Gear",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Kevin Shields",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/my-bloody-valentine-kevin-shields/",
+            "title": "Gear Rundown: Kevin Shields of My Bloody Valentine | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -3469,6 +5415,56 @@
             "strength": "moderate"
           }
         ]
+      },
+      {
+        "artist": "Keith Richards",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/gear-rundown-keith-richards/",
+            "title": "Gear Rundown: Keith Richards | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "John Scofield",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-john-scofield-avi-bortnick",
+            "title": "Rig Rundown: John Scofield & Avi Bortnick - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jonny Greenwood",
+        "links": [
+          {
+            "url": "https://thekingofgear.com/jonny/amplifiers",
+            "title": "Jonny Greenwood's Amplifiers | The King of Gear",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Kevin Shields",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/my-bloody-valentine-kevin-shields/",
+            "title": "Gear Rundown: Kevin Shields of My Bloody Valentine | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -3558,6 +5554,56 @@
             "url": "https://en.wikipedia.org/wiki/Vox_AC30",
             "title": "Vox AC30 - Wikipedia",
             "supporting_quote": "Rory Gallagher paired an AC30 with a Dallas Rangemaster Treble Booster.",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Keith Richards",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/gear-rundown-keith-richards/",
+            "title": "Gear Rundown: Keith Richards | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "John Scofield",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-john-scofield-avi-bortnick",
+            "title": "Rig Rundown: John Scofield & Avi Bortnick - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jonny Greenwood",
+        "links": [
+          {
+            "url": "https://thekingofgear.com/jonny/amplifiers",
+            "title": "Jonny Greenwood's Amplifiers | The King of Gear",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Kevin Shields",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/my-bloody-valentine-kevin-shields/",
+            "title": "Gear Rundown: Kevin Shields of My Bloody Valentine | Mixdown",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
             "strength": "moderate"
           }
         ]
@@ -3721,7 +5767,59 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": [
+      {
+        "artist": "Lee Ritenour",
+        "links": [
+          {
+            "url": "https://musicmanamps.net/index.php/node/76",
+            "title": "Lee Ritenour - Vintage Guitar 07/05 | Music Man Amps",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Frank Zappa",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/players/frank-zappa-inside-the-guitars-and-amps-behind-his-greatest-recordings",
+            "title": "Frank Zappa's Favorite Guitars and Amps | GuitarPlayer",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Nile Rodgers",
+        "links": [
+          {
+            "url": "https://musicstrive.com/nile-rodgers-guitar-tone/",
+            "title": "Nile Rodgers Amp Settings - Guitar Tone Guide with Gear List!",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Kenny Wayne Shepherd",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-kenny-wayne-shepherd",
+            "title": "Rig Rundown - Kenny Wayne Shepherd - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      }
+    ]
   },
   "DELUXE TWEED": {
     "brand": "Fender",
@@ -3743,6 +5841,56 @@
             "url": "https://www.guitarplayer.com/gear/amps/neil-young-the-fender-amp-behind-60-years-of-his-guitar-tone",
             "title": "Neil Young on his Old Black Les Paul and the amp that's been his go-to for nearly 60 years - Guitar Player",
             "supporting_quote": "The amp itself is a four-input 1959 tweed Fender Deluxe 5E3, a 15-watter with just two volume knobs and one tone control.",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Lee Ritenour",
+        "links": [
+          {
+            "url": "https://musicmanamps.net/index.php/node/76",
+            "title": "Lee Ritenour - Vintage Guitar 07/05 | Music Man Amps",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Frank Zappa",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/players/frank-zappa-inside-the-guitars-and-amps-behind-his-greatest-recordings",
+            "title": "Frank Zappa's Favorite Guitars and Amps | GuitarPlayer",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Nile Rodgers",
+        "links": [
+          {
+            "url": "https://musicstrive.com/nile-rodgers-guitar-tone/",
+            "title": "Nile Rodgers Amp Settings - Guitar Tone Guide with Gear List!",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Kenny Wayne Shepherd",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-kenny-wayne-shepherd",
+            "title": "Rig Rundown - Kenny Wayne Shepherd - Premier Guitar",
             "strength": "strong"
           }
         ]
@@ -3769,6 +5917,46 @@
             "url": "https://www.guitarplayer.com/gear/amps/neil-young-the-fender-amp-behind-60-years-of-his-guitar-tone",
             "title": "Neil Young on his Old Black Les Paul and the amp that's been his go-to for nearly 60 years - Guitar Player",
             "supporting_quote": "The amp itself is a four-input 1959 tweed Fender Deluxe 5E3, a 15-watter with just two volume knobs and one tone control.",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Lee Ritenour",
+        "links": [
+          {
+            "url": "https://musicmanamps.net/index.php/node/76",
+            "title": "Lee Ritenour - Vintage Guitar 07/05 | Music Man Amps",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Frank Zappa",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/players/frank-zappa-inside-the-guitars-and-amps-behind-his-greatest-recordings",
+            "title": "Frank Zappa's Favorite Guitars and Amps | GuitarPlayer",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Nile Rodgers",
+        "links": [
+          {
+            "url": "https://musicstrive.com/nile-rodgers-guitar-tone/",
+            "title": "Nile Rodgers Amp Settings - Guitar Tone Guide with Gear List!",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
             "strength": "strong"
           }
         ]
@@ -3805,6 +5993,46 @@
       {
         "artist": "Joe Bonamassa",
         "links": []
+      },
+      {
+        "artist": "Lee Ritenour",
+        "links": [
+          {
+            "url": "https://musicmanamps.net/index.php/node/76",
+            "title": "Lee Ritenour - Vintage Guitar 07/05 | Music Man Amps",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Frank Zappa",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/players/frank-zappa-inside-the-guitars-and-amps-behind-his-greatest-recordings",
+            "title": "Frank Zappa's Favorite Guitars and Amps | GuitarPlayer",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Nile Rodgers",
+        "links": [
+          {
+            "url": "https://musicstrive.com/nile-rodgers-guitar-tone/",
+            "title": "Nile Rodgers Amp Settings - Guitar Tone Guide with Gear List!",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -3838,6 +6066,36 @@
       {
         "artist": "Joe Bonamassa",
         "links": []
+      },
+      {
+        "artist": "Lee Ritenour",
+        "links": [
+          {
+            "url": "https://musicmanamps.net/index.php/node/76",
+            "title": "Lee Ritenour - Vintage Guitar 07/05 | Music Man Amps",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Frank Zappa",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/players/frank-zappa-inside-the-guitars-and-amps-behind-his-greatest-recordings",
+            "title": "Frank Zappa's Favorite Guitars and Amps | GuitarPlayer",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Nile Rodgers",
+        "links": [
+          {
+            "url": "https://musicstrive.com/nile-rodgers-guitar-tone/",
+            "title": "Nile Rodgers Amp Settings - Guitar Tone Guide with Gear List!",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -4479,6 +6737,96 @@
             "strength": "moderate"
           }
         ]
+      },
+      {
+        "artist": "B.B. King",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/232-bb-kings-guitar-gear-rig-and-equipment",
+            "title": "B.B. King's Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Jerry Garcia",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/features/gear-features/the-songs-that-we-hear-capturing-jerry-garcias-tone",
+            "title": "How to Capture Jerry Garcia's Signature Tones | Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Duane Allman",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/duane-allman-guitars-and-gear/",
+            "title": "Duane Allman Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "George Benson",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/guitars/namm-2016-fenders-george-benson-amp-range-expanded-with-twin-reverb-633437",
+            "title": "NAMM 2016: Fender's George Benson amp range expanded with Twin Reverb | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Wes Montgomery",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/wes-montgomery-guitars-and-gear/",
+            "title": "Wes Montgomery Guitars & Gear List - Guitar Lobby",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Steve Howe",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-yes-steve-howe-and-chris-squire",
+            "title": "Rig Rundown - Yes' Steve Howe and Chris Squire - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jack White",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jack-white-guitars-and-gear/",
+            "title": "Jack White's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "J Mascis",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -4510,6 +6858,96 @@
       {
         "artist": "John Frusciante",
         "links": []
+      },
+      {
+        "artist": "B.B. King",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/232-bb-kings-guitar-gear-rig-and-equipment",
+            "title": "B.B. King's Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Jerry Garcia",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/features/gear-features/the-songs-that-we-hear-capturing-jerry-garcias-tone",
+            "title": "How to Capture Jerry Garcia's Signature Tones | Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Duane Allman",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/duane-allman-guitars-and-gear/",
+            "title": "Duane Allman Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "George Benson",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/guitars/namm-2016-fenders-george-benson-amp-range-expanded-with-twin-reverb-633437",
+            "title": "NAMM 2016: Fender's George Benson amp range expanded with Twin Reverb | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Wes Montgomery",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/wes-montgomery-guitars-and-gear/",
+            "title": "Wes Montgomery Guitars & Gear List - Guitar Lobby",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Steve Howe",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-yes-steve-howe-and-chris-squire",
+            "title": "Rig Rundown - Yes' Steve Howe and Chris Squire - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jack White",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jack-white-guitars-and-gear/",
+            "title": "Jack White's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "J Mascis",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -4546,6 +6984,76 @@
             "title": "John Frusciante's equipment [Amps, guitars, effects] - XTONES",
             "supporting_quote": "Fender twin reverb - He also uses clean amps such as the 1960s, 1970s, 1980s, and 1990s [models].",
             "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "B.B. King",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/232-bb-kings-guitar-gear-rig-and-equipment",
+            "title": "B.B. King's Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Jerry Garcia",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/features/gear-features/the-songs-that-we-hear-capturing-jerry-garcias-tone",
+            "title": "How to Capture Jerry Garcia's Signature Tones | Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "George Benson",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/guitars/namm-2016-fenders-george-benson-amp-range-expanded-with-twin-reverb-633437",
+            "title": "NAMM 2016: Fender's George Benson amp range expanded with Twin Reverb | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Steve Howe",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-yes-steve-howe-and-chris-squire",
+            "title": "Rig Rundown - Yes' Steve Howe and Chris Squire - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jack White",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jack-white-guitars-and-gear/",
+            "title": "Jack White's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "J Mascis",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "strong"
           }
         ]
       }
@@ -4628,6 +7136,26 @@
             "title": "Rammstein World - Paul Landers' equipment",
             "supporting_quote": "Engl Powerball Amplifier (listed under Amp heads in his equipment table)",
             "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Vinnie Moore",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/631-vinnie-moore-guitar-rig-gear-and-equipment",
+            "title": "Vinnie Moore Guitar Rig Gear and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Glenn Tipton",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Glenn_Tipton",
+            "title": "Glenn Tipton - Wikipedia",
+            "strength": "strong"
           }
         ]
       }
@@ -7087,6 +9615,26 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "Robert Fripp",
+        "links": [
+          {
+            "url": "https://frippgear.wordpress.com/amplifiers/",
+            "title": "Amplifiers | Fripperies",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "J Mascis",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -7125,6 +9673,26 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "Robert Fripp",
+        "links": [
+          {
+            "url": "https://frippgear.wordpress.com/amplifiers/",
+            "title": "Amplifiers | Fripperies",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "J Mascis",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -7160,6 +9728,26 @@
             "url": "https://www.groundguitar.com/david-gilmour-gear/david-gilmours-hiwatt-dr103-100w/",
             "title": "David Gilmour's Hiwatt DR103 100W – Ground Guitar",
             "supporting_quote": "This has been David's main live and studio amp since the very early days of Pink Floyd.",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Robert Fripp",
+        "links": [
+          {
+            "url": "https://frippgear.wordpress.com/amplifiers/",
+            "title": "Amplifiers | Fripperies",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "J Mascis",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
             "strength": "strong"
           }
         ]
@@ -7231,6 +9819,46 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "Albert King",
+        "links": [
+          {
+            "url": "https://happybluesman.com/how-sound-albert-king/",
+            "title": "How to sound like Albert King - Happy Bluesman",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Robert Fripp",
+        "links": [
+          {
+            "url": "https://frippgear.wordpress.com/amplifiers/",
+            "title": "Amplifiers | Fripperies",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "St. Vincent",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/columns/gear-rundown-st-vincent/",
+            "title": "Gear Rundown: St. Vincent | Mixdown",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Johnny Marr",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -7255,6 +9883,16 @@
       {
         "artist": "Joe Satriani",
         "links": []
+      },
+      {
+        "artist": "Angus Young",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/angus-young-gear/angus-youngs-marshall-model-1959-super-lead/",
+            "title": "Angus Young's Marshall Model 1959 Super Lead - Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -7279,6 +9917,16 @@
       {
         "artist": "Joe Satriani",
         "links": []
+      },
+      {
+        "artist": "Angus Young",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/angus-young-gear/angus-youngs-marshall-model-1959-super-lead/",
+            "title": "Angus Young's Marshall Model 1959 Super Lead - Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -7303,6 +9951,16 @@
       {
         "artist": "Joe Satriani",
         "links": []
+      },
+      {
+        "artist": "Angus Young",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/angus-young-gear/angus-youngs-marshall-model-1959-super-lead/",
+            "title": "Angus Young's Marshall Model 1959 Super Lead - Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -7984,6 +10642,31 @@
             "strength": "weak"
           }
         ]
+      },
+      {
+        "artist": "Larry Carlton",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Dumble_Overdrive_Special",
+            "title": "Dumble Overdrive Special - Wikipedia",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Kenny Wayne Shepherd",
+        "links": [
+          {
+            "url": "https://www.guitarworld.com/news/kenny-wayne-shepherd-reveals-his-onstage-fender-amps-are-actually-dumbles-in-disguise",
+            "title": "Kenny Wayne Shepherd reveals his onstage Fender amps are actually Dumbles in disguise | Guitar World",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-kenny-wayne-shepherd",
+            "title": "Rig Rundown - Kenny Wayne Shepherd - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -8069,6 +10752,31 @@
             "title": "Dumble amp famous users / players - D-Tone Amps",
             "supporting_quote": "Eric Clapton Dumble Overdrive Special combo",
             "strength": "weak"
+          }
+        ]
+      },
+      {
+        "artist": "Larry Carlton",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Dumble_Overdrive_Special",
+            "title": "Dumble Overdrive Special - Wikipedia",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Kenny Wayne Shepherd",
+        "links": [
+          {
+            "url": "https://www.guitarworld.com/news/kenny-wayne-shepherd-reveals-his-onstage-fender-amps-are-actually-dumbles-in-disguise",
+            "title": "Kenny Wayne Shepherd reveals his onstage Fender amps are actually Dumbles in disguise | Guitar World",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-kenny-wayne-shepherd",
+            "title": "Rig Rundown - Kenny Wayne Shepherd - Premier Guitar",
+            "strength": "strong"
           }
         ]
       }
@@ -8158,6 +10866,31 @@
             "strength": "weak"
           }
         ]
+      },
+      {
+        "artist": "Larry Carlton",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Dumble_Overdrive_Special",
+            "title": "Dumble Overdrive Special - Wikipedia",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Kenny Wayne Shepherd",
+        "links": [
+          {
+            "url": "https://www.guitarworld.com/news/kenny-wayne-shepherd-reveals-his-onstage-fender-amps-are-actually-dumbles-in-disguise",
+            "title": "Kenny Wayne Shepherd reveals his onstage Fender amps are actually Dumbles in disguise | Guitar World",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-kenny-wayne-shepherd",
+            "title": "Rig Rundown - Kenny Wayne Shepherd - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -8243,6 +10976,31 @@
             "title": "Dumble amp famous users / players - D-Tone Amps",
             "supporting_quote": "Eric Clapton Dumble Overdrive Special combo",
             "strength": "weak"
+          }
+        ]
+      },
+      {
+        "artist": "Larry Carlton",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Dumble_Overdrive_Special",
+            "title": "Dumble Overdrive Special - Wikipedia",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Kenny Wayne Shepherd",
+        "links": [
+          {
+            "url": "https://www.guitarworld.com/news/kenny-wayne-shepherd-reveals-his-onstage-fender-amps-are-actually-dumbles-in-disguise",
+            "title": "Kenny Wayne Shepherd reveals his onstage Fender amps are actually Dumbles in disguise | Guitar World",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-kenny-wayne-shepherd",
+            "title": "Rig Rundown - Kenny Wayne Shepherd - Premier Guitar",
+            "strength": "strong"
           }
         ]
       }
@@ -8332,6 +11090,31 @@
             "strength": "weak"
           }
         ]
+      },
+      {
+        "artist": "Larry Carlton",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Dumble_Overdrive_Special",
+            "title": "Dumble Overdrive Special - Wikipedia",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Kenny Wayne Shepherd",
+        "links": [
+          {
+            "url": "https://www.guitarworld.com/news/kenny-wayne-shepherd-reveals-his-onstage-fender-amps-are-actually-dumbles-in-disguise",
+            "title": "Kenny Wayne Shepherd reveals his onstage Fender amps are actually Dumbles in disguise | Guitar World",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-kenny-wayne-shepherd",
+            "title": "Rig Rundown - Kenny Wayne Shepherd - Premier Guitar",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -8417,6 +11200,31 @@
             "title": "Dumble amp famous users / players - D-Tone Amps",
             "supporting_quote": "Eric Clapton Dumble Overdrive Special combo",
             "strength": "weak"
+          }
+        ]
+      },
+      {
+        "artist": "Larry Carlton",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Dumble_Overdrive_Special",
+            "title": "Dumble Overdrive Special - Wikipedia",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Kenny Wayne Shepherd",
+        "links": [
+          {
+            "url": "https://www.guitarworld.com/news/kenny-wayne-shepherd-reveals-his-onstage-fender-amps-are-actually-dumbles-in-disguise",
+            "title": "Kenny Wayne Shepherd reveals his onstage Fender amps are actually Dumbles in disguise | Guitar World",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-kenny-wayne-shepherd",
+            "title": "Rig Rundown - Kenny Wayne Shepherd - Premier Guitar",
+            "strength": "strong"
           }
         ]
       }
@@ -9065,7 +11873,29 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": [
+      {
+        "artist": "Lee Ritenour",
+        "links": [
+          {
+            "url": "https://musicmanamps.net/index.php/node/76",
+            "title": "Lee Ritenour - Vintage Guitar 07/05 | Music Man Amps",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Gary Clark Jr",
+        "links": [
+          {
+            "url": "https://happybluesman.com/sound-gary-clark-jr/",
+            "title": "How to sound like Gary Clark Jr. - Happy Bluesman",
+            "strength": "moderate"
+          }
+        ]
+      }
+    ]
   },
   "PRINCETONE AA964": {
     "brand": "Fender",
@@ -9076,7 +11906,19 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": [
+      {
+        "artist": "Gary Clark Jr",
+        "links": [
+          {
+            "url": "https://happybluesman.com/sound-gary-clark-jr/",
+            "title": "How to sound like Gary Clark Jr. - Happy Bluesman",
+            "strength": "moderate"
+          }
+        ]
+      }
+    ]
   },
   "PRINCETONE REVERB": {
     "brand": "Fender",
@@ -9106,6 +11948,16 @@
       {
         "artist": "Joe Bonamassa",
         "links": []
+      },
+      {
+        "artist": "Gary Clark Jr",
+        "links": [
+          {
+            "url": "https://happybluesman.com/sound-gary-clark-jr/",
+            "title": "How to sound like Gary Clark Jr. - Happy Bluesman",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -9139,6 +11991,16 @@
             "title": "The History of the Peavey 5150 - Universal Audio",
             "supporting_quote": "Released in 1992, and designed by EVH and Peavey's lead engineer at the time, James Brown, the first 'block' logo Peavey 5150 featured a prominent EVH on the amp's control panel.",
             "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
           }
         ]
       }
@@ -9176,6 +12038,16 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -9207,6 +12079,26 @@
             "url": "https://www.groundguitar.com/eddie-van-halen-guitars-and-gear/eddie-van-halens-peavey-5150-amp/",
             "title": "Eddie Van Halen's Peavey 5150 Amp - Ground Guitar",
             "supporting_quote": "From 1993 to 2004 Eddie had a deal with Peavey, during which he endorsed the Peavey 5150.",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Max Cavalera",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-soulfly",
+            "title": "Rig tour: Soulfly - MusicRadar",
             "strength": "moderate"
           }
         ]
@@ -9244,6 +12136,26 @@
             "strength": "moderate"
           }
         ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Max Cavalera",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-soulfly",
+            "title": "Rig tour: Soulfly - MusicRadar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -9275,6 +12187,26 @@
             "url": "https://www.groundguitar.com/eddie-van-halen-guitars-and-gear/eddie-van-halens-peavey-5150-amp/",
             "title": "Eddie Van Halen's Peavey 5150 Amp - Ground Guitar",
             "supporting_quote": "From 1993 to 2004 Eddie had a deal with Peavey, during which he endorsed the Peavey 5150.",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Max Cavalera",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-soulfly",
+            "title": "Rig tour: Soulfly - MusicRadar",
             "strength": "moderate"
           }
         ]
@@ -9312,6 +12244,26 @@
             "strength": "moderate"
           }
         ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Max Cavalera",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-soulfly",
+            "title": "Rig tour: Soulfly - MusicRadar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -9343,6 +12295,16 @@
             "url": "https://www.groundguitar.com/eddie-van-halen-guitars-and-gear/eddie-van-halens-peavey-5150-amp/",
             "title": "Eddie Van Halen's Peavey 5150 Amp - Ground Guitar",
             "supporting_quote": "From 1993 to 2004 Eddie had a deal with Peavey, during which he endorsed the Peavey 5150.",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Max Cavalera",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-soulfly",
+            "title": "Rig tour: Soulfly - MusicRadar",
             "strength": "moderate"
           }
         ]
@@ -9385,6 +12347,26 @@
             "strength": "moderate"
           }
         ]
+      },
+      {
+        "artist": "Lindsey Buckingham",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/702-fleetwood-mac-lindsey-buckingham-guitar-rig-gear-and-equipment",
+            "title": "Fleetwood Mac - Lindsey Buckingham Guitar Rig Gear and Equipment",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -9424,6 +12406,26 @@
             "strength": "moderate"
           }
         ]
+      },
+      {
+        "artist": "Lindsey Buckingham",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/702-fleetwood-mac-lindsey-buckingham-guitar-rig-gear-and-equipment",
+            "title": "Fleetwood Mac - Lindsey Buckingham Guitar Rig Gear and Equipment",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -9460,6 +12462,26 @@
             "url": "https://www.metallicagearhistory.com/post/album-analysis-load",
             "title": "Album Analysis: Load | Metallica Gear History",
             "supporting_quote": "the Dual Rectifier becoming his primary live tone on tour",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Lindsey Buckingham",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/702-fleetwood-mac-lindsey-buckingham-guitar-rig-gear-and-equipment",
+            "title": "Fleetwood Mac - Lindsey Buckingham Guitar Rig Gear and Equipment",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
             "strength": "moderate"
           }
         ]
@@ -9516,6 +12538,26 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "Lindsey Buckingham",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/702-fleetwood-mac-lindsey-buckingham-guitar-rig-gear-and-equipment",
+            "title": "Fleetwood Mac - Lindsey Buckingham Guitar Rig Gear and Equipment",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -9569,6 +12611,26 @@
             "strength": "strong"
           }
         ]
+      },
+      {
+        "artist": "Lindsey Buckingham",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/702-fleetwood-mac-lindsey-buckingham-guitar-rig-gear-and-equipment",
+            "title": "Fleetwood Mac - Lindsey Buckingham Guitar Rig Gear and Equipment",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -9620,6 +12682,26 @@
             "title": "Rig Rundown - Creed's Mark Tremonti | Premier Guitar",
             "supporting_quote": "Tremonti uses a mutli-amp setup anchored by his Mesa/Boogie Dual Rectifier, which runs through the two inside Mesa/Boogie 4x12 cabinets for rhythm and lead work.",
             "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Lindsey Buckingham",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/702-fleetwood-mac-lindsey-buckingham-guitar-rig-gear-and-equipment",
+            "title": "Fleetwood Mac - Lindsey Buckingham Guitar Rig Gear and Equipment",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Buckethead",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
           }
         ]
       }
@@ -11627,6 +14709,36 @@
             "strength": "moderate"
           }
         ]
+      },
+      {
+        "artist": "Freddie King",
+        "links": [
+          {
+            "url": "https://happybluesman.com/how-sound-freddie-king/",
+            "title": "How to sound like Freddie King - Happy Bluesman",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Derek Trucks",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/derek-trucks-guitars-and-gear/derek-trucks-alessandro-azz-amp/",
+            "title": "Derek Trucks' Alessandro AZZ Amp - Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -11652,6 +14764,36 @@
             "url": "https://srvarchive.com/amplifiers",
             "title": "The Stevie Ray Vaughan Archive - Amplifiers",
             "supporting_quote": "Before Stevie bought his Marshall Club and Country amp, a mid-Sixties blackface Fender Super Reverb was the source of his clean tone.",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Freddie King",
+        "links": [
+          {
+            "url": "https://happybluesman.com/how-sound-freddie-king/",
+            "title": "How to sound like Freddie King - Happy Bluesman",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Derek Trucks",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/derek-trucks-guitars-and-gear/derek-trucks-alessandro-azz-amp/",
+            "title": "Derek Trucks' Alessandro AZZ Amp - Ground Guitar",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
             "strength": "moderate"
           }
         ]
@@ -12448,6 +15590,16 @@
             "strength": "moderate"
           }
         ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -12491,6 +15643,16 @@
             "url": "https://en.wikipedia.org/wiki/Mesa/Boogie_Mark_Series",
             "title": "Mesa/Boogie Mark Series - Wikipedia",
             "supporting_quote": "Dream Theater guitarist John Petrucci, who is well-known for using a Mark IIC+ in the studio.",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
             "strength": "moderate"
           }
         ]
@@ -12540,6 +15702,16 @@
             "strength": "moderate"
           }
         ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -12583,6 +15755,16 @@
             "url": "https://en.wikipedia.org/wiki/Mesa/Boogie_Mark_Series",
             "title": "Mesa/Boogie Mark Series - Wikipedia",
             "supporting_quote": "Dream Theater guitarist John Petrucci, who is well-known for using a Mark IIC+ in the studio.",
+            "strength": "moderate"
+          }
+        ]
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
             "strength": "moderate"
           }
         ]
@@ -12643,6 +15825,16 @@
       {
         "artist": "Carlos Santana",
         "links": []
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -12674,6 +15866,16 @@
       {
         "artist": "Carlos Santana",
         "links": []
+      },
+      {
+        "artist": "Philip Sayce",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ]
       }
     ]
   },
@@ -13220,6 +16422,26 @@
             "strength": "moderate"
           }
         ]
+      },
+      {
+        "artist": "Jeff Beck",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jeff-beck-guitars-and-gear/",
+            "title": "Jeff Beck's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Gary Clark Jr",
+        "links": [
+          {
+            "url": "https://happybluesman.com/sound-gary-clark-jr/",
+            "title": "How to sound like Gary Clark Jr. - Happy Bluesman",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -13260,6 +16482,26 @@
             "strength": "moderate"
           }
         ]
+      },
+      {
+        "artist": "Jeff Beck",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jeff-beck-guitars-and-gear/",
+            "title": "Jeff Beck's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Gary Clark Jr",
+        "links": [
+          {
+            "url": "https://happybluesman.com/sound-gary-clark-jr/",
+            "title": "How to sound like Gary Clark Jr. - Happy Bluesman",
+            "strength": "strong"
+          }
+        ]
       }
     ]
   },
@@ -13272,7 +16514,29 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": [
+      {
+        "artist": "Jeff Beck",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jeff-beck-guitars-and-gear/",
+            "title": "Jeff Beck's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Gary Clark Jr",
+        "links": [
+          {
+            "url": "https://happybluesman.com/sound-gary-clark-jr/",
+            "title": "How to sound like Gary Clark Jr. - Happy Bluesman",
+            "strength": "strong"
+          }
+        ]
+      }
+    ]
   },
   "VIBRATO VERB": {
     "brand": "Fender",
@@ -13283,7 +16547,29 @@
     "songs": [],
     "songLink": null,
     "info": [],
-    "infoLink": null
+    "infoLink": null,
+    "usage": [
+      {
+        "artist": "Jeff Beck",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jeff-beck-guitars-and-gear/",
+            "title": "Jeff Beck's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Gary Clark Jr",
+        "links": [
+          {
+            "url": "https://happybluesman.com/sound-gary-clark-jr/",
+            "title": "How to sound like Gary Clark Jr. - Happy Bluesman",
+            "strength": "strong"
+          }
+        ]
+      }
+    ]
   },
   "VIBRATO VERB AA": {
     "brand": "Fender",
@@ -13313,6 +16599,26 @@
             "url": "https://www.groundguitar.com/stevie-ray-vaughan-gear/stevie-ray-vaughans-fender-vibroverb-blackface/",
             "title": "Stevie Ray Vaughan's Fender Vibroverb Blackface - Ground Guitar",
             "supporting_quote": "Cesar Diaz claimed: 'the first album, Texas Flood, was all VibroVerbs and JBL's.'",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Jeff Beck",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jeff-beck-guitars-and-gear/",
+            "title": "Jeff Beck's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ]
+      },
+      {
+        "artist": "Gary Clark Jr",
+        "links": [
+          {
+            "url": "https://happybluesman.com/sound-gary-clark-jr/",
+            "title": "How to sound like Gary Clark Jr. - Happy Bluesman",
             "strength": "strong"
           }
         ]

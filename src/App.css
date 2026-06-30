@@ -536,6 +536,72 @@ mark {
   opacity: 0.7;
 }
 
+/* guitarist card */
+.gtr-amps {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 0 0 1.5rem;
+}
+
+.gtr-amp {
+  padding: 1rem 1.25rem;
+  background: var(--paper-2);
+  border-left: 3px solid var(--ink);
+}
+
+.gtr-amp-name {
+  font-size: 1rem;
+  color: var(--ink);
+  margin-bottom: 0.4rem;
+}
+
+.gtr-srcs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.gtr-lib {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.8rem;
+}
+
+.gtr-lib-label {
+  font-family: 'Geist Mono', ui-monospace, monospace;
+  font-size: 0.6875rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.gtr-lib-link {
+  font-family: 'Geist Mono', ui-monospace, monospace;
+  font-size: 0.75rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--ink);
+  padding: 0.15rem 0.5rem;
+  cursor: pointer;
+}
+
+.gtr-lib-link:hover {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.gtr-note {
+  font-size: 0.8rem;
+}
+
+.results li.guitarist .num {
+  font-size: 1rem;
+}
+
 .amp-body {
   list-style: none;
   margin: 0;

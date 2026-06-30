@@ -1,0 +1,6618 @@
+[
+  {
+    "slug": "adam-jones",
+    "name": "Adam Jones",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Diezel",
+        "model": "Diezel VH4 schematics",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/rig-rundown-adam-jones-of-tool/",
+            "title": "Gear Rundown: Adam Jones of Tool - Mixdown",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "DAS METALL"
+        ]
+      },
+      {
+        "brand": "Diezel",
+        "model": "Diezel VH4 (Manual)",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/rig-rundown-adam-jones-of-tool/",
+            "title": "Gear Rundown: Adam Jones of Tool - Mixdown",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "DIZZY V4 BLUE 2",
+          "DIZZY V4 BLUE 3",
+          "DIZZY V4 BLUE 4",
+          "DIZZY V4 SILVER 2",
+          "DIZZY V4 SILVER 3",
+          "DIZZY V4 SILVER 4"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "adrian-smith",
+    "name": "Adrian Smith",
+    "bands": [
+      "Iron Maiden"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "JVM410H",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/adrian-smith-guitars-and-gear/",
+            "title": "Adrian Smith Guitars & Gear List - Guitar Lobby",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT JVM OD1 GREEN",
+          "BRIT JVM OD1 ORANGE",
+          "BRIT JVM OD1 RED",
+          "BRIT JVM OD2 GREEN",
+          "BRIT JVM OD2 ORANGE",
+          "BRIT JVM OD2 RED"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "DSL100",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/107-iron-maiden-adrian-smiths-guitar-gear-rig-and-equipment",
+            "title": "Iron Maiden - Adrian Smith's Guitar Gear Rig and Equipment - Uber Proaudio",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Blackstar",
+        "model": "Series One 100 / HT-5",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/adrian-smith-guitars-and-gear/",
+            "title": "Adrian Smith Guitars & Gear List - Guitar Lobby",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "alanis-morissette",
+    "name": "Alanis Morissette",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Divided By 13",
+        "model": "Divided By 13 CJ 11 (manual)",
+        "links": [
+          {
+            "url": "https://dividedby13.com/artists/",
+            "title": "Artists - Divided by 13 Amplifiers",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "DIV/13 CJ",
+          "DIV/13 CJ BOOST"
+        ]
+      },
+      {
+        "brand": "Divided By 13",
+        "model": "Divided By 13 FTR 37 (manual)",
+        "links": [
+          {
+            "url": "https://dividedby13.com/artists/",
+            "title": "Artists - Divided by 13 Amplifiers",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "DIV/13 FT37 HIGH",
+          "DIV/13 FT37 LOW"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "albert-king",
+    "name": "Albert King",
+    "bands": [
+      "Albert King"
+    ],
+    "amps": [
+      {
+        "brand": "Roland",
+        "model": "JC-120 Jazz Chorus",
+        "links": [
+          {
+            "url": "https://happybluesman.com/how-sound-albert-king/",
+            "title": "How to sound like Albert King - Happy Bluesman",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "JAZZ 120"
+        ]
+      },
+      {
+        "brand": "Acoustic",
+        "model": "Model 260 head",
+        "links": [
+          {
+            "url": "https://happybluesman.com/how-sound-albert-king/",
+            "title": "How to sound like Albert King - Happy Bluesman",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Fender",
+        "model": "Dual Showman (1969)",
+        "links": [
+          {
+            "url": "https://happybluesman.com/how-sound-albert-king/",
+            "title": "How to sound like Albert King - Happy Bluesman",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "albert-lee",
+    "name": "Albert Lee",
+    "bands": [
+      "Heads, Hands & Feet"
+    ],
+    "amps": [
+      {
+        "brand": "Music Man",
+        "model": "130-watt head",
+        "links": [
+          {
+            "url": "http://www.guyguitars.com/eng/interviews/AlbertLee.html",
+            "title": "Albert Lee interview - Guy Guitars",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Rivera",
+        "model": "(open-back cabinets)",
+        "links": [
+          {
+            "url": "http://www.guyguitars.com/eng/interviews/AlbertLee.html",
+            "title": "Albert Lee interview - Guy Guitars",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "alex-lifeson",
+    "name": "Alex Lifeson",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "Marshall Silver Jubilee (Manual)",
+        "links": [
+          {
+            "url": "https://guitar.com/features/interviews/alex-lifeson-lerxst-mojotone-ceo-michael-mcwhorter/",
+            "title": "Alex Lifeson and Mojotone CEO Michael McWhorter on Lerxst | Guitar.com",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.guitarguitar.co.uk/news/143146/",
+            "title": "RUSH Guitar Gear Guide: Sound and play like ALEX LIFESON | guitarguitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT SILVER"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "allan-holdsworth",
+    "name": "Allan Holdsworth",
+    "bands": [
+      "Soft Machine",
+      "U.K.",
+      "Bruford"
+    ],
+    "amps": [
+      {
+        "brand": "Yamaha",
+        "model": "DG series (DG80 / DG130)",
+        "links": [
+          {
+            "url": "https://threadoflunacy.blogspot.com/p/material-real-gear.html",
+            "title": "Devil Take the Hindmost, The Otherworldly Music of Allan Holdsworth: Material Real: Gear",
+            "strength": "moderate"
+          },
+          {
+            "url": "https://reverb.com/item/2432334-allan-holdsworth-owned-yamaha-dg130-amplifier-head",
+            "title": "Allan Holdsworth Owned: Yamaha DG130 Amplifier Head | Reverb",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Hughes & Kettner",
+        "model": "Switchblade 100 / CC412 cabinets",
+        "links": [
+          {
+            "url": "https://threadoflunacy.blogspot.com/p/material-real-gear.html",
+            "title": "Devil Take the Hindmost, The Otherworldly Music of Allan Holdsworth: Material Real: Gear",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "andy-summers",
+    "name": "Andy Summers",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Roland",
+        "model": "Roland Jazz Chorus 120",
+        "links": [
+          {
+            "url": "https://www.roland.com/us/promos/jc_40_years/andy_summers/",
+            "title": "Roland - JC Artist - Andy Summers",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "JAZZ 120"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "andy-timmons",
+    "name": "Andy Timmons",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Mesa",
+        "model": "MESA Triple Crown TC-100",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=4ZK46moOd1U",
+            "title": "MESA/Boogie TC-100 – Andy Timmons & Doug West – 6V6 Power Tube Tones – All Channels",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "TRIPLE CREST 2",
+          "TRIPLE CREST 3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "angus-young",
+    "name": "Angus Young",
+    "bands": [
+      "AC/DC"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "Model 1959 Super Lead",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/angus-young-gear/angus-youngs-marshall-model-1959-super-lead/",
+            "title": "Angus Young's Marshall Model 1959 Super Lead - Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE",
+          "BRIT SUPER"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "JMP 2203 Master Volume",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/angus-young-gear/angus-youngs-marshall-model-1959-super-lead/",
+            "title": "Angus Young's Marshall Model 1959 Super Lead - Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT 800 2203 HIGH",
+          "BRIT 800 2203 LOW",
+          "BRIT PRE",
+          "JMPRE-1 CLEAN 1",
+          "JMPRE-1 CLEAN 1 BASS SHIFT",
+          "JMPRE-1 CLEAN 2"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "b-b-king",
+    "name": "B.B. King",
+    "bands": [
+      "B.B. King"
+    ],
+    "amps": [
+      {
+        "brand": "Lab Series",
+        "model": "L5",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/232-bb-kings-guitar-gear-rig-and-equipment",
+            "title": "B.B. King's Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Fender",
+        "model": "Twin Reverb",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/232-bb-kings-guitar-gear-rig-and-equipment",
+            "title": "B.B. King's Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL",
+          "DOUBLE VERB NORMAL",
+          "DOUBLE VERB SILVERFACE",
+          "DOUBLE VERB VIBRATO"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "billy-corgan",
+    "name": "Billy Corgan",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Diezel",
+        "model": "Diezel Herbert",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/117-smashing-pumpkins-billy-corgan-guitar-gear-rig-and-equipment",
+            "title": "Smashing Pumpkins - Billy Corgan Guitar Gear Rig and Equipment",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "HERBIE CH2+",
+          "HERBIE CH2-",
+          "HERBIE CH3"
+        ]
+      },
+      {
+        "brand": "Diezel",
+        "model": "Diezel Herbert MKIII (Manual)",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/117-smashing-pumpkins-billy-corgan-guitar-gear-rig-and-equipment",
+            "title": "Smashing Pumpkins - Billy Corgan Guitar Gear Rig and Equipment",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "HERBIE MK3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "billy-duffy",
+    "name": "Billy Duffy",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Friedman",
+        "model": "Friedman BE 100 (manual) - BE models\nFriedman BE 100 DLX (Manual) - HBE models",
+        "links": [
+          {
+            "url": "https://www.humbuckermusic.com/products/friedman-brown-eye-100",
+            "title": "Friedman BE-100 Brown Eye 100 Head | Humbucker Music",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "FRIEDMAN BE 2010",
+          "FRIEDMAN BE C45",
+          "FRIEDMAN BE V1",
+          "FRIEDMAN BE V1 FAT",
+          "FRIEDMAN BE V2",
+          "FRIEDMAN BE V3",
+          "FRIEDMAN HBE 2010",
+          "FRIEDMAN HBE C45",
+          "FRIEDMAN HBE V1",
+          "FRIEDMAN HBE V1 FAT",
+          "FRIEDMAN HBE V2",
+          "FRIEDMAN HBE V3"
+        ]
+      },
+      {
+        "brand": "Matchless",
+        "model": "Matchless DC-30",
+        "links": [
+          {
+            "url": "https://www.matchlessamplifiers.com/artists",
+            "title": "Matchless Amplifiers - Artists",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "MATCHBOX D-30",
+          "MATCHBOX D-30 EF86"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "billy-gibbons",
+    "name": "Billy Gibbons",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Trainwreck",
+        "model": "Trainwreck Rocket (manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Trainwreck_Circuits",
+            "title": "Trainwreck Circuits - Wikipedia",
+            "strength": "moderate"
+          },
+          {
+            "url": "https://www.scruffsvintageguitars.com/trainwreck",
+            "title": "Trainwreck: A Brief History - Scruffs Vintage Guitars",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "WRECKER ROCKET"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "brad-paisley",
+    "name": "Brad Paisley",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Dr. Z",
+        "model": "Dr. Z Maz 38 SR (manual)",
+        "links": [
+          {
+            "url": "https://www.askzac.com/post/brad-paisley-2005",
+            "title": "Brad Paisley 2005 - Ask Zac",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "MR Z MZ-38"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "custom Fender Vibro-King (manual)",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/406-brad-paisley-guitar-gear-rig-and-equipment",
+            "title": "Brad Paisley Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "VIBRA-KING",
+          "VIBRA-KING FAT"
+        ]
+      },
+      {
+        "brand": "Trainwreck",
+        "model": "Trainwreck Rocket (manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Trainwreck_Circuits",
+            "title": "Trainwreck Circuits - Wikipedia",
+            "strength": "moderate"
+          },
+          {
+            "url": "https://www.scruffsvintageguitars.com/trainwreck",
+            "title": "Trainwreck: A Brief History - Scruffs Vintage Guitars",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "WRECKER ROCKET"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "brad-whitford",
+    "name": "Brad Whitford",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Bogner",
+        "model": "Bogner Ecstasy 20th Anniversary (manual)",
+        "links": [
+          {
+            "url": "https://legendarytones.com/aerosmith-2002-tour-gear/",
+            "title": "Aerosmith 2002 Tour Gear | Legendary Tones",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "EURO BLUE",
+          "EURO BLUE MODERN",
+          "EURO RED",
+          "EURO RED MODERN"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "brian-may",
+    "name": "Brian May",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Vox",
+        "model": "Vox AC30",
+        "links": [
+          {
+            "url": "https://www.brianmayworld.com/Vox_AC30.htm",
+            "title": "VOX AC30 - information by Greg Fryer",
+            "strength": "strong"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Vox_AC30",
+            "title": "Vox AC30 - Wikipedia",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "CLASS-A 30W",
+          "CLASS-A 30W BRIGHT",
+          "CLASS-A 30W BRILLIANT",
+          "CLASS-A 30W HOT",
+          "CLASS-A 30W TB"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "brian-setzer",
+    "name": "Brian Setzer",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "1959 narrow-panel Fender Tweed Bassman, 5F6-A",
+        "links": [
+          {
+            "url": "https://chasingguitars.com/fender-history/brian-setzers-1963-6g6-b-fender-bassman-amp-setup/",
+            "title": "Brian Setzer's 1963 6G6-B Fender Bassman Amp Setup | ChasingGuitars",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "‘59 BASSGUY BRIGHT",
+          "‘59 BASSGUY JUMPED",
+          "‘59 BASSGUY NORMAL"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "bruce-springsteen",
+    "name": "Bruce Springsteen",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Matchless",
+        "model": "Matchless DC-30",
+        "links": [
+          {
+            "url": "https://www.matchlessamplifiers.com/artists",
+            "title": "Matchless Amplifiers - Artists",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "MATCHBOX D-30",
+          "MATCHBOX D-30 EF86"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "buckethead",
+    "name": "Buckethead",
+    "bands": [
+      "Guns N' Roses",
+      "Praxis",
+      "Giant Robot"
+    ],
+    "amps": [
+      {
+        "brand": "Peavey",
+        "model": "5150",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "PVH 6160 BLOCK",
+          "PVH 6160 BLOCK CRUNCH",
+          "PVH 6160+ CLEAN",
+          "PVH 6160+ CLEAN BRIGHT",
+          "PVH 6160+ CRUNCH",
+          "PVH 6160+ CRUNCH BRIGHT"
+        ]
+      },
+      {
+        "brand": "Mesa/Boogie",
+        "model": "Triple Rectifier",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "RECTO1 ORANGE MODERN",
+          "RECTO1 ORANGE NORMAL",
+          "RECTO1 RED",
+          "RECTO2 ORANGE MODERN",
+          "RECTO2 ORANGE VINTAGE",
+          "RECTO2 RED MODERN"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "JVM410",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/219-buckethead-guitar-gear-rig-and-equipment",
+            "title": "Buckethead Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT JVM OD1 GREEN",
+          "BRIT JVM OD1 ORANGE",
+          "BRIT JVM OD1 RED",
+          "BRIT JVM OD2 GREEN",
+          "BRIT JVM OD2 ORANGE",
+          "BRIT JVM OD2 RED"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "buddy-guy",
+    "name": "Buddy Guy",
+    "bands": [
+      "Buddy Guy"
+    ],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Bassman (1959 tweed)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/buddy-guy-guitars-and-gear/",
+            "title": "Buddy Guy's Guitars and Gear - Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F1 TWEED CHAMPLIFIER",
+          "5F1 TWEED EC CHAMPLIFIER",
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL",
+          "‘59 BASSGUY BRIGHT"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "JCM800",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/buddy-guy-guitars-and-gear/",
+            "title": "Buddy Guy's Guitars and Gear - Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Chicago Blues Box",
+        "model": "Buddy Guy Signature",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/buddy-guy-guitars-and-gear/",
+            "title": "Buddy Guy's Guitars and Gear - Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "carlos-santana",
+    "name": "Carlos Santana",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Dumble",
+        "model": "Dumble Overdrive Special",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Dumble_Overdrive_Special",
+            "title": "Dumble Overdrive Special - Wikipedia",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "ODS-100 CLEAN",
+          "ODS-100 FORD",
+          "ODS-100 FORD PAB",
+          "ODS-100 FORD PAB MID",
+          "ODS-100 HRM",
+          "ODS-100 HRM MID"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "chris-shiflett",
+    "name": "Chris Shiflett",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Friedman",
+        "model": "Friedman BE 100 (manual) - BE models\nFriedman BE 100 DLX (Manual) - HBE models",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/videos/rig-rundown/chris-shiflett-2024",
+            "title": "Foo Fighters' Chris Shiflett: New & Improved Rig! - Premier Guitar",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.humbuckermusic.com/products/friedman-brown-eye-100",
+            "title": "Friedman BE-100 Brown Eye 100 Head | Humbucker Music",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "FRIEDMAN BE 2010",
+          "FRIEDMAN BE C45",
+          "FRIEDMAN BE V1",
+          "FRIEDMAN BE V1 FAT",
+          "FRIEDMAN BE V2",
+          "FRIEDMAN BE V3",
+          "FRIEDMAN HBE 2010",
+          "FRIEDMAN HBE C45",
+          "FRIEDMAN HBE V1",
+          "FRIEDMAN HBE V1 FAT",
+          "FRIEDMAN HBE V2",
+          "FRIEDMAN HBE V3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "chuck-berry",
+    "name": "Chuck Berry",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Dual Showman Reverb",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/my-amps-date-with-chuck-berry",
+            "title": "My Amp's Date With Chuck Berry - Premier Guitar",
+            "strength": "strong"
+          },
+          {
+            "url": "https://uniqueguitar.blogspot.com/2017/03/chuck-berry-his-career-and-his-guitars.html",
+            "title": "Chuck Berry: His Career and His Guitars - The Unique Guitar Blog",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "dave-grohl",
+    "name": "Dave Grohl",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Vox",
+        "model": "Vox AC30",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/dave-grohl-gear/dave-grohls-vox-ac30/",
+            "title": "Dave Grohl's Vox AC30 Amp | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "CLASS-A 30W",
+          "CLASS-A 30W BRIGHT",
+          "CLASS-A 30W BRILLIANT",
+          "CLASS-A 30W HOT",
+          "CLASS-A 30W TB"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "dave-murray",
+    "name": "Dave Murray",
+    "bands": [
+      "Iron Maiden"
+    ],
+    "amps": [
+      {
+        "brand": "Fractal Audio",
+        "model": "Axe-Fx III MkII",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/dave-murray-iron-maiden-rig-the-future-pasttour-2023",
+            "title": "Dave Murray's Iron Maiden touring rig has been revealed - MusicRadar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Marshall",
+        "model": "EL34 100/100 power amp",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/dave-murray-iron-maiden-rig-the-future-pasttour-2023",
+            "title": "Dave Murray's Iron Maiden touring rig has been revealed - MusicRadar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE",
+          "BRIT 800 2203 HIGH",
+          "BRIT 800 2203 LOW",
+          "BRIT AFS100 1"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "JMP-1 preamp",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/dave-murray-iron-maiden-rig-the-future-pasttour-2023",
+            "title": "Dave Murray's Iron Maiden touring rig has been revealed - MusicRadar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE",
+          "1987X JUMPED",
+          "1987X NORMAL",
+          "1987X TREBLE"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "dave-mustaine",
+    "name": "Dave Mustaine",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Custom Audio Amplifiers",
+        "model": "CAE 3+ SE preamp (manual)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/dave-mustaine-guitars-and-gear/",
+            "title": "Dave Mustaine's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "CA3+ CLEAN",
+          "CA3+ LEAD",
+          "CA3+ RHYTHM"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "dave-weiner",
+    "name": "Dave Weiner",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Friedman",
+        "model": "Friedman BE 100 (manual) - BE models\nFriedman BE 100 DLX (Manual) - HBE models",
+        "links": [
+          {
+            "url": "https://www.humbuckermusic.com/products/friedman-brown-eye-100",
+            "title": "Friedman BE-100 Brown Eye 100 Head | Humbucker Music",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "FRIEDMAN BE 2010",
+          "FRIEDMAN BE C45",
+          "FRIEDMAN BE V1",
+          "FRIEDMAN BE V1 FAT",
+          "FRIEDMAN BE V2",
+          "FRIEDMAN BE V3",
+          "FRIEDMAN HBE 2010",
+          "FRIEDMAN HBE C45",
+          "FRIEDMAN HBE V1",
+          "FRIEDMAN HBE V1 FAT",
+          "FRIEDMAN HBE V2",
+          "FRIEDMAN HBE V3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "david-gilmour",
+    "name": "David Gilmour",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Keith Urban's 1959 narrow-panel high-power\nFender Tweed Twin, 5F8",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/gear/how-the-fender-twin-amp-became-a-worthy-weapon-of-choice-for-clapton-richards-gilmour-and-bonamassa",
+            "title": "How the Fender Twin-Amp Became a Worthy Weapon of Choice for Clapton, Richards, Gilmour and Bonamassa | GuitarPlayer",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL"
+        ]
+      },
+      {
+        "brand": "Hiwatt",
+        "model": "Hiwatt DR103",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/david-gilmour-gear/david-gilmours-hiwatt-dr103-100w/",
+            "title": "David Gilmour's Hiwatt DR103 100W – Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "HIPOWER BRILLIANT",
+          "HIPOWER JUMPED",
+          "HIPOWER NORMAL"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "derek-trucks",
+    "name": "Derek Trucks",
+    "bands": [
+      "The Allman Brothers Band",
+      "Tedeschi Trucks Band",
+      "The Derek Trucks Band"
+    ],
+    "amps": [
+      {
+        "brand": "Alessandro",
+        "model": "AZZ (1/2AZZ)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/derek-trucks-guitars-and-gear/derek-trucks-alessandro-azz-amp/",
+            "title": "Derek Trucks' Alessandro AZZ Amp - Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Fender",
+        "model": "Super Reverb",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/derek-trucks-guitars-and-gear/derek-trucks-alessandro-azz-amp/",
+            "title": "Derek Trucks' Alessandro AZZ Amp - Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "6G4 SUPER",
+          "SUPER VERB NORMAL",
+          "SUPER VERB VIBRATO"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "dickey-betts",
+    "name": "Dickey Betts",
+    "bands": [
+      "The Allman Brothers Band",
+      "Great Southern"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "(model unspecified in source)",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/features/dickey-betts-interview-2019",
+            "title": "Dickey Betts interview | GuitarPlayer",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "dimebag-darrell",
+    "name": "Dimebag Darrell",
+    "bands": [
+      "Pantera",
+      "Damageplan"
+    ],
+    "amps": [
+      {
+        "brand": "Randall",
+        "model": "RG100ES",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/dimebag-darrell-gear/",
+            "title": "Dimebag Darrell Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Randall",
+        "model": "Warhead",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/dimebag-darrell-gear/",
+            "title": "Dimebag Darrell Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "dominic-miller",
+    "name": "Dominic Miller",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Mesa",
+        "model": "MESA Lone Star Classic",
+        "links": [
+          {
+            "url": "https://legacy.mesaboogie.com/amplitudes/2010/June/dominic-miller-sting-symphonicity-tour.html",
+            "title": "Dominic Miller ~ Sting Symphonicity Tour | MESA/Boogie",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "TEXAS STAR CLEAN",
+          "TEXAS STAR LEAD"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "doyle-bramhall-ii",
+    "name": "Doyle Bramhall Ii",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Two-Rock",
+        "model": "Two-Rock Jet 35 (manual)",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/doyle-bramhall-ii-ive-spent-my-life-studying-music-and-i-know-what-i-love-i-just-follow-what-comes-out-of-me",
+            "title": "Doyle Bramhall II interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "TWO STONE J35",
+          "TWO STONE J35 PAB"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "duane-allman",
+    "name": "Duane Allman",
+    "bands": [
+      "The Allman Brothers Band",
+      "Derek and the Dominos"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "Bass 50W Model 1986 head",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/duane-allman-guitars-and-gear/",
+            "title": "Duane Allman Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1987X JUMPED",
+          "1987X NORMAL",
+          "1987X TREBLE",
+          "BRIT 800 2204 HIGH",
+          "BRIT 800 2204 LOW",
+          "BRIT 800 #34"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "Lead 50W Model 1987 Tremolo head",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/duane-allman-guitars-and-gear/",
+            "title": "Duane Allman Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1987X JUMPED",
+          "1987X NORMAL",
+          "1987X TREBLE",
+          "BRIT 800 2204 HIGH",
+          "BRIT 800 2204 LOW",
+          "BRIT 800 #34"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Twin Reverb Silverface (1966)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/duane-allman-guitars-and-gear/",
+            "title": "Duane Allman Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL",
+          "BAND-COMMANDER",
+          "DOUBLE VERB NORMAL",
+          "DOUBLE VERB SILVERFACE"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "dustie-waring",
+    "name": "Dustie Waring",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "PRS",
+        "model": "100W PRS Archon",
+        "links": [
+          {
+            "url": "https://www.prweb.com/releases/high_gain_prs_guitars_introduces_the_archon_amplifier/prweb11429865.htm",
+            "title": "High-Gain: PRS Guitars Introduces the Archon Amplifier",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "ARCHEAN",
+          "ARCHEAN BRIGHT",
+          "ARCHEAN CLEAN"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "dweezil-zappa",
+    "name": "Dweezil Zappa",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Blankenship",
+        "model": "Dweezil Zappa's Blankenship Leeds 21",
+        "links": [
+          {
+            "url": "https://www.dweezilzappa.com/pages/guitar-rig",
+            "title": "Guitar Rig - Dweezil Zappa (official site)",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BLANKENSHIP LEEDS"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Dweezil Zappa's 1965 blackface Fender Bassman, AB165",
+        "links": [
+          {
+            "url": "https://www.dweezilzappa.com/pages/guitar-rig",
+            "title": "GUITAR RIG - Dweezil Zappa",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "DWEEZIL’S BASSGUY"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "eddie-hazel",
+    "name": "Eddie Hazel",
+    "bands": [
+      "Funkadelic",
+      "Parliament-Funkadelic"
+    ],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Dual Showman",
+        "links": [
+          {
+            "url": "https://guitargangsters.net/eddie-hazel-guitars-gear/",
+            "title": "Eddie Hazel Guitars & Gear: Funkadelic Guide - GuitarGangsters.net",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "eddie-van-halen",
+    "name": "Eddie Van Halen",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "100W Marshall Super Lead Plexi 1959 reissue",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/eddie-van-halen-guitars-and-gear/eddie-van-halens-1967-68-marshall-1959-super-lead/",
+            "title": "Eddie Van Halen's 1967/68 Marshall 1959 Super Lead – Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE"
+        ]
+      },
+      {
+        "brand": "EVH",
+        "model": "EVH 5150-III",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/eddie-van-halen-guitars-and-gear/eddie-van-halens-evh-5150-iii-amp/",
+            "title": "Eddie Van Halen's EVH 5150 III Amp – Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5153 100W BLUE",
+          "5153 100W GREEN",
+          "5153 100W RED"
+        ]
+      },
+      {
+        "brand": "EVH",
+        "model": "EVH 5150III 100S 100W",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/eddie-van-halen-guitars-and-gear/eddie-van-halens-evh-5150-iii-amp/",
+            "title": "Eddie Van Halen's EVH 5150 III Amp – Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5153 100W STEALTH BLUE",
+          "5153 100W STEALTH GREEN",
+          "5153 100W STEALTH RED",
+          "5153 50W BLUE"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "FAS Original",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/eddie-van-halen-guitars-and-gear/eddie-van-halens-1967-68-marshall-1959-super-lead/",
+            "title": "Eddie Van Halen's 1967/68 Marshall 1959 Super Lead | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT BROWN"
+        ]
+      },
+      {
+        "brand": "Custom Audio Amplifiers",
+        "model": "CAE 3+ SE preamp (manual)",
+        "links": [
+          {
+            "url": "https://www.plugin-alliance.com/en/products/suhr_se100.html",
+            "title": "Suhr SE100 - Plugin Alliance",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "CA3+ CLEAN",
+          "CA3+ LEAD",
+          "CA3+ RHYTHM"
+        ]
+      },
+      {
+        "brand": "Peavey",
+        "model": "Peavey \"Block Letter\" EVH 5150",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/eddie-van-halen-guitars-and-gear/eddie-van-halens-peavey-5150-amp/",
+            "title": "Eddie Van Halen's Peavey 5150 Amp - Ground Guitar",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.uaudio.com/blogs/ua/the-history-of-the-peavey-5150",
+            "title": "The History of the Peavey 5150 - Universal Audio",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "PVH 6160 BLOCK",
+          "PVH 6160 BLOCK CRUNCH"
+        ]
+      },
+      {
+        "brand": "Peavey",
+        "model": "Peavey 6505+ / EVH 5150-II",
+        "links": [
+          {
+            "url": "https://www.uaudio.com/blogs/ua/the-history-of-the-peavey-5150",
+            "title": "The History of the Peavey 5150 - Universal Audio",
+            "strength": "moderate"
+          },
+          {
+            "url": "https://www.groundguitar.com/eddie-van-halen-guitars-and-gear/eddie-van-halens-peavey-5150-amp/",
+            "title": "Eddie Van Halen's Peavey 5150 Amp - Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "PVH 6160+ CLEAN",
+          "PVH 6160+ CLEAN BRIGHT",
+          "PVH 6160+ CRUNCH",
+          "PVH 6160+ CRUNCH BRIGHT",
+          "PVH 6160+ LEAD"
+        ]
+      },
+      {
+        "brand": "Trainwreck",
+        "model": "Trainwreck Express (manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Trainwreck_Circuits",
+            "title": "Trainwreck Circuits - Wikipedia",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "WRECKER EXPRESS",
+          "WRECKER EXPRESS BRIGHT"
+        ]
+      },
+      {
+        "brand": "Trainwreck",
+        "model": "Trainwreck Liverpool (manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Trainwreck_Circuits",
+            "title": "Trainwreck Circuits - Wikipedia",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "WRECKER LIVERPOOL",
+          "WRECKER LIVERPOOL BRIGHT"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "eric-clapton",
+    "name": "Eric Clapton",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "narrow-panel Fender Tweed Champ, 5F1 (manual)",
+        "links": [
+          {
+            "url": "https://whereseric.com/faq/eric-claptons-guitar-amp-and-equipment-set-historical/",
+            "title": "Eric Clapton's guitar, amp and equipment set up (historical 1963-2014) - Where's Eric!",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.guitarplayer.com/gear/the-guitar-gear-behind-derek-and-the-dominos-layla",
+            "title": "The Guitar Gear Behind Derek & the Dominos' 'Layla' | GuitarPlayer",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "5F1 TWEED CHAMPLIFIER"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "2011 Fender EC Vibro-Champ (manual)",
+        "links": [
+          {
+            "url": "https://whereseric.com/eric-clapton-news/303-fender-introduces-three-ec-series-amplifiers/",
+            "title": "Fender Introduces Three EC Series Amplifiers - Where's Eric!",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F1 TWEED EC CHAMPLIFIER"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Keith Urban's 1959 narrow-panel high-power\nFender Tweed Twin, 5F8",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/eric-clapton-gear/eric-claptons-fender-custom-57-twin-tweed-amp/",
+            "title": "Eric Clapton's Fender Custom '57 Twin Tweed Amp - Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "1959 narrow-panel Fender Tweed Bassman, 5F6-A",
+        "links": [
+          {
+            "url": "https://www.truetonemusic.com/products/pre-owned-94-fender-59-bassman-reissue-owned-by-eric-clapton",
+            "title": "Pre Owned '94 Fender '59 Bassman Reissue Owned by Eric Clapton - Truetone Music",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "‘59 BASSGUY BRIGHT",
+          "‘59 BASSGUY JUMPED",
+          "‘59 BASSGUY NORMAL"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "100W Marshall Super Lead Plexi 1959 reissue",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/eric-clapton-gear/eric-claptons-marshall-jtm45-100-super-lead-100/",
+            "title": "Eric Clapton's Marshall JTM45/100 Super Lead 100 – Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "Marshall JTM45 (Manual)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/eric-clapton-gear/eric-claptons-marshall-bluesbreaker-model-1962/",
+            "title": "Eric Clapton's Marshall Bluesbreaker Model 1962 - Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT JM45",
+          "BRIT JM45 JUMPED"
+        ]
+      },
+      {
+        "brand": "Dumble",
+        "model": "Dumble Overdrive Special",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Dumble_Amplifiers",
+            "title": "Dumble Amplifiers - Wikipedia",
+            "strength": "moderate"
+          },
+          {
+            "url": "https://www.d-toneamps.com/dumble-amp-famous-users.html",
+            "title": "Dumble amp famous users / players - D-Tone Amps",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "ODS-100 CLEAN",
+          "ODS-100 FORD",
+          "ODS-100 FORD PAB",
+          "ODS-100 FORD PAB MID",
+          "ODS-100 HRM",
+          "ODS-100 HRM MID"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "1967 50W Marshall Plexi",
+        "links": [
+          {
+            "url": "https://blog.andertons.co.uk/learn/what-is-the-plexi-guitar-amp-sound",
+            "title": "What is the \"Plexi\" Guitar Amp Sound? - Andertons Blog",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "PLEXI 50W HIGH 1",
+          "PLEXI 50W HIGH 2",
+          "PLEXI 50W JUMPED",
+          "PLEXI 50W NORMAL"
+        ]
+      },
+      {
+        "brand": "Soldano",
+        "model": "Soldano X88R preamp (Manual)",
+        "links": [
+          {
+            "url": "https://guitarbomb.com/soldano-x88r-x88-ir-racks-back-legacy-high-gain-excellence/",
+            "title": "Soldano X88R & X88-IR Racks Are Back! | Guitar Bomb",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 88 CLEAN",
+          "SOLO 88 LEAD",
+          "SOLO 88 RHYTHM"
+        ]
+      },
+      {
+        "brand": "Soldano",
+        "model": "Soldano/Caswell X99 preamp",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Soldano_SLO-100",
+            "title": "Soldano SLO-100 - Wikipedia",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 99 CLEAN",
+          "SOLO 99 LEAD",
+          "SOLO 99 LEAD BRIGHT"
+        ]
+      },
+      {
+        "brand": "Soldano",
+        "model": "Soldano SLO-100 (Manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Soldano_SLO-100",
+            "title": "Soldano SLO-100 - Wikipedia",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 100 CLEAN",
+          "SOLO 100 LEAD",
+          "SOLO 100 RHYTHM"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "eric-gales",
+    "name": "Eric Gales",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "DV Mark",
+        "model": "Raw Dawg EG 250W head",
+        "links": [
+          {
+            "url": "https://www.sweetwater.com/insync/shop-the-rig-eric-gales-premier-guitar-rig-rundown/",
+            "title": "Shop the Rig! Eric Gales Premier Guitar Rig Rundown - Sweetwater InSync",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "DV Mark",
+        "model": "DV Gold 212V 2x12 cabinet",
+        "links": [
+          {
+            "url": "https://www.sweetwater.com/insync/shop-the-rig-eric-gales-premier-guitar-rig-rundown/",
+            "title": "Shop the Rig! Eric Gales Premier Guitar Rig Rundown - Sweetwater InSync",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "eric-johnson",
+    "name": "Eric Johnson",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Bogner",
+        "model": "Bogner Ecstasy 20th Anniversary (manual)",
+        "links": [
+          {
+            "url": "https://xtones.net/en/bogner-ecstasy/",
+            "title": "What is the Bogner Ecstasy? | XTONES",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "EURO BLUE",
+          "EURO BLUE MODERN",
+          "EURO RED",
+          "EURO RED MODERN"
+        ]
+      },
+      {
+        "brand": "Two-Rock",
+        "model": "Two-Rock Jet 35 (manual)",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-eric-johnson-2018",
+            "title": "Rig Rundown: Eric Johnson [2018] - Premier Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "TWO STONE J35",
+          "TWO STONE J35 PAB"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "fletcher-dragge",
+    "name": "Fletcher Dragge",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Revv",
+        "model": "REVV GENERATOR 120 MKIII (manual)",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=_pylUS7fUSQ",
+            "title": "Revv Interviews FLETCHER of PENNYWISE! - YouTube (Revv official channel)",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "REVV GEN GREEN 1",
+          "REVV GEN GREEN 2",
+          "REVV GEN GREEN 3",
+          "REVV GEN PURPLE 1",
+          "REVV GEN PURPLE 2",
+          "REVV GEN PURPLE 3",
+          "REVV GEN RED 1",
+          "REVV GEN RED 2",
+          "REVV GEN RED 3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "frank-zappa",
+    "name": "Frank Zappa",
+    "bands": [
+      "The Mothers of Invention"
+    ],
+    "amps": [
+      {
+        "brand": "Pignose",
+        "model": "Pignose amplifier",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/players/frank-zappa-inside-the-guitars-and-amps-behind-his-greatest-recordings",
+            "title": "Frank Zappa's Favorite Guitars and Amps | GuitarPlayer",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Marshall",
+        "model": "JMP 100-watt head",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/players/frank-zappa-inside-the-guitars-and-amps-behind-his-greatest-recordings",
+            "title": "Frank Zappa's Favorite Guitars and Amps | GuitarPlayer",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE",
+          "BRIT 800 2203 HIGH",
+          "BRIT 800 2203 LOW",
+          "BRIT AFS100 1"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Deluxe",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/players/frank-zappa-inside-the-guitars-and-amps-behind-his-greatest-recordings",
+            "title": "Frank Zappa's Favorite Guitars and Amps | GuitarPlayer",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "DELUXE 6G3",
+          "DELUXE TWEED",
+          "DELUXE TWEED JUMPED",
+          "DELUXE VERB NORMAL",
+          "DELUXE VERB VIBRATO"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "freddie-king",
+    "name": "Freddie King",
+    "bands": [
+      "Freddie King"
+    ],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Quad Reverb",
+        "links": [
+          {
+            "url": "https://happybluesman.com/how-sound-freddie-king/",
+            "title": "How to sound like Freddie King - Happy Bluesman",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Fender",
+        "model": "Super Reverb",
+        "links": [
+          {
+            "url": "https://happybluesman.com/how-sound-freddie-king/",
+            "title": "How to sound like Freddie King - Happy Bluesman",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "6G4 SUPER",
+          "SUPER VERB NORMAL",
+          "SUPER VERB VIBRATO"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Dual Showman",
+        "links": [
+          {
+            "url": "https://happybluesman.com/how-sound-freddie-king/",
+            "title": "How to sound like Freddie King - Happy Bluesman",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "fredrik-thordendal",
+    "name": "Fredrik Thordendal",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "FAS",
+        "model": "custom model of MESA Dual Rectifier",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/275-meshuggah-fredrik-thordendal-guitar-gear-rig-and-equipment",
+            "title": "Meshuggah - Fredrik Thordendal Guitar Gear Rig and Equipment",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "THORDENDAL MODERN",
+          "THORDENDAL VINTAGE"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "fredrik-kesson",
+    "name": "Fredrik Åkesson",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "PRS",
+        "model": "100W PRS Archon",
+        "links": [
+          {
+            "url": "https://www.prweb.com/releases/high_gain_prs_guitars_introduces_the_archon_amplifier/prweb11429865.htm",
+            "title": "High-Gain: PRS Guitars Introduces the Archon Amplifier",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "ARCHEAN",
+          "ARCHEAN BRIGHT",
+          "ARCHEAN CLEAN"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "gary-clark-jr",
+    "name": "Gary Clark Jr",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Vibro-King",
+        "links": [
+          {
+            "url": "https://happybluesman.com/sound-gary-clark-jr/",
+            "title": "How to sound like Gary Clark Jr. - Happy Bluesman",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F1 TWEED EC CHAMPLIFIER",
+          "VIBRA-KING",
+          "VIBRA-KING FAT",
+          "VIBRATO LUX",
+          "VIBRATO VERB",
+          "VIBRATO VERB AA"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Princeton Reverb",
+        "links": [
+          {
+            "url": "https://happybluesman.com/sound-gary-clark-jr/",
+            "title": "How to sound like Gary Clark Jr. - Happy Bluesman",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "PRINCETONE 5F2",
+          "PRINCETONE AA964",
+          "PRINCETONE REVERB"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "gary-moore",
+    "name": "Gary Moore",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Soldano",
+        "model": "Soldano SLO-100 (Manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Soldano_SLO-100",
+            "title": "Soldano SLO-100 - Wikipedia",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.groundguitar.com/gary-moore-gear/gary-moores-soldano-slo100-amp/",
+            "title": "Gary Moore's Soldano SLO100 Amp - Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 100 CLEAN",
+          "SOLO 100 LEAD",
+          "SOLO 100 RHYTHM"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "geezer-butler",
+    "name": "Geezer Butler",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Ampeg",
+        "model": "Ampeg SVT bass amp (manual)",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/geezer-butler-bass-guitars-and-gear/",
+            "title": "Geezer Butler Bass Guitars & Gear - Guitar Lobby",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "SV BASS 1",
+          "SV BASS 2"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "george-benson",
+    "name": "George Benson",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "GB Twin Reverb (signature)",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/guitars/namm-2016-fenders-george-benson-amp-range-expanded-with-twin-reverb-633437",
+            "title": "NAMM 2016: Fender's George Benson amp range expanded with Twin Reverb | MusicRadar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL",
+          "DOUBLE VERB NORMAL",
+          "DOUBLE VERB SILVERFACE",
+          "DOUBLE VERB VIBRATO"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "george-harrison",
+    "name": "George Harrison",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Vox",
+        "model": "Vox AC30",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Vox_AC30",
+            "title": "Vox AC30 - Wikipedia",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "CLASS-A 30W",
+          "CLASS-A 30W BRIGHT",
+          "CLASS-A 30W BRILLIANT",
+          "CLASS-A 30W HOT",
+          "CLASS-A 30W TB"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "george-lynch",
+    "name": "George Lynch",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Diezel",
+        "model": "Diezel Herbert",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/george-lynch-guitars-and-gear/",
+            "title": "George Lynch Guitars & Gear List - Guitar Lobby",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "HERBIE CH2+",
+          "HERBIE CH2-",
+          "HERBIE CH3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "glenn-tipton",
+    "name": "Glenn Tipton",
+    "bands": [
+      "Judas Priest"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "Marshall heads (live mainstay)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Glenn_Tipton",
+            "title": "Glenn Tipton - Wikipedia",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE",
+          "1987X JUMPED",
+          "1987X NORMAL",
+          "1987X TREBLE"
+        ]
+      },
+      {
+        "brand": "ENGL",
+        "model": "ENGL amps (from 2008)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Glenn_Tipton",
+            "title": "Glenn Tipton - Wikipedia",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "ANGLE SEVERE 1",
+          "ANGLE SEVERE 2",
+          "ENERGYBALL"
+        ]
+      },
+      {
+        "brand": "Crate",
+        "model": "Blue Voodoo",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Glenn_Tipton",
+            "title": "Glenn Tipton - Wikipedia",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "greg-howe",
+    "name": "Greg Howe",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Cornford",
+        "model": "MK50H",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/the-tone-odyssey-greg-howes-six-string-journey",
+            "title": "The Tone Odyssey: Greg Howe's Six-String Journey - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Fender",
+        "model": "Dual Showman (red knob reissue)",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/the-tone-odyssey-greg-howes-six-string-journey",
+            "title": "The Tone Odyssey: Greg Howe's Six-String Journey - Premier Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "guthrie-govan",
+    "name": "Guthrie Govan",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Cornford",
+        "model": "Cornford MK50 II (manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Guthrie_Govan",
+            "title": "Guthrie Govan - Wikipedia",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "CORNFED M50"
+        ]
+      },
+      {
+        "brand": "Suhr",
+        "model": "Suhr Badger 30",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/rig-rundown-the-aristocrats-guthrie-govan-2651081094",
+            "title": "Rig Rundown - The Aristocrats' Guthrie Govan - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "SUHR BADGER 30"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "howard-leese",
+    "name": "Howard Leese",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Soldano",
+        "model": "Soldano/Caswell X99 preamp",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Soldano_SLO-100",
+            "title": "Soldano SLO-100 - Wikipedia",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 99 CLEAN",
+          "SOLO 99 LEAD",
+          "SOLO 99 LEAD BRIGHT"
+        ]
+      },
+      {
+        "brand": "Soldano",
+        "model": "Soldano SLO-100 (Manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Soldano_SLO-100",
+            "title": "Soldano SLO-100 - Wikipedia",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 100 CLEAN",
+          "SOLO 100 LEAD",
+          "SOLO 100 RHYTHM"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "j-mascis",
+    "name": "J Mascis",
+    "bands": [
+      "Dinosaur Jr."
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "Super Bass (1968) / Plexi",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE",
+          "BRIT SUPER"
+        ]
+      },
+      {
+        "brand": "Hiwatt",
+        "model": "DR-103 Custom 100",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "HIPOWER BRILLIANT",
+          "HIPOWER JUMPED",
+          "HIPOWER NORMAL"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Twin Reverb",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-dinosaur-jrs-j-mascis",
+            "title": "Rig tour: Dinosaur Jr's J Mascis | MusicRadar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL",
+          "DOUBLE VERB NORMAL",
+          "DOUBLE VERB SILVERFACE",
+          "DOUBLE VERB VIBRATO"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "jack-white",
+    "name": "Jack White",
+    "bands": [
+      "The White Stripes",
+      "The Raconteurs",
+      "The Dead Weather"
+    ],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Twin Reverb",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jack-white-guitars-and-gear/",
+            "title": "Jack White's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL",
+          "DOUBLE VERB NORMAL",
+          "DOUBLE VERB SILVERFACE",
+          "DOUBLE VERB VIBRATO"
+        ]
+      },
+      {
+        "brand": "Silvertone",
+        "model": "Sears Silvertone 1485 (100-watt head)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jack-white-guitars-and-gear/",
+            "title": "Jack White's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "james-hetfield",
+    "name": "James Hetfield",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "100W Marshall JCM 800 2203 JM",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/james-hetfield-guitars-and-gear/james-hetfields-marshall-jmp-2203/",
+            "title": "James Hetfield's Marshall JCM 800 Model 2203 - Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT 800 2203 HIGH",
+          "BRIT 800 2203 LOW"
+        ]
+      },
+      {
+        "brand": "Diezel",
+        "model": "Diezel VH4 schematics",
+        "links": [
+          {
+            "url": "https://geargods.net/news/thanks-to-t-c-electronic-we-got-a-good-look-at-both-metallica-guitar-rigs/",
+            "title": "Thanks to T.C. Electronic We Got a Good Look at Both Metallica Guitar Rigs - Gear Gods",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "DAS METALL"
+        ]
+      },
+      {
+        "brand": "Diezel",
+        "model": "Diezel VH4 (Manual)",
+        "links": [
+          {
+            "url": "https://www.guitarchalk.com/metallica-amp-settings/",
+            "title": "Metallica Amp Settings: James Hetfield Tone and EQ Guide - Guitar Chalk",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "DIZZY V4 BLUE 2",
+          "DIZZY V4 BLUE 3",
+          "DIZZY V4 BLUE 4",
+          "DIZZY V4 SILVER 2",
+          "DIZZY V4 SILVER 3",
+          "DIZZY V4 SILVER 4"
+        ]
+      },
+      {
+        "brand": "Roland",
+        "model": "Roland Jazz Chorus 120",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/james-hetfield-guitars-and-gear/james-hetfields-roland-jc-120-jazz-chorus/",
+            "title": "James Hetfield's Roland JC-120 Jazz Chorus – Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "JAZZ 120"
+        ]
+      },
+      {
+        "brand": "Mesa",
+        "model": "MESA/Boogie Mark IIC+ (manual)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/james-hetfield-guitars-and-gear/james-hetfields-mesa-boogie-mark-iic/",
+            "title": "James Hetfield's Mesa Boogie Mark IIC+ | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "USA MK IIC+",
+          "USA MK IIC+ BRIGHT",
+          "USA MK IIC+ DEEP",
+          "USA MK IIC+ DEEP BRIGHT"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "jason-becker",
+    "name": "Jason Becker",
+    "bands": [
+      "Cacophony",
+      "David Lee Roth"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "JCM800 head with 4x12 cabinet",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Jason_Becker",
+            "title": "Jason Becker - Wikipedia",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT 800 #34",
+          "BRIT 800 MOD"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "1970s half stack (used on Perpetual Burn)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Jason_Becker",
+            "title": "Jason Becker - Wikipedia",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Carvin",
+        "model": "X100B stack",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Jason_Becker",
+            "title": "Jason Becker - Wikipedia",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "jason-richardson",
+    "name": "Jason Richardson",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "PRS",
+        "model": "100W PRS Archon",
+        "links": [
+          {
+            "url": "https://guitarinteractivemagazine.com/review/prs-archon-head-review/",
+            "title": "PRS Archon Head | Review - Guitar Interactive Magazine",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "ARCHEAN",
+          "ARCHEAN BRIGHT",
+          "ARCHEAN CLEAN"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "jd-simo",
+    "name": "Jd Simo",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "100W Marshall Super Lead Plexi 1959 reissue",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-j-d-simo",
+            "title": "Rig Rundown: J.D. Simo – Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "jeff-beck",
+    "name": "Jeff Beck",
+    "bands": [
+      "The Yardbirds",
+      "Jeff Beck Group",
+      "Beck, Bogert & Appice"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "JTM45",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jeff-beck-guitars-and-gear/",
+            "title": "Jeff Beck's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT JM45",
+          "BRIT JM45 JUMPED"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Vibro-King",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jeff-beck-guitars-and-gear/",
+            "title": "Jeff Beck's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F1 TWEED EC CHAMPLIFIER",
+          "VIBRA-KING",
+          "VIBRA-KING FAT",
+          "VIBRATO LUX",
+          "VIBRATO VERB",
+          "VIBRATO VERB AA"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "jeff-hanneman",
+    "name": "Jeff Hanneman",
+    "bands": [
+      "Slayer"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "JCM800 2203",
+        "links": [
+          {
+            "url": "https://guitar.com/features/artist-rigs/the-guitar-gear-used-on-slayer-reign-in-blood/",
+            "title": "The Guitar Gear Used on Slayer's 'Reign In Blood' - Guitar.com",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT 800 2203 HIGH",
+          "BRIT 800 2203 LOW"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "jeff-loomis",
+    "name": "Jeff Loomis",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "PRS",
+        "model": "100W PRS Archon",
+        "links": [
+          {
+            "url": "https://guitarinteractivemagazine.com/review/prs-archon-head-review/",
+            "title": "PRS Archon Head | Review - Guitar Interactive Magazine",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "ARCHEAN",
+          "ARCHEAN BRIGHT",
+          "ARCHEAN CLEAN"
+        ]
+      },
+      {
+        "brand": "Engl",
+        "model": "Engl Powerball (manual)",
+        "links": [
+          {
+            "url": "https://beatrouteab.wordpress.com/2013/03/18/jeff-loomis/",
+            "title": "JEFF LOOMIS | BeatRoute Magazine",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "ENERGYBALL"
+        ]
+      },
+      {
+        "brand": "Revv",
+        "model": "REVV GENERATOR 120 MKIII (manual)",
+        "links": [
+          {
+            "url": "https://revvamplification.com/products/generator-120-jeff-loomis",
+            "title": "Generator 120 (Jeff Loomis) | Revv Amplification (official)",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "REVV GEN GREEN 1",
+          "REVV GEN GREEN 2",
+          "REVV GEN GREEN 3",
+          "REVV GEN PURPLE 1",
+          "REVV GEN PURPLE 2",
+          "REVV GEN PURPLE 3",
+          "REVV GEN RED 1",
+          "REVV GEN RED 2",
+          "REVV GEN RED 3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "jerry-cantrell",
+    "name": "Jerry Cantrell",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Bogner",
+        "model": "Bogner Fish preamp (manual)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jerry-cantrell-gear/",
+            "title": "Jerry Cantrell's Guitars and Gear - Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BOGFISH BROWN",
+          "BOGFISH STRATO"
+        ]
+      },
+      {
+        "brand": "Bogner",
+        "model": "Bogner Ecstasy 20th Anniversary (manual)",
+        "links": [
+          {
+            "url": "https://guitar.com/features/artist-rigs/the-gear-used-by-jerry-cantrell-on-alice-in-chains-dirt/",
+            "title": "The Gear Used by Jerry Cantrell on Alice in Chains' 'Dirt' | Guitar.com",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "EURO BLUE",
+          "EURO BLUE MODERN",
+          "EURO RED",
+          "EURO RED MODERN"
+        ]
+      },
+      {
+        "brand": "Bogner",
+        "model": "Bogner Uberschall",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jerry-cantrell-gear/",
+            "title": "Jerry Cantrell's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "EURO UBER"
+        ]
+      },
+      {
+        "brand": "Bogner",
+        "model": "Bogner Shiva 20th Anniversary",
+        "links": [
+          {
+            "url": "https://jasonshimmy.com/music/amps/bogner/shiva",
+            "title": "Bogner Shiva | Jason Shimmy (gear history)",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "SHIVER CLEAN",
+          "SHIVER LEAD"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "jerry-garcia",
+    "name": "Jerry Garcia",
+    "bands": [
+      "Grateful Dead",
+      "Jerry Garcia Band"
+    ],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Twin Reverb (used as preamp)",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/features/gear-features/the-songs-that-we-hear-capturing-jerry-garcias-tone",
+            "title": "How to Capture Jerry Garcia's Signature Tones | Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL",
+          "DOUBLE VERB NORMAL",
+          "DOUBLE VERB SILVERFACE",
+          "DOUBLE VERB VIBRATO"
+        ]
+      },
+      {
+        "brand": "McIntosh",
+        "model": "MC-3500 / MC2300 power amp",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/features/gear-features/the-songs-that-we-hear-capturing-jerry-garcias-tone",
+            "title": "How to Capture Jerry Garcia's Signature Tones | Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "jim-root",
+    "name": "Jim Root",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Orange",
+        "model": "Orange Rockerverb 50 MK II",
+        "links": [
+          {
+            "url": "https://guitarfxdepot.com/rigs/jim-root-slipknot-guitar-rig/",
+            "title": "The Complete History Of Jim Root's (Slipknot) Guitar Rig | Guitar FX Depot",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "CITRUS RV50"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "jimi-hendrix",
+    "name": "Jimi Hendrix",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "100W Marshall Super Lead Plexi 1959 reissue",
+        "links": [
+          {
+            "url": "https://guitar.com/news/gear-news/jimi-hendrix-marshall-super-lead-100-for-sale/",
+            "title": "One of Jimi Hendrix's Marshall Super Leads is up for sale – Guitar.com",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "Marshall JTM45 (Manual)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jimi-hendrix-gear/jimi-hendrixs-marshall-super-100-jtm45-100/",
+            "title": "Jimi Hendrix's Marshall Super 100 JTM45/100 | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT JM45",
+          "BRIT JM45 JUMPED"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "1970 100W Marshall Plexi",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jimi-hendrix-gear/jimi-hendrixs-marshall-super-100-jtm45-100/",
+            "title": "Jimi Hendrix's Marshall Super 100 - Ground Guitar",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.sweetwater.com/insync/marshall-100-watt-plexi-head-history/",
+            "title": "The History of the Legendary Marshall 100-watt \"Plexi\" Head - Sweetwater",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "PLEXI 100W 1970"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "1969 100W Marshall Plexi",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jimi-hendrix-gear/jimi-hendrixs-marshall-super-100-jtm45-100/",
+            "title": "Jimi Hendrix's Marshall Super 100 - Ground Guitar",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.sweetwater.com/insync/marshall-100-watt-plexi-head-history/",
+            "title": "The History of the Legendary Marshall 100-watt \"Plexi\" Head - Sweetwater",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "PLEXI 100W HIGH",
+          "PLEXI 100W JUMPED",
+          "PLEXI 100W NORMAL"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "1972 50W Marshall Plexi",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jimi-hendrix-gear/jimi-hendrixs-marshall-super-100-jtm45-100/",
+            "title": "Jimi Hendrix's Marshall Super 100 - Ground Guitar",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.sweetwater.com/insync/marshall-100-watt-plexi-head-history/",
+            "title": "The History of the Legendary Marshall 100-watt \"Plexi\" Head - Sweetwater",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "PLEXI 50W 6550"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "50W Marshall Plexi",
+        "links": [
+          {
+            "url": "https://blog.andertons.co.uk/learn/what-is-the-plexi-guitar-amp-sound",
+            "title": "What is the \"Plexi\" Guitar Amp Sound? - Andertons Blog",
+            "strength": "weak"
+          },
+          {
+            "url": "https://www.groundguitar.com/jimi-hendrix-gear/",
+            "title": "Jimi Hendrix Gear - Ground Guitar",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "PLEXI 50W 6CA7",
+          "PLEXI 50W 6CA7 JUMPED"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "1967 50W Marshall Plexi",
+        "links": [
+          {
+            "url": "https://blog.andertons.co.uk/learn/what-is-the-plexi-guitar-amp-sound",
+            "title": "What is the \"Plexi\" Guitar Amp Sound? - Andertons Blog",
+            "strength": "weak"
+          },
+          {
+            "url": "https://www.groundguitar.com/jimi-hendrix-gear/",
+            "title": "Jimi Hendrix Gear - Ground Guitar",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "PLEXI 50W HIGH 1",
+          "PLEXI 50W HIGH 2",
+          "PLEXI 50W JUMPED",
+          "PLEXI 50W NORMAL"
+        ]
+      },
+      {
+        "brand": "Supro",
+        "model": "Supro 1964T (manual)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jimi-hendrix-gear/jimi-hendrixs-supro-thunderbolt/",
+            "title": "Jimi Hendrix's Supro S6420 Thunderbolt - Ground Guitar",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "SUPREMO TREM"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "jimmy-page",
+    "name": "Jimmy Page",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "100W Marshall Super Lead Plexi 1959 reissue",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jimmy-page-gear/jimmy-pages-marshall-1959slp-super-lead-amplifier/",
+            "title": "Jimmy Page's Marshall 1959SLP Super Lead Amplifier – Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE"
+        ]
+      },
+      {
+        "brand": "Vox",
+        "model": "Vox AC30",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Vox_AC30",
+            "title": "Vox AC30 - Wikipedia",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "CLASS-A 30W",
+          "CLASS-A 30W BRIGHT",
+          "CLASS-A 30W BRILLIANT",
+          "CLASS-A 30W HOT",
+          "CLASS-A 30W TB"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "1970 100W Marshall Plexi",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jimmy-page-gear/jimmy-pages-marshall-1959slp-super-lead-amplifier/",
+            "title": "Jimmy Page's Marshall 1959SLP Super Lead Amplifier - Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "PLEXI 100W 1970"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "1969 100W Marshall Plexi",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jimmy-page-gear/jimmy-pages-marshall-1959slp-super-lead-amplifier/",
+            "title": "Jimmy Page's Marshall 1959SLP Super Lead Amplifier - Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "PLEXI 100W HIGH",
+          "PLEXI 100W JUMPED",
+          "PLEXI 100W NORMAL"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "1972 50W Marshall Plexi",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jimmy-page-gear/jimmy-pages-marshall-1959slp-super-lead-amplifier/",
+            "title": "Jimmy Page's Marshall 1959SLP Super Lead Amplifier - Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "PLEXI 50W 6550"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "50W Marshall Plexi",
+        "links": [
+          {
+            "url": "https://jimmypage.co.uk/equipment/",
+            "title": "Jimmy Page used Equipment throughout his career",
+            "strength": "weak"
+          },
+          {
+            "url": "https://blog.andertons.co.uk/learn/what-is-the-plexi-guitar-amp-sound",
+            "title": "What is the \"Plexi\" Guitar Amp Sound? - Andertons Blog",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "PLEXI 50W 6CA7",
+          "PLEXI 50W 6CA7 JUMPED"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "1967 50W Marshall Plexi",
+        "links": [
+          {
+            "url": "https://jimmypage.co.uk/equipment/",
+            "title": "Jimmy Page used Equipment throughout his career",
+            "strength": "weak"
+          },
+          {
+            "url": "https://blog.andertons.co.uk/learn/what-is-the-plexi-guitar-amp-sound",
+            "title": "What is the \"Plexi\" Guitar Amp Sound? - Andertons Blog",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "PLEXI 50W HIGH 1",
+          "PLEXI 50W HIGH 2",
+          "PLEXI 50W JUMPED",
+          "PLEXI 50W NORMAL"
+        ]
+      },
+      {
+        "brand": "Supro",
+        "model": "Supro 1964T (manual)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jimmy-page-gear/jimmy-pages-supro-coronado-1690t-amplifier/",
+            "title": "Jimmy Page's Supro Coronado 1690T Amplifier - Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "SUPREMO TREM"
+        ]
+      },
+      {
+        "brand": "Supro",
+        "model": "Supro 1695T Black Magick",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/jimmy-page-gear/jimmy-pages-supro-coronado-1690t-amplifier/",
+            "title": "Jimmy Page's Supro Coronado 1690T Amplifier - Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "SUPRO BLACK MAGICK"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "joe-bonamassa",
+    "name": "Joe Bonamassa",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Keith Urban's 1959 narrow-panel high-power\nFender Tweed Twin, 5F8",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/gear/how-the-fender-twin-amp-became-a-worthy-weapon-of-choice-for-clapton-richards-gilmour-and-bonamassa",
+            "title": "How the Fender Twin-Amp Became a Worthy Weapon of Choice for Clapton, Richards, Gilmour and Bonamassa | GuitarPlayer",
+            "strength": "strong"
+          },
+          {
+            "url": "https://jbonamassa.com/features/2015/bonamassa-guitar-safari/part-2/",
+            "title": "For the thrill of the hunt - Joe goes on a safari for vintage gear!",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL"
+        ]
+      },
+      {
+        "brand": "Two-Rock",
+        "model": "Two-Rock Jet 35 (manual)",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/469-joe-bonamassa-guitar-rig-gear-and-equipment",
+            "title": "Joe Bonamassa Guitar Rig Gear and Equipment",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "TWO STONE J35",
+          "TWO STONE J35 PAB"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "joe-pass",
+    "name": "Joe Pass",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Polytone",
+        "model": "Mini-Brute",
+        "links": [
+          {
+            "url": "https://jazzatelier.com/2008/11/21/gears-guitar-amps-used-by-joe-pass/",
+            "title": "Gears, guitar & Amps used by Joe Pass | jazZClefs",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "joe-satriani",
+    "name": "Joe Satriani",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "Marshall JVM410H (Manual)",
+        "links": [
+          {
+            "url": "https://www.joesatrianiuniverse.com/gear/marshall-js-amps/",
+            "title": "Marshall JS amps | Joe Satriani Universe",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.musicradar.com/reviews/guitars/marshall-jvm410hjs-joe-satriani-signature-565303",
+            "title": "Marshall JVM410HJS Joe Satriani Signature review | MusicRadar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT JVM OD1 GREEN",
+          "BRIT JVM OD1 ORANGE",
+          "BRIT JVM OD1 RED",
+          "BRIT JVM OD2 GREEN",
+          "BRIT JVM OD2 ORANGE",
+          "BRIT JVM OD2 RED"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "Joe Satriani's Marshall JVM410HJS (Manual)",
+        "links": [
+          {
+            "url": "https://www.joesatrianiuniverse.com/gear/marshall-js-amps/",
+            "title": "Marshall JS amps | Joe Satriani Universe",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "JS410 CRUNCH ORANGE",
+          "JS410 CRUNCH RED",
+          "JS410 LEAD GREEN",
+          "JS410 LEAD ORANGE",
+          "JS410 LEAD RED"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "joe-walsh",
+    "name": "Joe Walsh",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "narrow-panel Fender Tweed Champ, 5F1 (manual)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/joe-walsh/joe-walshs-fender-tweed-champ/",
+            "title": "Joe Walsh's Fender Tweed Champ - Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F1 TWEED CHAMPLIFIER"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "joel-stroetzel",
+    "name": "Joel Stroetzel",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Diezel",
+        "model": "Diezel VH4 schematics",
+        "links": [
+          {
+            "url": "https://guitarmessenger.com/joel-stroetzel-interview-killswitch-engage/",
+            "title": "Joel Stroetzel Interview (Killswitch Engage) - Guitar Messenger",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "DAS METALL"
+        ]
+      },
+      {
+        "brand": "Diezel",
+        "model": "Diezel VH4 (Manual)",
+        "links": [
+          {
+            "url": "https://guitarmessenger.com/joel-stroetzel-interview-killswitch-engage/",
+            "title": "Joel Stroetzel Interview (Killswitch Engage) - Guitar Messenger",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "DIZZY V4 BLUE 2",
+          "DIZZY V4 BLUE 3",
+          "DIZZY V4 BLUE 4",
+          "DIZZY V4 SILVER 2",
+          "DIZZY V4 SILVER 3",
+          "DIZZY V4 SILVER 4"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "john-5",
+    "name": "John 5",
+    "bands": [
+      "Mötley Crüe",
+      "Rob Zombie",
+      "Marilyn Manson",
+      "David Lee Roth"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "JCM900 Dual Reverb",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-john-5",
+            "title": "Rig Rundown: John 5 - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Marshall",
+        "model": "JVM410H",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-john-5",
+            "title": "Rig Rundown: John 5 - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT JVM OD1 GREEN",
+          "BRIT JVM OD1 ORANGE",
+          "BRIT JVM OD1 RED",
+          "BRIT JVM OD2 GREEN",
+          "BRIT JVM OD2 ORANGE",
+          "BRIT JVM OD2 RED"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "JVM210H",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-john-5",
+            "title": "Rig Rundown: John 5 - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "john-frusciante",
+    "name": "John Frusciante",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "1966 blackface Fender Twin Reverb",
+        "links": [
+          {
+            "url": "https://xtones.net/en/player-johnfrusciante-redhotchilipeppers/",
+            "title": "John Frusciante's equipment [Amps, guitars, effects] - XTONES",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "DOUBLE VERB NORMAL",
+          "DOUBLE VERB VIBRATO"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "john-mayer",
+    "name": "John Mayer",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "1965 blackface Fender Deluxe Reverb, AB763 (manual)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/john-mayer-guitars-and-gear/john-mayers-fender-deluxe-reverb-amp/",
+            "title": "John Mayer's Fender Deluxe Reverb Amp - Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "DELUXE VERB NORMAL",
+          "DELUXE VERB VIBRATO"
+        ]
+      },
+      {
+        "brand": "Dumble",
+        "model": "Dumble Overdrive Special",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Dumble_Overdrive_Special",
+            "title": "Dumble Overdrive Special - Wikipedia",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "ODS-100 CLEAN",
+          "ODS-100 FORD",
+          "ODS-100 FORD PAB",
+          "ODS-100 FORD PAB MID",
+          "ODS-100 HRM",
+          "ODS-100 HRM MID"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "1966 blackface Fender Princeton with reverb, AA964 (manual)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/john-mayer-guitars-and-gear/john-mayers-fender-65-princeton-reverb-amp/",
+            "title": "John Mayer's Fender '65 Princeton Reverb Amp - Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "PRINCETONE REVERB"
+        ]
+      },
+      {
+        "brand": "Two-Rock",
+        "model": "Two-Rock Jet 35 (manual)",
+        "links": [
+          {
+            "url": "https://www.boostguitarpedals.co.uk/blogs/gear-of-the-gods/john-mayers-gear-through-the-years",
+            "title": "John Mayer's gear through the years | Boost Guitar Pedals",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "TWO STONE J35",
+          "TWO STONE J35 PAB"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "custom Fender Vibro-King (manual)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/john-mayer-guitars-and-gear/john-mayers-fender-vibro-king/",
+            "title": "John Mayer's Fender Vibro-King - Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "VIBRA-KING",
+          "VIBRA-KING FAT"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "john-petrucci",
+    "name": "John Petrucci",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Mesa",
+        "model": "MESA/Boogie JP-2C (manual)",
+        "links": [
+          {
+            "url": "https://legacy.mesaboogie.com/amplifiers/electric/mark-series/jp2c/index.html",
+            "title": "MESA Boogie JP-2C John Petrucci Signature Model | MESA/Boogie",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "USA JP IIC+ GREEN",
+          "USA JP IIC+ RED",
+          "USA JP IIC+ RED SHRED",
+          "USA JP IIC+ YELLOW",
+          "USA JP IIC+ YELLOW SHRED"
+        ]
+      },
+      {
+        "brand": "Mesa",
+        "model": "MESA/Boogie Mark IIC+ (manual)",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/john-petrucci-guitars-and-gear/",
+            "title": "John Petrucci Guitars & Gear List | Guitar Lobby",
+            "strength": "strong"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Mesa/Boogie_Mark_Series",
+            "title": "Mesa/Boogie Mark Series - Wikipedia",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "USA MK IIC+",
+          "USA MK IIC+ BRIGHT",
+          "USA MK IIC+ DEEP",
+          "USA MK IIC+ DEEP BRIGHT"
+        ]
+      },
+      {
+        "brand": "Mesa",
+        "model": "MESA/Boogie Mark IV (manual)",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/john-petrucci-guitars-and-gear/",
+            "title": "John Petrucci Guitars & Gear List | Guitar Lobby",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "USA MK IV LEAD BRIGHT",
+          "USA MK IV LEAD MID GAIN",
+          "USA MK IV LEAD MID GAIN BRIGHT",
+          "USA MK IV LEAD/RHYTHM",
+          "USA MK IV RHYTHM 1",
+          "USA MK IV RHYTHM 2"
+        ]
+      },
+      {
+        "brand": "Mesa",
+        "model": "MESA/Boogie Mark V (manual)",
+        "links": [
+          {
+            "url": "https://guitarmessenger.com/john-petrucci-demonstrates-his-mesaboogie-mark-v-amp-settings/",
+            "title": "John Petrucci Demonstrates His Mesa/Boogie Mark V Amp Settings | Guitar Messenger",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "USA MK V GREEN",
+          "USA MK V RED IIC+",
+          "USA MK V RED IIC+ Bright",
+          "USA MK V RED MKIV",
+          "USA MK V RED MKIV Bright",
+          "USA MK V RED XT",
+          "USA MK V RED XT Bright"
+        ]
+      },
+      {
+        "brand": "Mesa",
+        "model": "MESA TriAxis preamp (manual)",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/john-petrucci-guitars-and-gear/",
+            "title": "John Petrucci Guitars & Gear List | Guitar Lobby",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "USA PRE CLEAN",
+          "USA PRE LD1 RED",
+          "USA PRE LD2 GREEN",
+          "USA PRE LD2 RED",
+          "USA PRE LD2 YELLOW"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "john-scofield",
+    "name": "John Scofield",
+    "bands": [
+      "Miles Davis",
+      "Medeski Scofield Martin & Wood"
+    ],
+    "amps": [
+      {
+        "brand": "Vox",
+        "model": "AC30 (AC30TB)",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-john-scofield-avi-bortnick",
+            "title": "Rig Rundown: John Scofield & Avi Bortnick - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "CLASS-A 30W",
+          "CLASS-A 30W BRIGHT",
+          "CLASS-A 30W BRILLIANT",
+          "CLASS-A 30W HOT",
+          "CLASS-A 30W TB"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "johnny-marr",
+    "name": "Johnny Marr",
+    "bands": [
+      "The Smiths",
+      "Modest Mouse",
+      "The The",
+      "Electronic"
+    ],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Twin Reverb",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL",
+          "DOUBLE VERB NORMAL",
+          "DOUBLE VERB SILVERFACE",
+          "DOUBLE VERB VIBRATO"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Deluxe Reverb ('65)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "‘65 BASSGUY BASS",
+          "‘65 BASSGUY NORMAL",
+          "DELUXE 6G3",
+          "DELUXE TWEED",
+          "DELUXE TWEED JUMPED",
+          "DELUXE VERB NORMAL"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Bassman",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "‘59 BASSGUY BRIGHT",
+          "‘59 BASSGUY JUMPED",
+          "‘59 BASSGUY NORMAL",
+          "‘59 BASSGUY RI JUMPED",
+          "‘65 BASSGUY BASS",
+          "‘65 BASSGUY NORMAL"
+        ]
+      },
+      {
+        "brand": "Roland",
+        "model": "JC-120 Jazz Chorus",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/johnny-marr/",
+            "title": "Johnny Marr Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "JAZZ 120"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "jonny-greenwood",
+    "name": "Jonny Greenwood",
+    "bands": [
+      "Radiohead",
+      "The Smile"
+    ],
+    "amps": [
+      {
+        "brand": "Vox",
+        "model": "AC30",
+        "links": [
+          {
+            "url": "https://thekingofgear.com/jonny/amplifiers",
+            "title": "Jonny Greenwood's Amplifiers | The King of Gear",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "CLASS-A 30W",
+          "CLASS-A 30W BRIGHT",
+          "CLASS-A 30W BRILLIANT",
+          "CLASS-A 30W HOT",
+          "CLASS-A 30W TB"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Eighty-Five (Fender 85)",
+        "links": [
+          {
+            "url": "https://thekingofgear.com/jonny/amplifiers",
+            "title": "Jonny Greenwood's Amplifiers | The King of Gear",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F1 TWEED CHAMPLIFIER",
+          "5F1 TWEED EC CHAMPLIFIER",
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL",
+          "6G4 SUPER"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "jordan-buckley",
+    "name": "Jordan Buckley",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Revv",
+        "model": "REVV GENERATOR 120 MKIII (manual)",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/videos/rig-rundown/better-lovers",
+            "title": "Better Lovers Rig Rundown | Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "REVV GEN GREEN 1",
+          "REVV GEN GREEN 2",
+          "REVV GEN GREEN 3",
+          "REVV GEN PURPLE 1",
+          "REVV GEN PURPLE 2",
+          "REVV GEN PURPLE 3",
+          "REVV GEN RED 1",
+          "REVV GEN RED 2",
+          "REVV GEN RED 3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "justin-derrico",
+    "name": "Justin Derrico",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Friedman",
+        "model": "Friedman BE 100 (manual) - BE models\nFriedman BE 100 DLX (Manual) - HBE models",
+        "links": [
+          {
+            "url": "https://www.humbuckermusic.com/products/friedman-brown-eye-100",
+            "title": "Friedman BE-100 Brown Eye 100 Head | Humbucker Music",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "FRIEDMAN BE 2010",
+          "FRIEDMAN BE C45",
+          "FRIEDMAN BE V1",
+          "FRIEDMAN BE V1 FAT",
+          "FRIEDMAN BE V2",
+          "FRIEDMAN BE V3",
+          "FRIEDMAN HBE 2010",
+          "FRIEDMAN HBE C45",
+          "FRIEDMAN HBE V1",
+          "FRIEDMAN HBE V1 FAT",
+          "FRIEDMAN HBE V2",
+          "FRIEDMAN HBE V3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "k-k-downing",
+    "name": "K.K. Downing",
+    "bands": [
+      "Judas Priest",
+      "KK's Priest"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "JCM800 Model 1987 50W Lead",
+        "links": [
+          {
+            "url": "https://www.bonhams.com/auction/24669/lot/155A/ken-kk-downingjudas-priest-a-marshall-jcm800-model-1987-50-watt-lead-amplifier-1981/",
+            "title": "Ken (K.K.) Downing/Judas Priest: A Marshall JCM800 Model 1987 50 watt Lead amplifier, 1981 - Bonhams",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1987X JUMPED",
+          "1987X NORMAL",
+          "1987X TREBLE",
+          "BRIT 800 2204 HIGH",
+          "BRIT 800 2204 LOW",
+          "BRIT 800 #34"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "karl-sanders",
+    "name": "Karl Sanders",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Splawn",
+        "model": "Splawn Quickrod (manual)",
+        "links": [
+          {
+            "url": "https://www.yahoo.com/entertainment/t-brute-physicality-karl-sanders-110826630.html",
+            "title": "Karl Sanders on technical epiphanies - and why Nile needs three guitarists (Guitar World)",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "SPAWN Q-ROD OD1-1",
+          "SPAWN Q-ROD OD1-2",
+          "SPAWN Q-ROD OD1-3",
+          "SPAWN Q-ROD OD2-1",
+          "SPAWN Q-ROD OD2-2",
+          "SPAWN Q-ROD OD2-3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "keith-richards",
+    "name": "Keith Richards",
+    "bands": [
+      "The Rolling Stones",
+      "X-Pensive Winos"
+    ],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Tweed Twin (high-power 5F8-A, 1958-60)",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/gear/how-the-fender-twin-amp-became-a-worthy-weapon-of-choice-for-clapton-richards-gilmour-and-bonamassa",
+            "title": "How the Fender Twin-Amp Became a Worthy Weapon of Choice for Clapton, Richards, Gilmour and Bonamassa | GuitarPlayer",
+            "strength": "strong"
+          },
+          {
+            "url": "https://mixdownmag.com.au/features/gear-rundown-keith-richards/",
+            "title": "Gear Rundown: Keith Richards | Mixdown",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "5F1 TWEED CHAMPLIFIER",
+          "5F1 TWEED EC CHAMPLIFIER",
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL",
+          "6G4 SUPER"
+        ]
+      },
+      {
+        "brand": "Vox",
+        "model": "AC30",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/gear-rundown-keith-richards/",
+            "title": "Gear Rundown: Keith Richards | Mixdown",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "CLASS-A 30W",
+          "CLASS-A 30W BRIGHT",
+          "CLASS-A 30W BRILLIANT",
+          "CLASS-A 30W HOT",
+          "CLASS-A 30W TB"
+        ]
+      },
+      {
+        "brand": "Ampeg",
+        "model": "VT-22 / VT-40 / Gemini GV-22",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/gear-rundown-keith-richards/",
+            "title": "Gear Rundown: Keith Richards | Mixdown",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "keith-urban",
+    "name": "Keith Urban",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Keith Urban's 1959 narrow-panel high-power\nFender Tweed Twin, 5F8",
+        "links": [
+          {
+            "url": "https://www.guitarchalk.com/keith-urban-amp-settings/",
+            "title": "Keith Urban Amp Settings - Guitar Chalk",
+            "strength": "strong"
+          },
+          {
+            "url": "https://forum.fractalaudio.com/threads/fractal-audio-amp-models-5f8-tweed-keith-urbans-59-high-power-fender-twin-amp-5f8.111123/",
+            "title": "Fractal Audio AMP models: 5F8 Tweed (Keith Urban's '59 high power Fender Twin-Amp, 5F8)",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL"
+        ]
+      },
+      {
+        "brand": "Trainwreck",
+        "model": "Trainwreck Rocket (manual)",
+        "links": [
+          {
+            "url": "https://www.scruffsvintageguitars.com/trainwreck",
+            "title": "Trainwreck: A Brief History - Scruffs Vintage Guitars",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "WRECKER ROCKET"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "kenny-wayne-shepherd",
+    "name": "Kenny Wayne Shepherd",
+    "bands": [
+      "Kenny Wayne Shepherd Band"
+    ],
+    "amps": [
+      {
+        "brand": "Dumble",
+        "model": "Dumble-modified Fender amplifiers (Pro Reverb, Bassman, Band Master, Deluxe)",
+        "links": [
+          {
+            "url": "https://www.guitarworld.com/news/kenny-wayne-shepherd-reveals-his-onstage-fender-amps-are-actually-dumbles-in-disguise",
+            "title": "Kenny Wayne Shepherd reveals his onstage Fender amps are actually Dumbles in disguise | Guitar World",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-kenny-wayne-shepherd",
+            "title": "Rig Rundown - Kenny Wayne Shepherd - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "ODS-100 CLEAN",
+          "ODS-100 FORD",
+          "ODS-100 FORD PAB",
+          "ODS-100 FORD PAB MID",
+          "ODS-100 HRM",
+          "ODS-100 HRM MID"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Vibroverb Reissue / Super-Sonic Twin / Deluxe Reissue",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-kenny-wayne-shepherd",
+            "title": "Rig Rundown - Kenny Wayne Shepherd - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL",
+          "6G4 SUPER",
+          "DELUXE 6G3",
+          "DELUXE TWEED"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "kerry-king",
+    "name": "Kerry King",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "50W Marshall JCM 800 2204",
+        "links": [
+          {
+            "url": "https://www.truetonemusic.com/products/pre-owned-2007-marshall-jcm-800-kerry-king-2203kk-100-watt-guitar-amp-head-with-original-box",
+            "title": "Marshall JCM 800 Kerry King 2203KK 100-watt Guitar Amp Head | True Tone Music",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT 800 2204 HIGH",
+          "BRIT 800 2204 LOW"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "1981 50W Marshall JMP 2204",
+        "links": [
+          {
+            "url": "https://www.guitarworld.com/features/marshall-jcm800-2203",
+            "title": "Why the Marshall JCM800 2203 was the amp head of choice for a generation - Guitar World",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "PLEXI 2204"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "kevin-shields",
+    "name": "Kevin Shields",
+    "bands": [
+      "My Bloody Valentine"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "JCM800",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/my-bloody-valentine-kevin-shields/",
+            "title": "Gear Rundown: Kevin Shields of My Bloody Valentine | Mixdown",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Vox",
+        "model": "AC30",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/my-bloody-valentine-kevin-shields/",
+            "title": "Gear Rundown: Kevin Shields of My Bloody Valentine | Mixdown",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "CLASS-A 30W",
+          "CLASS-A 30W BRIGHT",
+          "CLASS-A 30W BRILLIANT",
+          "CLASS-A 30W HOT",
+          "CLASS-A 30W TB"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Dual Showman",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/my-bloody-valentine-kevin-shields/",
+            "title": "Gear Rundown: Kevin Shields of My Bloody Valentine | Mixdown",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "kirk-hammett",
+    "name": "Kirk Hammett",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Mesa",
+        "model": "MESA Dual Rectifier, 2 channels (manual)",
+        "links": [
+          {
+            "url": "https://legacy.mesaboogie.com/amplitudes/2011/November/metallica-live-rigs.html",
+            "title": "Metallica Live Rigs | MESA/Boogie (official)",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.metallicagearhistory.com/post/album-analysis-load",
+            "title": "Album Analysis: Load | Metallica Gear History",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "RECTO1 ORANGE MODERN",
+          "RECTO1 ORANGE NORMAL",
+          "RECTO1 RED"
+        ]
+      },
+      {
+        "brand": "Mesa",
+        "model": "MESA Dual Rectifier, 3 channels (manual)",
+        "links": [
+          {
+            "url": "https://legacy.mesaboogie.com/amplitudes/2011/November/metallica-live-rigs.html",
+            "title": "Metallica Live Rigs | MESA/Boogie (official)",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.metallicagearhistory.com/post/album-analysis-load",
+            "title": "Album Analysis: Load | Metallica Gear History",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "RECTO2 ORANGE MODERN",
+          "RECTO2 ORANGE VINTAGE",
+          "RECTO2 RED MODERN",
+          "RECTO2 RED VINTAGE"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "larry-carlton",
+    "name": "Larry Carlton",
+    "bands": [
+      "The Crusaders",
+      "Steely Dan (session)",
+      "Fourplay"
+    ],
+    "amps": [
+      {
+        "brand": "Bludotone",
+        "model": "Bludo-Drive 100/50",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-larry-carlton",
+            "title": "Rig Rundown: Larry Carlton - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BLUDOJAI CLEAN",
+          "BLUDOJAI LEAD",
+          "BLUDOJAI LEAD PAB"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Tweed Deluxe",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-larry-carlton",
+            "title": "Rig Rundown: Larry Carlton - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F1 TWEED CHAMPLIFIER",
+          "5F1 TWEED EC CHAMPLIFIER",
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL",
+          "‘59 BASSGUY BRIGHT"
+        ]
+      },
+      {
+        "brand": "Dumble",
+        "model": "Overdrive Special",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Dumble_Overdrive_Special",
+            "title": "Dumble Overdrive Special - Wikipedia",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "ODS-100 CLEAN",
+          "ODS-100 FORD",
+          "ODS-100 FORD PAB",
+          "ODS-100 FORD PAB MID",
+          "ODS-100 HRM",
+          "ODS-100 HRM MID"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "lee-ritenour",
+    "name": "Lee Ritenour",
+    "bands": [
+      "Fourplay"
+    ],
+    "amps": [
+      {
+        "brand": "Music Man",
+        "model": "210-65",
+        "links": [
+          {
+            "url": "https://musicmanamps.net/index.php/node/76",
+            "title": "Lee Ritenour - Vintage Guitar 07/05 | Music Man Amps",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Fender",
+        "model": "Deluxe Reverb / Princeton (modified)",
+        "links": [
+          {
+            "url": "https://musicmanamps.net/index.php/node/76",
+            "title": "Lee Ritenour - Vintage Guitar 07/05 | Music Man Amps",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "DELUXE 6G3",
+          "DELUXE TWEED",
+          "DELUXE TWEED JUMPED",
+          "DELUXE VERB NORMAL",
+          "DELUXE VERB VIBRATO",
+          "PRINCETONE 5F2"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "lindsey-buckingham",
+    "name": "Lindsey Buckingham",
+    "bands": [
+      "Fleetwood Mac",
+      "Buckingham Nicks"
+    ],
+    "amps": [
+      {
+        "brand": "Mesa/Boogie",
+        "model": "Dual Rectifier",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/702-fleetwood-mac-lindsey-buckingham-guitar-rig-gear-and-equipment",
+            "title": "Fleetwood Mac - Lindsey Buckingham Guitar Rig Gear and Equipment",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "RECTO1 ORANGE MODERN",
+          "RECTO1 ORANGE NORMAL",
+          "RECTO1 RED",
+          "RECTO2 ORANGE MODERN",
+          "RECTO2 ORANGE VINTAGE",
+          "RECTO2 RED MODERN"
+        ]
+      },
+      {
+        "brand": "SWR",
+        "model": "California Blonde",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/702-fleetwood-mac-lindsey-buckingham-guitar-rig-gear-and-equipment",
+            "title": "Fleetwood Mac - Lindsey Buckingham Guitar Rig Gear and Equipment",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Trace Elliot",
+        "model": "TA200",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/702-fleetwood-mac-lindsey-buckingham-guitar-rig-gear-and-equipment",
+            "title": "Fleetwood Mac - Lindsey Buckingham Guitar Rig Gear and Equipment",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "lou-reed",
+    "name": "Lou Reed",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Soldano",
+        "model": "Soldano SLO-100 (Manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Soldano_SLO-100",
+            "title": "Soldano SLO-100 - Wikipedia",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 100 CLEAN",
+          "SOLO 100 LEAD",
+          "SOLO 100 RHYTHM"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "mac-demarco",
+    "name": "Mac Demarco",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "2011 Fender EC Vibro-Champ (manual)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/mac-demarco/",
+            "title": "Mac DeMarco Guitars & Gear - Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F1 TWEED EC CHAMPLIFIER"
+        ]
+      },
+      {
+        "brand": "Roland",
+        "model": "Roland Jazz Chorus 120",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/mac-demarco/mac-demarcos-roland-jazz-chorus-120-amplifier/",
+            "title": "Mac DeMarco's Roland Jazz Chorus 120 Amplifier – Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "JAZZ 120"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "mark-holcomb",
+    "name": "Mark Holcomb",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "PRS",
+        "model": "100W PRS Archon",
+        "links": [
+          {
+            "url": "https://guitarinteractivemagazine.com/review/prs-archon-head-review/",
+            "title": "PRS Archon Head | Review - Guitar Interactive Magazine",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "ARCHEAN",
+          "ARCHEAN BRIGHT",
+          "ARCHEAN CLEAN"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "mark-knopfler",
+    "name": "Mark Knopfler",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Soldano",
+        "model": "Soldano X88R preamp (Manual)",
+        "links": [
+          {
+            "url": "https://guitarbomb.com/soldano-x88r-x88-ir-racks-back-legacy-high-gain-excellence/",
+            "title": "Soldano X88R & X88-IR Racks Are Back! | Guitar Bomb",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 88 CLEAN",
+          "SOLO 88 LEAD",
+          "SOLO 88 RHYTHM"
+        ]
+      },
+      {
+        "brand": "Soldano",
+        "model": "Soldano/Caswell X99 preamp",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Soldano_SLO-100",
+            "title": "Soldano SLO-100 - Wikipedia",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 99 CLEAN",
+          "SOLO 99 LEAD",
+          "SOLO 99 LEAD BRIGHT"
+        ]
+      },
+      {
+        "brand": "Soldano",
+        "model": "Soldano SLO-100 (Manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Soldano_SLO-100",
+            "title": "Soldano SLO-100 - Wikipedia",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 100 CLEAN",
+          "SOLO 100 LEAD",
+          "SOLO 100 RHYTHM"
+        ]
+      },
+      {
+        "brand": "Trainwreck",
+        "model": "Trainwreck Express (manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Trainwreck_Circuits",
+            "title": "Trainwreck Circuits - Wikipedia",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "WRECKER EXPRESS",
+          "WRECKER EXPRESS BRIGHT"
+        ]
+      },
+      {
+        "brand": "Trainwreck",
+        "model": "Trainwreck Liverpool (manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Trainwreck_Circuits",
+            "title": "Trainwreck Circuits - Wikipedia",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "WRECKER LIVERPOOL",
+          "WRECKER LIVERPOOL BRIGHT"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "mark-tremonti",
+    "name": "Mark Tremonti",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "PRS",
+        "model": "100W PRS Archon",
+        "links": [
+          {
+            "url": "https://www.prweb.com/releases/high_gain_prs_guitars_introduces_the_archon_amplifier/prweb11429865.htm",
+            "title": "High-Gain: PRS Guitars Introduces the Archon Amplifier",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.guitarlobby.com/mark-tremonti-guitars-and-gear/",
+            "title": "Mark Tremonti Guitars & Gear - Guitar Lobby",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "ARCHEAN",
+          "ARCHEAN BRIGHT",
+          "ARCHEAN CLEAN"
+        ]
+      },
+      {
+        "brand": "Mesa",
+        "model": "MESA Dual Rectifier, 3 channels (manual)",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/rig-rundown-creeds-mark-tremonti",
+            "title": "Rig Rundown - Creed's Mark Tremonti | Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "RECTO2 ORANGE MODERN",
+          "RECTO2 ORANGE VINTAGE",
+          "RECTO2 RED MODERN",
+          "RECTO2 RED VINTAGE"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "marty-friedman",
+    "name": "Marty Friedman",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Custom Audio Amplifiers",
+        "model": "CAE 3+ SE preamp (manual)",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/176-marty-friedman-guitar-gear-rig-and-equipment",
+            "title": "Marty Friedman Guitar Gear Rig and Equipment | UberProAudio",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "CA3+ CLEAN",
+          "CA3+ LEAD",
+          "CA3+ RHYTHM"
+        ]
+      },
+      {
+        "brand": "Engl",
+        "model": "Engl Powerball (manual)",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/guitars/namm-2017-engl-unleashes-marty-friedman-signature-inferno-amp-head-647695",
+            "title": "NAMM 2017: Engl unleashes Marty Friedman signature Inferno amp head | MusicRadar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "ENERGYBALL"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "max-cavalera",
+    "name": "Max Cavalera",
+    "bands": [
+      "Sepultura",
+      "Soulfly",
+      "Cavalera Conspiracy"
+    ],
+    "amps": [
+      {
+        "brand": "Peavey",
+        "model": "6505+",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/rig-tour-soulfly",
+            "title": "Rig tour: Soulfly - MusicRadar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "PVH 6160+ CLEAN",
+          "PVH 6160+ CLEAN BRIGHT",
+          "PVH 6160+ CRUNCH",
+          "PVH 6160+ CRUNCH BRIGHT",
+          "PVH 6160+ LEAD"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "michael-landau",
+    "name": "Michael Landau",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Custom Audio Amplifiers",
+        "model": "CAE 3+ SE preamp (manual)",
+        "links": [
+          {
+            "url": "https://www.plugin-alliance.com/en/products/suhr_se100.html",
+            "title": "Suhr SE100 - Plugin Alliance",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "CA3+ CLEAN",
+          "CA3+ LEAD",
+          "CA3+ RHYTHM"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "michael-schenker",
+    "name": "Michael Schenker",
+    "bands": [
+      "UFO",
+      "Scorpions",
+      "Michael Schenker Group",
+      "MSG"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "JCM800 (split-channel 50W heads)",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/522-michael-schenker-guitar-rig-gear-and-equipment",
+            "title": "Michael Schenker Guitar Rig Gear and Equipment - UberProAudio",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1987X JUMPED",
+          "1987X NORMAL",
+          "1987X TREBLE",
+          "BRIT 800 2204 HIGH",
+          "BRIT 800 2204 LOW",
+          "BRIT 800 #34"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "mick-jones",
+    "name": "Mick Jones",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Mesa",
+        "model": "MESA Lone Star Classic",
+        "links": [
+          {
+            "url": "https://legacy.mesaboogie.com/amplitudes/2011/April/artist-spotlight-mick-jones-big-audio-dynamite-the-clash.html",
+            "title": "Artist Spotlight: Mick Jones ~ Big Audio Dynamite & The Clash | MESA/Boogie",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "TEXAS STAR CLEAN",
+          "TEXAS STAR LEAD"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "mick-mars",
+    "name": "Mick Mars",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Soldano",
+        "model": "Soldano X88R preamp (Manual)",
+        "links": [
+          {
+            "url": "https://guitarbomb.com/soldano-x88r-x88-ir-racks-back-legacy-high-gain-excellence/",
+            "title": "Soldano X88R & X88-IR Racks Are Back! | Guitar Bomb",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 88 CLEAN",
+          "SOLO 88 LEAD",
+          "SOLO 88 RHYTHM"
+        ]
+      },
+      {
+        "brand": "Soldano",
+        "model": "Soldano/Caswell X99 preamp",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Soldano_SLO-100",
+            "title": "Soldano SLO-100 - Wikipedia",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 99 CLEAN",
+          "SOLO 99 LEAD",
+          "SOLO 99 LEAD BRIGHT"
+        ]
+      },
+      {
+        "brand": "Soldano",
+        "model": "Soldano SLO-100 (Manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Soldano_SLO-100",
+            "title": "Soldano SLO-100 - Wikipedia",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 100 CLEAN",
+          "SOLO 100 LEAD",
+          "SOLO 100 RHYTHM"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "mike-bloomfield",
+    "name": "Mike Bloomfield",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "1959 narrow-panel Fender Tweed Bassman, 5F6-A",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/gear/classic-gear-fender-bassman",
+            "title": "Classic Gear: Fender Bassman | GuitarPlayer",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "‘59 BASSGUY BRIGHT",
+          "‘59 BASSGUY JUMPED",
+          "‘59 BASSGUY NORMAL"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "mike-mccready",
+    "name": "Mike Mccready",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "1965 blackface Fender Bassman head, AB165",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/mike-mccready/mike-mccreadys-fender-bassman-ab165-amp/",
+            "title": "Mike McCready's Fender Bassman AB165 Amp – Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "‘65 BASSGUY BASS",
+          "‘65 BASSGUY NORMAL"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "misha-mansoor",
+    "name": "Misha Mansoor",
+    "bands": [
+      "Periphery"
+    ],
+    "amps": [
+      {
+        "brand": "Peavey",
+        "model": "Invective 120",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/videos/rig-rundown/periphery-2023",
+            "title": "Rig Rundown: Periphery [2023] - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "myles-kennedy",
+    "name": "Myles Kennedy",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Diezel",
+        "model": "Diezel Herbert",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/595-alter-bridge-myles-kennedy-guitar-rig-gear-and-equipment",
+            "title": "Alter Bridge - Myles Kennedy Guitar Rig Gear and Equipment",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "HERBIE CH2+",
+          "HERBIE CH2-",
+          "HERBIE CH3"
+        ]
+      },
+      {
+        "brand": "Diezel",
+        "model": "Diezel Herbert MKIII (Manual)",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/595-alter-bridge-myles-kennedy-guitar-rig-gear-and-equipment",
+            "title": "Alter Bridge - Myles Kennedy Guitar Rig Gear and Equipment",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "HERBIE MK3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "neal-schon",
+    "name": "Neal Schon",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Diezel",
+        "model": "Diezel VH4 schematics",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-journeys-neal-schon-2014",
+            "title": "Rig Rundown: Journey's Neal Schon (2014) - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "DAS METALL"
+        ]
+      },
+      {
+        "brand": "Diezel",
+        "model": "Diezel VH4 (Manual)",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-journeys-neal-schon-2014",
+            "title": "Rig Rundown: Journey's Neal Schon (2014) - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "DIZZY V4 BLUE 2",
+          "DIZZY V4 BLUE 3",
+          "DIZZY V4 BLUE 4",
+          "DIZZY V4 SILVER 2",
+          "DIZZY V4 SILVER 3",
+          "DIZZY V4 SILVER 4"
+        ]
+      },
+      {
+        "brand": "Friedman",
+        "model": "Friedman BE 100 (manual) - BE models\nFriedman BE 100 DLX (Manual) - HBE models",
+        "links": [
+          {
+            "url": "https://www.humbuckermusic.com/products/friedman-brown-eye-100",
+            "title": "Friedman BE-100 Brown Eye 100 Head | Humbucker Music",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "FRIEDMAN BE 2010",
+          "FRIEDMAN BE C45",
+          "FRIEDMAN BE V1",
+          "FRIEDMAN BE V1 FAT",
+          "FRIEDMAN BE V2",
+          "FRIEDMAN BE V3",
+          "FRIEDMAN HBE 2010",
+          "FRIEDMAN HBE C45",
+          "FRIEDMAN HBE V1",
+          "FRIEDMAN HBE V1 FAT",
+          "FRIEDMAN HBE V2",
+          "FRIEDMAN HBE V3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "neil-young",
+    "name": "Neil Young",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "1957 narrow-panel Fender Tweed Deluxe, 5E3",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/gear/amps/neil-young-the-fender-amp-behind-60-years-of-his-guitar-tone",
+            "title": "Neil Young on his Old Black Les Paul and the amp that's been his go-to for nearly 60 years - Guitar Player",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "DELUXE TWEED",
+          "DELUXE TWEED JUMPED"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "nile-rodgers",
+    "name": "Nile Rodgers",
+    "bands": [
+      "Chic"
+    ],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Deluxe Reverb",
+        "links": [
+          {
+            "url": "https://musicstrive.com/nile-rodgers-guitar-tone/",
+            "title": "Nile Rodgers Amp Settings - Guitar Tone Guide with Gear List!",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "DELUXE 6G3",
+          "DELUXE TWEED",
+          "DELUXE TWEED JUMPED",
+          "DELUXE VERB NORMAL",
+          "DELUXE VERB VIBRATO"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "nuno-bettencourt",
+    "name": "Nuno Bettencourt",
+    "bands": [
+      "Extreme"
+    ],
+    "amps": [
+      {
+        "brand": "Randall",
+        "model": "NB100 (NB King 100) head with NB412 cabinet",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/guitars/nuno-bettencourt-gets-signature-randall-amps-175128",
+            "title": "Nuno Bettencourt gets signature Randall amps | MusicRadar",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.premierguitar.com/randall-amps-nuno-bettencourt-and-rm-12-models",
+            "title": "Randall Amps - Nuno Bettencourt and RM 12 models - Premier Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "pat-metheny",
+    "name": "Pat Metheny",
+    "bands": [
+      "Pat Metheny Group"
+    ],
+    "amps": [
+      {
+        "brand": "Kemper",
+        "model": "Profiler Power Rack",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/videos/rig-rundown/pat-metheny",
+            "title": "Pat Metheny's Guitar Rig Revealed - Premier Guitar (Rig Rundown)",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "paul-gilbert",
+    "name": "Paul Gilbert",
+    "bands": [
+      "Mr. Big",
+      "Racer X"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "1959SLP Super Lead",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/articles/25853-rig-rundown-mr-bigs-paul-gilbert-billy-sheehan-2017",
+            "title": "Mr. Big 2017 Rig Rundown: Paul Gilbert & Billy Sheehan - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE",
+          "BRIT SUPER"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "paul-landers",
+    "name": "Paul Landers",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Engl",
+        "model": "Engl Powerball (manual)",
+        "links": [
+          {
+            "url": "https://www.rammsteinworld.com/en/rammstein/equipment/paul-landers",
+            "title": "Rammstein World - Paul Landers' equipment",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "ENERGYBALL"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "paul-mccartney",
+    "name": "Paul Mccartney",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Divided By 13",
+        "model": "Divided By 13 CJ 11 (manual)",
+        "links": [
+          {
+            "url": "https://dividedby13.com/artists/",
+            "title": "Artists - Divided by 13 Amplifiers",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "DIV/13 CJ",
+          "DIV/13 CJ BOOST"
+        ]
+      },
+      {
+        "brand": "Divided By 13",
+        "model": "Divided By 13 FTR 37 (manual)",
+        "links": [
+          {
+            "url": "https://dividedby13.com/artists/",
+            "title": "Artists - Divided by 13 Amplifiers",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "DIV/13 FT37 HIGH",
+          "DIV/13 FT37 LOW"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "pete-thorn",
+    "name": "Pete Thorn",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Suhr",
+        "model": "Suhr Badger 18",
+        "links": [
+          {
+            "url": "http://musicgearsource1.blogspot.com/2011/12/pete-thorn-talks-gear-touring-and-evh.html",
+            "title": "Pete Thorn talks gear, touring, and influences - MusicGearSource",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "SUHR BADGER 18"
+        ]
+      },
+      {
+        "brand": "Suhr",
+        "model": "Suhr Badger 30",
+        "links": [
+          {
+            "url": "http://musicgearsource1.blogspot.com/2011/12/pete-thorn-talks-gear-touring-and-evh.html?m=1",
+            "title": "Pete Thorn talks gear, touring, and influences - MusicGearSource",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "SUHR BADGER 30"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "pete-townshend",
+    "name": "Pete Townshend",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Hiwatt",
+        "model": "Hiwatt DR103",
+        "links": [
+          {
+            "url": "https://www.thewho.net/whotabs/gear/guitar/cp103.html",
+            "title": "Hiwatt CP103 and DR103W | Pete Townshend's Guitar Gear | Whotabs",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "HIPOWER BRILLIANT",
+          "HIPOWER JUMPED",
+          "HIPOWER NORMAL"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "peter-green",
+    "name": "Peter Green",
+    "bands": [
+      "Fleetwood Mac",
+      "John Mayall & the Bluesbreakers"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "JTM45",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/peter-greens-1964-marshall-jtm45",
+            "title": "Peter Green's 1964 Marshall JTM45 - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT JM45",
+          "BRIT JM45 JUMPED"
+        ]
+      },
+      {
+        "brand": "Matamp",
+        "model": "Series 2000 head (Orange-Matamp era)",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/peter-green-1967-matamp",
+            "title": "Peter Green's 1967 Matamp head from his early Fleetwood Mac days is up for sale - MusicRadar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "philip-sayce",
+    "name": "Philip Sayce",
+    "bands": [
+      "Jeff Healey Band"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "'68 Super Bass Plexi",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE",
+          "BRIT SUPER"
+        ]
+      },
+      {
+        "brand": "Mystic Amps (Tommy Cougar)",
+        "model": "Mother / Dumble Steel String Singer-style head",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Fender",
+        "model": "Super Reverb (Cesar Diaz-modified)",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "6G4 SUPER",
+          "SUPER VERB NORMAL",
+          "SUPER VERB VIBRATO"
+        ]
+      },
+      {
+        "brand": "Vox",
+        "model": "AC30",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "CLASS-A 30W",
+          "CLASS-A 30W BRIGHT",
+          "CLASS-A 30W BRILLIANT",
+          "CLASS-A 30W HOT",
+          "CLASS-A 30W TB"
+        ]
+      },
+      {
+        "brand": "Mesa/Boogie",
+        "model": "Mark II",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitarist/philip-sayce-interview-291496",
+            "title": "Philip Sayce interview | MusicRadar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "USA MK IIC+",
+          "USA MK IIC+ BRIGHT",
+          "USA MK IIC+ DEEP",
+          "USA MK IIC+ DEEP BRIGHT",
+          "USA MK IV LEAD/RHYTHM",
+          "USA MK IV LEAD BRIGHT"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "plini",
+    "name": "Plini",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fractal Audio",
+        "model": "Axe-Fx III",
+        "links": [
+          {
+            "url": "https://www.guitarchalk.com/plini-amp-settings/",
+            "title": "Plini Amp Settings and Tone Tips - Guitar Chalk",
+            "strength": "strong"
+          },
+          {
+            "url": "https://guitar.com/features/guitar-com-live-everything-you-need-to-know-about-plini/",
+            "title": "Guitar.com Live: Everything you need to know about Plini",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Neural DSP",
+        "model": "Archetype: Plini",
+        "links": [
+          {
+            "url": "https://guitar.com/features/guitar-com-live-everything-you-need-to-know-about-plini/",
+            "title": "Guitar.com Live: Everything you need to know about Plini",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "prince",
+    "name": "Prince",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Soldano",
+        "model": "Soldano/Caswell X99 preamp",
+        "links": [
+          {
+            "url": "https://www.guitarcloud.org/faq/what-amplifiers-did-prince-use/",
+            "title": "What amplifiers did Prince use? - Guitarcloud Prince Equipment Archive",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 99 CLEAN",
+          "SOLO 99 LEAD",
+          "SOLO 99 LEAD BRIGHT"
+        ]
+      },
+      {
+        "brand": "Soldano",
+        "model": "Soldano SLO-100 (Manual)",
+        "links": [
+          {
+            "url": "https://www.guitarcloud.org/faq/what-amplifiers-did-prince-use/",
+            "title": "What amplifiers did Prince use? - Guitarcloud Prince Equipment Archive",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 100 CLEAN",
+          "SOLO 100 LEAD",
+          "SOLO 100 RHYTHM"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "randy-rhoads",
+    "name": "Randy Rhoads",
+    "bands": [
+      "Ozzy Osbourne",
+      "Quiet Riot"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "1959 Super Lead (Plexi)",
+        "links": [
+          {
+            "url": "https://guitar.com/features/artist-rigs/gear-used-by-randy-rhoads-blizzard-of-ozz-ozzy-osbourne/",
+            "title": "The Gear Used By Randy Rhoads on Blizzard of Ozz | Guitar.com",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE",
+          "BRIT SUPER"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "richard-fortus",
+    "name": "Richard Fortus",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Supro",
+        "model": "Supro 1695T Black Magick",
+        "links": [
+          {
+            "url": "https://blabbermouth.net/news/guns-n-roses-guitarist-richard-fortus-demonstrates-supro-black-magick-amp-video",
+            "title": "Guns N' Roses Guitarist Richard Fortus Demonstrates Supro Black Magick Amp (Video) - Blabbermouth",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "SUPRO BLACK MAGICK"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "richie-sambora",
+    "name": "Richie Sambora",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Friedman",
+        "model": "Friedman BE 100 (manual) - BE models\nFriedman BE 100 DLX (Manual) - HBE models",
+        "links": [
+          {
+            "url": "https://richiesambora.weebly.com/amps.html",
+            "title": "Amps - Richie Sambora Gear",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.humbuckermusic.com/products/friedman-brown-eye-100",
+            "title": "Friedman BE-100 Brown Eye 100 Head | Humbucker Music",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "FRIEDMAN BE 2010",
+          "FRIEDMAN BE C45",
+          "FRIEDMAN BE V1",
+          "FRIEDMAN BE V1 FAT",
+          "FRIEDMAN BE V2",
+          "FRIEDMAN BE V3",
+          "FRIEDMAN HBE 2010",
+          "FRIEDMAN HBE C45",
+          "FRIEDMAN HBE V1",
+          "FRIEDMAN HBE V1 FAT",
+          "FRIEDMAN HBE V2",
+          "FRIEDMAN HBE V3"
+        ]
+      },
+      {
+        "brand": "Diezel",
+        "model": "Diezel Herbert",
+        "links": [
+          {
+            "url": "https://richiesambora.weebly.com/amps.html",
+            "title": "Amps - Richie Sambora Gear",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "HERBIE CH2+",
+          "HERBIE CH2-",
+          "HERBIE CH3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ritchie-blackmore",
+    "name": "Ritchie Blackmore",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Engl",
+        "model": "Engl Savage 120 (manual)",
+        "links": [
+          {
+            "url": "https://en-academic.com/dic.nsf/enwiki/1210046",
+            "title": "Engl (amplifiers) - Academic dictionaries and encyclopedias",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "ANGLE SEVERE 1",
+          "ANGLE SEVERE 2"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "robben-ford",
+    "name": "Robben Ford",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "1966 blackface Fender Twin Reverb",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/303-robben-ford-guitar-gear-rig-and-equipment",
+            "title": "Robben Ford - Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "DOUBLE VERB NORMAL",
+          "DOUBLE VERB VIBRATO"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "1971 silverface Fender Twin Reverb (manual)",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/303-robben-ford-guitar-gear-rig-and-equipment",
+            "title": "Robben Ford - Guitar Gear Rig and Equipment",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "DOUBLE VERB SILVERFACE"
+        ]
+      },
+      {
+        "brand": "Dumble",
+        "model": "Dumble Overdrive Special",
+        "links": [
+          {
+            "url": "https://www.guitarplayer.com/gear/it-just-didnt-sound-right-no-matter-what-we-did-robben-ford-on-abandoning-his-treasured-dumble-overdrive-special",
+            "title": "Robben Ford on Abandoning His Treasured Dumble Overdrive Special - GuitarPlayer",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "ODS-100 CLEAN",
+          "ODS-100 FORD",
+          "ODS-100 FORD PAB",
+          "ODS-100 FORD PAB MID",
+          "ODS-100 HRM",
+          "ODS-100 HRM MID"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "robert-fripp",
+    "name": "Robert Fripp",
+    "bands": [
+      "King Crimson"
+    ],
+    "amps": [
+      {
+        "brand": "Hiwatt",
+        "model": "Custom 100 DR-103",
+        "links": [
+          {
+            "url": "https://frippgear.wordpress.com/amplifiers/",
+            "title": "Amplifiers | Fripperies",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "HIPOWER BRILLIANT",
+          "HIPOWER JUMPED",
+          "HIPOWER NORMAL"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "Super Lead 100",
+        "links": [
+          {
+            "url": "https://frippgear.wordpress.com/amplifiers/",
+            "title": "Amplifiers | Fripperies",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE",
+          "BRIT 800 2203 HIGH",
+          "BRIT 800 2203 LOW",
+          "BRIT AFS100 1"
+        ]
+      },
+      {
+        "brand": "Roland",
+        "model": "JC-120 Jazz Chorus",
+        "links": [
+          {
+            "url": "https://frippgear.wordpress.com/amplifiers/",
+            "title": "Amplifiers | Fripperies",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "JAZZ 120"
+        ]
+      },
+      {
+        "brand": "Fractal Audio",
+        "model": "Axe-Fx II XL",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-king-crimsons-robert-fripp",
+            "title": "Rig Rundown: King Crimson's Robert Fripp - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "rory-gallagher",
+    "name": "Rory Gallagher",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Keith Urban's 1959 narrow-panel high-power\nFender Tweed Twin, 5F8",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/rory-gallagher-gear/rory-gallaghers-1950s-fender-twin-tweed/",
+            "title": "Rory Gallagher's 1950s Fender Twin Tweed - Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "1959 narrow-panel Fender Tweed Bassman, 5F6-A",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/rory-gallagher-gear/rory-gallaghers-1954-fender-bassman-amp/",
+            "title": "Rory Gallagher's 1954 Fender Bassman Amp - Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "‘59 BASSGUY BRIGHT",
+          "‘59 BASSGUY JUMPED",
+          "‘59 BASSGUY NORMAL"
+        ]
+      },
+      {
+        "brand": "Vox",
+        "model": "Vox AC30",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Vox_AC30",
+            "title": "Vox AC30 - Wikipedia",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "CLASS-A 30W",
+          "CLASS-A 30W BRIGHT",
+          "CLASS-A 30W BRILLIANT",
+          "CLASS-A 30W HOT",
+          "CLASS-A 30W TB"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "slash",
+    "name": "Slash",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "100W Marshall JCM 800 2203 JM",
+        "links": [
+          {
+            "url": "https://www.slashparadise.com/equipment/amps-slash.php",
+            "title": "Slash's Amps | Marshall JCM 800, Silver Jubilee and AFD100 - Slash Paradise",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT 800 2203 HIGH",
+          "BRIT 800 2203 LOW"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "Marshall AFD100SCE",
+        "links": [
+          {
+            "url": "https://www.slashparadise.com/equipment/amps-slash.php",
+            "title": "Slash's Amps | Marshall JCM 800, Silver Jubilee and AFD100 - Slash Paradise",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT AFS100 1",
+          "BRIT AFS100 2"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "Marshall Silver Jubilee (Manual)",
+        "links": [
+          {
+            "url": "https://www.slashparadise.com/equipment/amps-slash.php",
+            "title": "Slash's Amps | Marshall JCM 800, Silver Jubilee and AFD100 - Slashparadise",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT SILVER"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "Marshall AFD100 schematics",
+        "links": [
+          {
+            "url": "https://www.slashparadise.com/equipment/amps-slash.php",
+            "title": "Slash's Amps | Marshall JCM 800, Silver Jubilee and AFD100 - Slashparadise",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT SUPER"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "st-vincent",
+    "name": "St. Vincent",
+    "bands": [
+      "St. Vincent"
+    ],
+    "amps": [
+      {
+        "brand": "Roland",
+        "model": "JC-40 Jazz Chorus",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/columns/gear-rundown-st-vincent/",
+            "title": "Gear Rundown: St. Vincent | Mixdown",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "JAZZ 120"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "(unspecified head, dirty tones)",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/columns/gear-rundown-st-vincent/",
+            "title": "Gear Rundown: St. Vincent | Mixdown",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Kemper",
+        "model": "Profiler (live modeling rig)",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/columns/gear-rundown-st-vincent/",
+            "title": "Gear Rundown: St. Vincent | Mixdown",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "steve-howe",
+    "name": "Steve Howe",
+    "bands": [
+      "Yes",
+      "Asia",
+      "GTR"
+    ],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Twin Reverb",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-yes-steve-howe-and-chris-squire",
+            "title": "Rig Rundown - Yes' Steve Howe and Chris Squire - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL",
+          "DOUBLE VERB NORMAL",
+          "DOUBLE VERB SILVERFACE",
+          "DOUBLE VERB VIBRATO"
+        ]
+      },
+      {
+        "brand": "Line 6",
+        "model": "DT50",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-yes-steve-howe-and-chris-squire",
+            "title": "Rig Rundown - Yes' Steve Howe and Chris Squire - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "steve-lukather",
+    "name": "Steve Lukather",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Custom Audio Amplifiers",
+        "model": "CAE 3+ SE preamp (manual)",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/builder-profile-bob-bradshaw",
+            "title": "Builder Profile: Bob Bradshaw - Premier Guitar",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.plugin-alliance.com/en/products/suhr_se100.html",
+            "title": "Suhr SE100 - Plugin Alliance",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "CA3+ CLEAN",
+          "CA3+ LEAD",
+          "CA3+ RHYTHM"
+        ]
+      },
+      {
+        "brand": "Bogner",
+        "model": "Bogner Ecstasy 20th Anniversary (manual)",
+        "links": [
+          {
+            "url": "https://mixdownmag.com.au/features/gear-rundown-steve-lukather/",
+            "title": "Gear Rundown: Steve Lukather | Mixdown",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "EURO BLUE",
+          "EURO BLUE MODERN",
+          "EURO RED",
+          "EURO RED MODERN"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "steve-vai",
+    "name": "Steve Vai",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Bogner",
+        "model": "Bogner Ecstasy 20th Anniversary (manual)",
+        "links": [
+          {
+            "url": "https://xtones.net/en/bogner-ecstasy/",
+            "title": "What is the Bogner Ecstasy? | XTONES",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "EURO BLUE",
+          "EURO BLUE MODERN",
+          "EURO RED",
+          "EURO RED MODERN"
+        ]
+      },
+      {
+        "brand": "Carvin",
+        "model": "Steve Vai's Carvin Legacy VL100 (manual)",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/carvin-vl300-legacy-3-amp-review",
+            "title": "Carvin VL300 Legacy 3 Amp Review - Premier Guitar",
+            "strength": "moderate"
+          },
+          {
+            "url": "https://www.newvintageaudio.com/store/carvin-legacy-vl100-steve-vai-capture-ik-multimedia-tonex",
+            "title": "New Vintage Audio | Carvin Legacy VL100 Steve Vai",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "LEGEND 100"
+        ]
+      },
+      {
+        "brand": "Carvin",
+        "model": "Carvin Legacy VL300 (manual) (manual 2)",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/carvin-vl300-legacy-3-amp-review",
+            "title": "Carvin VL300 Legacy 3 Amp Review - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "LEGEND 100 II"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "steven-seagall",
+    "name": "Steven Seagall",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Fender",
+        "model": "Keith Urban's 1959 narrow-panel high-power\nFender Tweed Twin, 5F8",
+        "links": [
+          {
+            "url": "https://jbonamassa.com/features/2015/bonamassa-guitar-safari/part-2/",
+            "title": "For the thrill of the hunt - Joe goes on a safari for vintage gear!",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "stevie-ray-vaughan",
+    "name": "Stevie Ray Vaughan",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Dumble",
+        "model": "Dumble Overdrive Special",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Dumble_Amplifiers",
+            "title": "Dumble Amplifiers - Wikipedia",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "ODS-100 CLEAN",
+          "ODS-100 FORD",
+          "ODS-100 FORD PAB",
+          "ODS-100 FORD PAB MID",
+          "ODS-100 HRM",
+          "ODS-100 HRM MID"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "1964 Fender Super Reverb, AB763 (manual)",
+        "links": [
+          {
+            "url": "https://srvarchive.com/amplifiers",
+            "title": "The Stevie Ray Vaughan Archive - Amplifiers",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "SUPER VERB NORMAL",
+          "SUPER VERB VIBRATO"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "1964 blackface Fender Vibroverb, AA763",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear-of-the-month-1964-fender-vibroverb",
+            "title": "Gear of the Month: 1964 Fender Vibroverb - Premier Guitar",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.groundguitar.com/stevie-ray-vaughan-gear/stevie-ray-vaughans-fender-vibroverb-blackface/",
+            "title": "Stevie Ray Vaughan's Fender Vibroverb Blackface - Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "VIBRATO VERB AA"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Fender Vibroverb, AB763",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/stevie-ray-vaughan-gear/stevie-ray-vaughans-fender-vibroverb-blackface/",
+            "title": "Stevie Ray Vaughan's Fender Vibroverb Blackface - Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "VIBRATO VERB AB"
+        ]
+      },
+      {
+        "brand": "Fender",
+        "model": "Fender Vibroverb Custom Reissue (manual)",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear-of-the-month-1964-fender-vibroverb",
+            "title": "Gear of the Month: 1964 Fender Vibroverb - Premier Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "VIBRATO VERB SRV"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "synyster-gates",
+    "name": "Synyster Gates",
+    "bands": [
+      "Avenged Sevenfold"
+    ],
+    "amps": [
+      {
+        "brand": "Schecter",
+        "model": "Hellwin USA Stage 100 (SYN100)",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/videos/rig-rundown/avenged-sevenfold",
+            "title": "Rig Rundown: Avenged Sevenfold | Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "the-edge",
+    "name": "The Edge",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Vox",
+        "model": "Vox AC30",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Vox_AC30",
+            "title": "Vox AC30 - Wikipedia",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "CLASS-A 30W",
+          "CLASS-A 30W BRIGHT",
+          "CLASS-A 30W BRILLIANT",
+          "CLASS-A 30W HOT",
+          "CLASS-A 30W TB"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "thin-lizzy",
+    "name": "Thin Lizzy",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Engl",
+        "model": "Engl Savage 120 (manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Scott_Gorham",
+            "title": "Scott Gorham - Wikipedia",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "ANGLE SEVERE 1",
+          "ANGLE SEVERE 2"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "tom-morello",
+    "name": "Tom Morello",
+    "bands": [
+      "Rage Against the Machine",
+      "Audioslave",
+      "Prophets of Rage"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "JCM800 2205",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/tom-morellos-guitars-and-gear/",
+            "title": "Tom Morello Guitars & Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Peavey",
+        "model": "4x12 cabinet (Celestion G12K-85)",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/tom-morellos-guitars-and-gear/",
+            "title": "Tom Morello Guitars & Gear | Ground Guitar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "tony-iommi",
+    "name": "Tony Iommi",
+    "bands": [
+      "Black Sabbath",
+      "Heaven & Hell"
+    ],
+    "amps": [
+      {
+        "brand": "Laney",
+        "model": "LA100BL",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/tony-iommis-guitars-and-gear/",
+            "title": "Tony Iommi's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Laney",
+        "model": "Supergroup",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/tony-iommis-guitars-and-gear/",
+            "title": "Tony Iommi's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Laney",
+        "model": "GH100TI",
+        "links": [
+          {
+            "url": "https://www.groundguitar.com/tony-iommis-guitars-and-gear/",
+            "title": "Tony Iommi's Guitars and Gear | Ground Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "tony-rombola",
+    "name": "Tony Rombola",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Splawn",
+        "model": "Splawn Nitro (manual)",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/279-godsmack-tony-rombola-guitar-gear-rig-and-equipment",
+            "title": "Godsmack - Tony Rombola Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "SPAWN NITROUS 1",
+          "SPAWN NITROUS 2"
+        ]
+      },
+      {
+        "brand": "Splawn",
+        "model": "Splawn Quickrod (manual)",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/279-godsmack-tony-rombola-guitar-gear-rig-and-equipment",
+            "title": "Godsmack - Tony Rombola Guitar Gear Rig and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "SPAWN Q-ROD OD1-1",
+          "SPAWN Q-ROD OD1-2",
+          "SPAWN Q-ROD OD1-3",
+          "SPAWN Q-ROD OD2-1",
+          "SPAWN Q-ROD OD2-2",
+          "SPAWN Q-ROD OD2-3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "tosin-abasi",
+    "name": "Tosin Abasi",
+    "bands": [
+      "Animals as Leaders"
+    ],
+    "amps": [
+      {
+        "brand": "Bad Cat",
+        "model": "Lynx",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/tosin-abasi-animals-as-leaders-bad-cat-amps",
+            "title": "Tosin Abasi teams up with Bad Cat Amps - MusicRadar",
+            "strength": "strong"
+          },
+          {
+            "url": "https://www.guitarworld.com/news/tosin-abasi-bad-cat-amps",
+            "title": "Tosin Abasi overhauls his backline with new Bad Cat Amps - Guitar World",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Bad Cat",
+        "model": "Jet Black (prototype)",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/news/tosin-abasi-animals-as-leaders-bad-cat-amps",
+            "title": "Tosin Abasi teams up with Bad Cat Amps - MusicRadar",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "trey-anastasio",
+    "name": "Trey Anastasio",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Komet",
+        "model": "Komet 60",
+        "links": [
+          {
+            "url": "https://treysguitarrig.com/the-amplifiers/komet-trainwreck-60/",
+            "title": "Komet 60 - Trey's Guitar Rig",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "COMET 60"
+        ]
+      },
+      {
+        "brand": "Komet",
+        "model": "Komet Concorde",
+        "links": [
+          {
+            "url": "https://www.jambase.com/article/phish-trey-anastasio-guitar-rig-ampflifier-mesa-komet",
+            "title": "Phish Guitarist Trey Anastasio's Guitar Amplifier Rundown",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "COMET CONCOURSE"
+        ]
+      },
+      {
+        "brand": "Trainwreck",
+        "model": "Trainwreck Express (manual)",
+        "links": [
+          {
+            "url": "https://treysguitarrig.com/2021/08/01/treys-new-trainwreck-the-special-guest-amps-revealed/",
+            "title": "Trey's New Trainwreck: The Special Guest Amps Revealed",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "WRECKER EXPRESS",
+          "WRECKER EXPRESS BRIGHT"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "tyler-bryant",
+    "name": "Tyler Bryant",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Supro",
+        "model": "Supro 1695T Black Magick",
+        "links": [
+          {
+            "url": "https://www.musicradar.com/guitars/guitar-amps/it-breaks-up-in-the-perfect-place-its-got-more-room-if-you-need-to-push-it-and-need-more-of-a-statement-supro-teams-up-with-tyler-bryant-for-signature-black-magick-tube-amp-a-35w-combo-with-reverb-tremolo-and-military-grade-components",
+            "title": "Supro teams up with Tyler Bryant for signature Black Magick tube amp - MusicRadar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "SUPRO BLACK MAGICK"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "uli-jon-roth",
+    "name": "Uli Jon Roth",
+    "bands": [
+      "Scorpions",
+      "Electric Sun"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "100-watt head (Super Lead era)",
+        "links": [
+          {
+            "url": "https://guitardoor.com/uli-jon-roth-the-original-neo-classical-master/",
+            "title": "Uli Jon Roth: The Original Neo-Classical Master - Guitardoor",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "1959SLP JUMPED",
+          "1959SLP NORMAL",
+          "1959SLP TREBLE",
+          "BRIT 800 2203 HIGH",
+          "BRIT 800 2203 LOW",
+          "BRIT AFS100 1"
+        ]
+      },
+      {
+        "brand": "Blackstar",
+        "model": "Artisan",
+        "links": [
+          {
+            "url": "https://earofnewt.com/2016/03/16/uli-jon-roth-talks-guitars-and-amps-why-hes-foresaken-his-idols-stratmarshall-plan/",
+            "title": "Uli Jon Roth talks guitars and amps - Ear of Newt",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "vinnie-moore",
+    "name": "Vinnie Moore",
+    "bands": [
+      "UFO"
+    ],
+    "amps": [
+      {
+        "brand": "ENGL",
+        "model": "Special Edition head (with ENGL 4x12 cabinets)",
+        "links": [
+          {
+            "url": "https://www.uberproaudio.com/who-plays-what/631-vinnie-moore-guitar-rig-gear-and-equipment",
+            "title": "Vinnie Moore Guitar Rig Gear and Equipment - UberProAudio",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "ANGLE SEVERE 1",
+          "ANGLE SEVERE 2",
+          "ENERGYBALL"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "warren-demartini",
+    "name": "Warren Demartini",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Soldano",
+        "model": "Soldano X88R preamp (Manual)",
+        "links": [
+          {
+            "url": "https://www.soldano.com/products/classic/amplifiers/x88-ir/",
+            "title": "X88-IR | Soldano (official)",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 88 CLEAN",
+          "SOLO 88 LEAD",
+          "SOLO 88 RHYTHM"
+        ]
+      },
+      {
+        "brand": "Soldano",
+        "model": "Soldano/Caswell X99 preamp",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Soldano_SLO-100",
+            "title": "Soldano SLO-100 - Wikipedia",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 99 CLEAN",
+          "SOLO 99 LEAD",
+          "SOLO 99 LEAD BRIGHT"
+        ]
+      },
+      {
+        "brand": "Soldano",
+        "model": "Soldano SLO-100 (Manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Soldano_SLO-100",
+            "title": "Soldano SLO-100 - Wikipedia",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 100 CLEAN",
+          "SOLO 100 LEAD",
+          "SOLO 100 RHYTHM"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "warren-haynes",
+    "name": "Warren Haynes",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Soldano",
+        "model": "Soldano/Caswell X99 preamp",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Soldano_SLO-100",
+            "title": "Soldano SLO-100 - Wikipedia",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 99 CLEAN",
+          "SOLO 99 LEAD",
+          "SOLO 99 LEAD BRIGHT"
+        ]
+      },
+      {
+        "brand": "Soldano",
+        "model": "Soldano SLO-100 (Manual)",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Soldano_SLO-100",
+            "title": "Soldano SLO-100 - Wikipedia",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "SOLO 100 CLEAN",
+          "SOLO 100 LEAD",
+          "SOLO 100 RHYTHM"
+        ]
+      },
+      {
+        "brand": "Trainwreck",
+        "model": "Trainwreck Rocket (manual)",
+        "links": [
+          {
+            "url": "https://www.scruffsvintageguitars.com/trainwreck",
+            "title": "Trainwreck: A Brief History - Scruffs Vintage Guitars",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "WRECKER ROCKET"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "wes-montgomery",
+    "name": "Wes Montgomery",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Standel",
+        "model": "Super Custom XV (solid-state)",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/wes-montgomery-guitars-and-gear/",
+            "title": "Wes Montgomery Guitars & Gear List - Guitar Lobby",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      },
+      {
+        "brand": "Fender",
+        "model": "Super Reverb / Twin",
+        "links": [
+          {
+            "url": "https://www.guitarlobby.com/wes-montgomery-guitars-and-gear/",
+            "title": "Wes Montgomery Guitars & Gear List - Guitar Lobby",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "5F8 TWEED BRIGHT",
+          "5F8 TWEED JUMPED",
+          "5F8 TWEED NORMAL",
+          "6G4 SUPER",
+          "DOUBLE VERB NORMAL",
+          "DOUBLE VERB SILVERFACE"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "will-putney",
+    "name": "Will Putney",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Revv",
+        "model": "REVV GENERATOR 120 MKIII (manual)",
+        "links": [
+          {
+            "url": "https://revvamplification.com/pages/will-putney",
+            "title": "Will Putney | Revv Amplification (official artist page)",
+            "strength": "moderate"
+          }
+        ],
+        "libraryAmps": [
+          "REVV GEN GREEN 1",
+          "REVV GEN GREEN 2",
+          "REVV GEN GREEN 3",
+          "REVV GEN PURPLE 1",
+          "REVV GEN PURPLE 2",
+          "REVV GEN PURPLE 3",
+          "REVV GEN RED 1",
+          "REVV GEN RED 2",
+          "REVV GEN RED 3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "willie-adler",
+    "name": "Willie Adler",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Mesa",
+        "model": "MESA Triple Crown TC-100",
+        "links": [
+          {
+            "url": "https://legacy.mesaboogie.com/amplifiers/electric/triple-crown-series/triple-crown-tc-100/index.html",
+            "title": "Mesa Boogie Triple Crown TC-100 Guitar Amplifier | MESA/Boogie",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "TRIPLE CREST 2",
+          "TRIPLE CREST 3"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "wolfgang-van-halen",
+    "name": "Wolfgang Van Halen",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "EVH",
+        "model": "EVH 5150-III",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/videos/rig-rundown/mammoth-wvh",
+            "title": "Mammoth WVH Wolf Van Halen Guitar Rig Rundown – Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": [
+          "5153 100W BLUE",
+          "5153 100W GREEN",
+          "5153 100W RED"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "yngwie-malmsteen",
+    "name": "Yngwie Malmsteen",
+    "bands": [
+      "Rising Force",
+      "Alcatrazz",
+      "Steeler"
+    ],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "YJM signature series (YJM50 / YJM100)",
+        "links": [
+          {
+            "url": "https://www.premierguitar.com/gear/rig-rundown-yngwie-malmsteen",
+            "title": "Rig Rundown - Yngwie Malmsteen - Premier Guitar",
+            "strength": "strong"
+          }
+        ],
+        "libraryAmps": []
+      }
+    ]
+  },
+  {
+    "slug": "zakk-wylde",
+    "name": "Zakk Wylde",
+    "bands": [],
+    "amps": [
+      {
+        "brand": "Marshall",
+        "model": "50W Marshall JCM 800 2204",
+        "links": [
+          {
+            "url": "https://guitarfxdepot.com/rigs/zakk-wyldes-guitar-rig/",
+            "title": "Zakk Wylde's Guitar Rig | Guitar FX Depot",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "BRIT 800 2204 HIGH",
+          "BRIT 800 2204 LOW"
+        ]
+      },
+      {
+        "brand": "Marshall",
+        "model": "1981 50W Marshall JMP 2204",
+        "links": [
+          {
+            "url": "https://www.guitarworld.com/features/marshall-jcm800-2203",
+            "title": "Why the Marshall JCM800 2203 was the amp head of choice for a generation - Guitar World",
+            "strength": "weak"
+          }
+        ],
+        "libraryAmps": [
+          "PLEXI 2204"
+        ]
+      }
+    ]
+  }
+]

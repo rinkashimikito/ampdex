@@ -3,6 +3,7 @@ import Fuse from 'fuse.js';
 import data from './data/amps.json';
 import wikiStatus from './data/wiki-status.json';
 import usageData from './data/amp-usage.json';
+import guitaristsData from './data/guitarists.json';
 import './App.css';
 
 type Amp = {
@@ -119,9 +120,27 @@ type GeneralPage = {
   text: string;
 };
 
+type GuitaristAmp = {
+  brand: string;
+  model: string;
+  links: UsageLink[];
+  libraryAmps: string[];
+};
+type Guitarist = {
+  slug: string;
+  name: string;
+  bands: string[];
+  amps: GuitaristAmp[];
+};
+const guitarists = guitaristsData as Guitarist[];
+const guitaristBySlug: Record<string, Guitarist> = Object.fromEntries(
+  guitarists.map((g) => [g.slug, g]),
+);
+
 type ResultItem =
   | { kind: 'amp'; item: Amp; score: number; highlights: ReadonlyArray<{ key: string; matches: ReadonlyArray<readonly [number, number]> }> }
-  | { kind: 'general'; item: GeneralPage; score: number };
+  | { kind: 'general'; item: GeneralPage; score: number }
+  | { kind: 'guitarist'; item: Guitarist; score: number };
 
 const IMG_URL = (file: string) => `${import.meta.env.BASE_URL}amp-images/${file}`;
 
@@ -228,7 +247,7 @@ export default function App() {
         ],
         includeScore: true,
         includeMatches: true,
-        threshold: 0.5,
+        threshold: 0.2,
         distance: 200,
         ignoreLocation: true,
         minMatchCharLength: 2,
@@ -251,6 +270,7 @@ export default function App() {
 
   const [query, setQuery] = useState('');
   const [selected, setSelected] = useState<Amp | null>(null);
+  const [selGuitar, setSelGuitar] = useState<string | null>(null);
   const [zoomImg, setZoomImg] = useState<string | null>(null);
   const [device, setDevice] = useState<Device | null>(() => {
     if (typeof window === 'undefined') return null;
@@ -265,6 +285,13 @@ export default function App() {
     if (device) window.localStorage.setItem('axefx-device', device);
   }, [device]);
 
+  // Change the query and drop any pinned selection so the best match shows
+  const changeQuery = (v: string) => {
+    setQuery(v);
+    setSelected(null);
+    setSelGuitar(null);
+  };
+
   useEffect(() => {
     inputRef.current?.focus();
     const onKey = (e: KeyboardEvent) => {
@@ -274,13 +301,14 @@ export default function App() {
       }
       if (e.key === 'Escape') {
         if (zoomImg !== null) setZoomImg(null);
+        else if (selGuitar) setSelGuitar(null);
         else if (selected) setSelected(null);
         else if (query) setQuery('');
       }
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [query, selected, zoomImg]);
+  }, [query, selected, selGuitar, zoomImg]);
 
   const results: ResultItem[] = useMemo(() => {
     const trimmed = query.trim();
@@ -378,6 +406,7 @@ export default function App() {
     if (hits.size < 8) {
       const fuzzy = nameFuse.search(trimmed, { limit: 15 });
       for (const f of fuzzy) {
+        if ((f.score ?? 1) > 0.4) continue; // gate out scattered-subsequence noise
         if (hits.has(f.item.num)) continue;
         const ranges: ReadonlyArray<readonly [number, number]> = (f.matches ?? [])
           .filter((m) => m.key === 'name')
@@ -407,10 +436,36 @@ export default function App() {
       score: (h.score ?? 1) + 0.5,
     }));
 
-    return [...ampResults, ...genResults].sort((a, b) => a.score - b.score);
+    // Guitarist matches: precise token-substring against name + bands (no fuzzy
+    // noise). All query tokens must appear; exact name match ranks highest.
+    const guitaristResults: ResultItem[] = [];
+    for (const g of guitarists) {
+      const nameLower = g.name.toLowerCase();
+      const hay = `${nameLower} ${g.bands.join(' ').toLowerCase()}`;
+      if (!tokens.every((t) => hay.includes(t))) continue;
+      let gs = 0.02;
+      if (nameLower === lower) gs = 0.001;
+      else if (tokens.every((t) => nameLower.includes(t))) gs = 0.004;
+      guitaristResults.push({ kind: 'guitarist', item: g, score: gs });
+    }
+
+    return [...guitaristResults, ...ampResults, ...genResults].sort(
+      (a, b) => a.score - b.score,
+    );
   }, [query, amps, nameFuse, generalFuse]);
 
   const topMatch = results[0];
+  const ampByName = useMemo(
+    () => Object.fromEntries(amps.map((a) => [a.name, a])),
+    [amps],
+  );
+  const pickAmp = (name: string) => {
+    const a = ampByName[name];
+    if (a) {
+      setSelected(a);
+      setSelGuitar(null);
+    }
+  };
 
   if (!device) {
     return <DeviceGate onPick={setDevice} />;
@@ -441,7 +496,7 @@ export default function App() {
             className="search"
             placeholder="Search — name, player, tone, tubes…   /"
             value={query}
-            onChange={(e) => setQuery(e.target.value)}
+            onChange={(e) => changeQuery(e.target.value)}
             spellCheck={false}
             autoComplete="off"
           />
@@ -486,12 +541,19 @@ export default function App() {
                 {results.map((r, i) => {
                   if (r.kind === 'amp') {
                     const a = r.item;
-                    const isActive = selected ? selected.num === a.num : i === 0;
+                    const isActive = selGuitar
+                      ? false
+                      : selected
+                        ? selected.num === a.num
+                        : i === 0;
                     return (
                       <li
                         key={`amp-${a.num}`}
                         className={isActive ? 'active' : ''}
-                        onClick={() => setSelected(a)}
+                        onClick={() => {
+                          setSelected(a);
+                          setSelGuitar(null);
+                        }}
                       >
                         <div className="num">{a.num}</div>
                         <div className="meta">
@@ -503,13 +565,40 @@ export default function App() {
                       </li>
                     );
                   }
+                  if (r.kind === 'guitarist') {
+                    const g = r.item;
+                    const isActive = selGuitar
+                      ? selGuitar === g.slug
+                      : !selected && i === 0;
+                    return (
+                      <li
+                        key={`gtr-${g.slug}`}
+                        className={`guitarist ${isActive ? 'active' : ''}`}
+                        onClick={() => {
+                          setSelGuitar(g.slug);
+                          setSelected(null);
+                        }}
+                      >
+                        <div className="num">♪</div>
+                        <div className="meta">
+                          <div className="name">{g.name}</div>
+                          <div className="loc">
+                            {g.bands.length ? g.bands.join(', ') : 'guitarist'}
+                          </div>
+                        </div>
+                      </li>
+                    );
+                  }
                   const g = r.item;
-                  const isActive = selected ? false : i === 0;
+                  const isActive = !selected && !selGuitar && i === 0;
                   return (
                     <li
                       key={`gen-${g.pdfPage}`}
                       className={`general ${isActive ? 'active' : ''}`}
-                      onClick={() => setSelected(null)}
+                      onClick={() => {
+                        setSelected(null);
+                        setSelGuitar(null);
+                      }}
                     >
                       <div className="num">§</div>
                       <div className="meta">
@@ -526,6 +615,8 @@ export default function App() {
               <DetailView
                 topMatch={topMatch}
                 selected={selected}
+                selectedGuitarist={selGuitar ? guitaristBySlug[selGuitar] : null}
+                onPickAmp={pickAmp}
                 tokens={query.trim().toLowerCase().split(/\s+/).filter((t) => t.length >= 2)}
                 onZoomImg={setZoomImg}
                 device={device}
@@ -761,22 +852,102 @@ function AmpUsage({ name }: { name: string }) {
   );
 }
 
+function GuitaristView({
+  g,
+  onPickAmp,
+}: {
+  g: Guitarist;
+  onPickAmp: (name: string) => void;
+}) {
+  return (
+    <>
+      <header className="detail-head">
+        <div>
+          <div className="kicker">Guitarist</div>
+          <h2>{g.name}</h2>
+          {g.bands.length > 0 && <div className="sub">{g.bands.join(' · ')}</div>}
+        </div>
+      </header>
+
+      <div className="gtr-amps">
+        {g.amps.map((amp, i) => (
+          <div className="gtr-amp" key={i}>
+            <div className="gtr-amp-name">
+              {amp.brand && <strong>{amp.brand}</strong>} {amp.model}
+            </div>
+            <div className="gtr-srcs">
+              {amp.links.map((l, j) => (
+                <a
+                  key={j}
+                  className={`usage-src usage-${l.strength ?? 'weak'}`}
+                  href={l.url}
+                  target="_blank"
+                  rel="noreferrer"
+                  title={
+                    l.supporting_quote
+                      ? `${l.title} — "${l.supporting_quote}"`
+                      : l.title
+                  }
+                >
+                  {STRENGTH_GLYPH[l.strength ?? 'weak']}{' '}
+                  {(l.strength ?? 'weak') === 'weak' ? 'source (weak)' : 'source'}
+                </a>
+              ))}
+            </div>
+            {amp.libraryAmps.length > 0 && (
+              <div className="gtr-lib">
+                <span className="gtr-lib-label">In this library:</span>
+                {amp.libraryAmps.map((name) => (
+                  <button
+                    key={name}
+                    type="button"
+                    className="gtr-lib-link"
+                    onClick={() => onPickAmp(name)}
+                  >
+                    {name}
+                  </button>
+                ))}
+              </div>
+            )}
+          </div>
+        ))}
+      </div>
+
+      <p className="muted gtr-note">
+        Gear sourced from public interviews, rig rundowns, and gear databases —
+        every link verified. Players change gear; this reflects what's
+        documented.
+      </p>
+    </>
+  );
+}
+
 function DetailView({
   topMatch,
   selected,
+  selectedGuitarist,
+  onPickAmp,
   tokens,
   onZoomImg,
   device,
 }: {
   topMatch: ResultItem;
   selected: Amp | null;
+  selectedGuitarist: Guitarist | null;
+  onPickAmp: (name: string) => void;
   tokens: string[];
   onZoomImg: (file: string) => void;
   device: Device;
 }) {
-  const view = selected
-    ? ({ kind: 'amp', item: selected, score: 0, highlights: [] } as ResultItem)
-    : topMatch;
+  const view: ResultItem = selectedGuitarist
+    ? { kind: 'guitarist', item: selectedGuitarist, score: 0 }
+    : selected
+      ? { kind: 'amp', item: selected, score: 0, highlights: [] }
+      : topMatch;
+
+  if (view.kind === 'guitarist') {
+    return <GuitaristView g={view.item} onPickAmp={onPickAmp} />;
+  }
 
   if (view.kind === 'general') {
     const g = view.item;
