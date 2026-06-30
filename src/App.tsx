@@ -500,6 +500,7 @@ export default function App() {
     const genHits = generalFuse.search(trimmed, { limit: 3 });
     const genResults: ResultItem[] = genHits
       .filter((h) => (h.score ?? 1) <= 0.4) // drop scattered-subsequence noise (e.g. "santa" → Page 36)
+      .filter((h) => !/^page\s*\d+$/i.test(h.item.title.trim())) // hide generic "Page N" entries
       .map((h) => ({
         kind: 'general' as const,
         item: h.item,
