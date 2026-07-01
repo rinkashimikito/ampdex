@@ -267,6 +267,14 @@ function highlightAcrossBullets(bullets: string[], regexes: RegExp[]): React.Rea
   });
 }
 
+// Make a non-button element keyboard-operable: fire on Enter/Space like a button.
+const keyActivate = (fn: () => void) => (e: React.KeyboardEvent) => {
+  if (e.key === 'Enter' || e.key === ' ') {
+    e.preventDefault();
+    fn();
+  }
+};
+
 export default function App() {
   const amps = useMemo<Amp[]>(
     () =>
@@ -311,27 +319,32 @@ export default function App() {
     [general],
   );
 
-  const [query, setQuery] = useState(() => {
-    if (typeof window === 'undefined') return '';
-    const q = new URLSearchParams(window.location.hash.slice(1)).get('q');
-    return q ? decodeURIComponent(q) : '';
-  });
-  const [selected, setSelected] = useState<Amp | null>(() => {
-    if (typeof window === 'undefined') return null;
-    const a = new URLSearchParams(window.location.hash.slice(1)).get('a');
-    return a ? amps.find((x) => x.num === a) ?? null : null;
-  });
-  const [selGuitar, setSelGuitar] = useState<string | null>(() => {
-    if (typeof window === 'undefined') return null;
-    const g = new URLSearchParams(window.location.hash.slice(1)).get('g');
-    return g && guitaristBySlug[g] ? g : null;
-  });
-  const [collection, setCollection] = useState<string | null>(() => {
-    if (typeof window === 'undefined') return null;
-    const c = new URLSearchParams(window.location.hash.slice(1)).get('c');
-    return c && collectionByKey[c] ? c : null;
-  });
-  const [zoomImg, setZoomImg] = useState<string | null>(null);
+  // Resolve the launch hash once. The hash is composite: a list context
+  // (c= collection OR q= query) plus an open item (a= amp OR g= guitarist), so a
+  // deep-linked amp keeps its originating search/collection. URLSearchParams.get
+  // already percent-decodes — decoding again would throw on a bare % (#q=50%25).
+  const initial = useMemo(() => {
+    const empty = { q: '', c: null as string | null, amp: null as Amp | null, g: null as string | null };
+    if (typeof window === 'undefined') return empty;
+    const p = new URLSearchParams(window.location.hash.slice(1));
+    const a = p.get('a');
+    const g = p.get('g');
+    const c = p.get('c');
+    const q = p.get('q');
+    const validC = c && collectionByKey[c] ? c : null;
+    const amp = a ? amps.find((x) => x.num === a.padStart(3, '0')) ?? null : null;
+    return {
+      c: validC,
+      q: validC ? '' : q ?? '',
+      amp,
+      g: !amp && g && guitaristBySlug[g] ? g : null,
+    };
+  }, [amps]);
+  const [query, setQuery] = useState(() => initial.q);
+  const [selected, setSelected] = useState<Amp | null>(() => initial.amp);
+  const [selGuitar, setSelGuitar] = useState<string | null>(() => initial.g);
+  const [collection, setCollection] = useState<string | null>(() => initial.c);
+  const [zoomImg, setZoomImg] = useState<{ file: string; alt: string } | null>(null);
   const [device, setDevice] = useState<Device | null>(() => {
     if (typeof window === 'undefined') return null;
     const saved = window.localStorage.getItem('axefx-device');
@@ -340,10 +353,24 @@ export default function App() {
       : null;
   });
   const inputRef = useRef<HTMLInputElement>(null);
+  const zoomCloseRef = useRef<HTMLButtonElement>(null);
+  const zoomTriggerRef = useRef<HTMLElement | null>(null);
 
   useEffect(() => {
     if (device) window.localStorage.setItem('axefx-device', device);
   }, [device]);
+
+  // Image-zoom modal focus management: on open remember the trigger and move
+  // focus into the dialog; on close restore focus to the trigger.
+  useEffect(() => {
+    if (zoomImg !== null) {
+      zoomTriggerRef.current = document.activeElement as HTMLElement | null;
+      zoomCloseRef.current?.focus();
+    } else if (zoomTriggerRef.current) {
+      zoomTriggerRef.current.focus();
+      zoomTriggerRef.current = null;
+    }
+  }, [zoomImg]);
 
   // Change the query and drop any pinned selection so the best match shows
   const changeQuery = (v: string) => {
@@ -359,8 +386,13 @@ export default function App() {
     setSelGuitar(null);
   };
 
+  // Autofocus the search field once on mount. Deliberately not re-run on every
+  // navigation — that would yank focus off the result list or the zoom dialog.
   useEffect(() => {
     inputRef.current?.focus();
+  }, []);
+
+  useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       if (e.key === '/' && document.activeElement !== inputRef.current) {
         e.preventDefault();
@@ -509,15 +541,19 @@ export default function App() {
 
     // Guitarist matches: precise token-substring against name + bands (no fuzzy
     // noise). All query tokens must appear; exact name match ranks highest.
+    // A 1-char query yields no tokens (length>=2 filter); skip, or [].every is
+    // vacuously true and every guitarist matches.
     const guitaristResults: ResultItem[] = [];
-    for (const g of guitarists) {
-      const nameLower = g.name.toLowerCase();
-      const hay = `${nameLower} ${g.bands.join(' ').toLowerCase()}`;
-      if (!tokens.every((t) => hay.includes(t))) continue;
-      let gs = 0.02;
-      if (nameLower === lower) gs = 0.001;
-      else if (tokens.every((t) => nameLower.includes(t))) gs = 0.004;
-      guitaristResults.push({ kind: 'guitarist', item: g, score: gs });
+    if (tokens.length > 0) {
+      for (const g of guitarists) {
+        const nameLower = g.name.toLowerCase();
+        const hay = `${nameLower} ${g.bands.join(' ').toLowerCase()}`;
+        if (!tokens.every((t) => hay.includes(t))) continue;
+        let gs = 0.02;
+        if (nameLower === lower) gs = 0.001;
+        else if (tokens.every((t) => nameLower.includes(t))) gs = 0.004;
+        guitaristResults.push({ kind: 'guitarist', item: g, score: gs });
+      }
     }
 
     return [...guitaristResults, ...ampResults, ...genResults].sort(
@@ -544,33 +580,33 @@ export default function App() {
       setCollection(null);
     }
   };
-  // Reliable in-app back: clear the current detail so the list/search shows,
-  // regardless of browser history (deep links, refreshes).
+  // Reliable in-app back: close the open item but KEEP the list context (query
+  // or collection) so back returns to the originating list, not empty home. A
+  // direct amp/guitarist deep link has no list context, so this lands on home.
   const goBack = () => {
     setSelected(null);
     setSelGuitar(null);
-    setCollection(null);
   };
 
-  // App state → URL hash. Amp/guitarist selections push a history entry (so the
-  // back button works); query edits replace it (no per-keystroke spam). Makes
-  // amps, guitarists, and searches all shareable/bookmarkable.
+  // App state → URL hash. Composite: list context (c=/q=) + open item (a=/g=),
+  // so opening a result keeps its list. Drilling in (opening an item, picking a
+  // collection) pushes a history entry; typing in the search replaces. All
+  // states stay shareable/bookmarkable.
   useEffect(() => {
-    const target = selected
-      ? `#a=${selected.num}`
-      : selGuitar
-        ? `#g=${selGuitar}`
-        : collection
-          ? `#c=${collection}`
-          : query.trim()
-            ? `#q=${encodeURIComponent(query.trim())}`
-            : '';
+    const listPart = collection
+      ? `c=${collection}`
+      : query.trim()
+        ? `q=${encodeURIComponent(query.trim())}`
+        : '';
+    const itemPart = selected ? `a=${selected.num}` : selGuitar ? `g=${selGuitar}` : '';
+    const params = [listPart, itemPart].filter(Boolean).join('&');
+    const target = params ? `#${params}` : '';
     if (target === window.location.hash || (!target && !window.location.hash)) {
       return;
     }
     const base = window.location.pathname + window.location.search;
     if (selected || selGuitar || collection) {
-      window.location.hash = target; // new history entry
+      window.location.hash = target; // drill-in — new history entry
     } else {
       window.history.replaceState(null, '', target ? base + target : base);
     }
@@ -584,31 +620,26 @@ export default function App() {
       const g = p.get('g');
       const c = p.get('c');
       const q = p.get('q');
-      if (a && ampByNum[a]) {
-        setSelected(ampByNum[a]);
-        setSelGuitar(null);
-        setCollection(null);
+      const aKey = a ? a.padStart(3, '0') : null;
+      setZoomImg(null); // a routed back/forward must not leave a stale overlay open
+      // List context: collection or query (mutually exclusive; collection wins).
+      if (c && collectionByKey[c]) {
+        setCollection(c);
         setQuery('');
+      } else {
+        setCollection(null);
+        setQuery(q ?? ''); // get() already decoded; no double-decode
+      }
+      // Open item: amp or guitarist (amp wins), layered over the list context.
+      if (aKey && ampByNum[aKey]) {
+        setSelected(ampByNum[aKey]);
+        setSelGuitar(null);
       } else if (g && guitaristBySlug[g]) {
         setSelGuitar(g);
         setSelected(null);
-        setCollection(null);
-        setQuery('');
-      } else if (c && collectionByKey[c]) {
-        setCollection(c);
-        setSelected(null);
-        setSelGuitar(null);
-        setQuery('');
-      } else if (q != null) {
-        setQuery(decodeURIComponent(q));
-        setSelected(null);
-        setSelGuitar(null);
-        setCollection(null);
       } else {
-        setQuery('');
         setSelected(null);
         setSelGuitar(null);
-        setCollection(null);
       }
     };
     window.addEventListener('hashchange', onHash);
@@ -660,6 +691,7 @@ export default function App() {
           <input
             ref={inputRef}
             className="search"
+            aria-label="Search amps, players, tones, tubes"
             placeholder="Search — name, player, tone, tubes…   /"
             value={query}
             onChange={(e) => changeQuery(e.target.value)}
@@ -702,16 +734,16 @@ export default function App() {
           </section>
         )}
 
-        {query && results.length === 0 && (
+        {query && results.length === 0 && !selected && !selGuitar && (
           <section className="empty">
             <h2>No matches</h2>
             <p>Nothing found for “{query}”. Try fewer or different words.</p>
           </section>
         )}
 
-        {topMatch && (
+        {(topMatch || selected || selGuitar) && (
           <section className="layout">
-            <aside className="results">
+            <nav className="results" aria-label="Results" tabIndex={0}>
               <div className="results-count">
                 {query.trim() || collection ? (
                   `${
@@ -734,14 +766,18 @@ export default function App() {
                       : selected
                         ? selected.num === a.num
                         : i === 0;
+                    const selectAmp = () => {
+                      setSelected(a);
+                      setSelGuitar(null);
+                    };
                     return (
                       <li
                         key={`amp-${a.num}`}
                         className={isActive ? 'active' : ''}
-                        onClick={() => {
-                          setSelected(a);
-                          setSelGuitar(null);
-                        }}
+                        role="button"
+                        tabIndex={0}
+                        onClick={selectAmp}
+                        onKeyDown={keyActivate(selectAmp)}
                       >
                         <div className="num">{a.num}</div>
                         <div className="meta">
@@ -758,14 +794,18 @@ export default function App() {
                     const isActive = selGuitar
                       ? selGuitar === g.slug
                       : !selected && i === 0;
+                    const selectGtr = () => {
+                      setSelGuitar(g.slug);
+                      setSelected(null);
+                    };
                     return (
                       <li
                         key={`gtr-${g.slug}`}
                         className={`guitarist ${isActive ? 'active' : ''}`}
-                        onClick={() => {
-                          setSelGuitar(g.slug);
-                          setSelected(null);
-                        }}
+                        role="button"
+                        tabIndex={0}
+                        onClick={selectGtr}
+                        onKeyDown={keyActivate(selectGtr)}
                       >
                         <div className="num">♪</div>
                         <div className="meta">
@@ -779,14 +819,18 @@ export default function App() {
                   }
                   const g = r.item;
                   const isActive = !selected && !selGuitar && i === 0;
+                  const selectGen = () => {
+                    setSelected(null);
+                    setSelGuitar(null);
+                  };
                   return (
                     <li
                       key={`gen-${g.pdfPage}`}
                       className={`general ${isActive ? 'active' : ''}`}
-                      onClick={() => {
-                        setSelected(null);
-                        setSelGuitar(null);
-                      }}
+                      role="button"
+                      tabIndex={0}
+                      onClick={selectGen}
+                      onKeyDown={keyActivate(selectGen)}
                     >
                       <div className="num">§</div>
                       <div className="meta">
@@ -797,7 +841,7 @@ export default function App() {
                   );
                 })}
               </ul>
-            </aside>
+            </nav>
 
             <article className="detail">
               <DetailView
@@ -817,9 +861,32 @@ export default function App() {
       </main>
 
       {zoomImg !== null && (
-        <div className="zoom" onClick={() => setZoomImg(null)}>
-          <img src={IMG_URL(zoomImg)} alt="" />
-          <button className="zoom-close" aria-label="close">×</button>
+        <div
+          className="zoom"
+          role="dialog"
+          aria-modal="true"
+          aria-label={`${zoomImg.alt} — enlarged image`}
+          onClick={() => setZoomImg(null)}
+          onKeyDown={(e) => {
+            // Close button is the only focusable element — keep Tab trapped on it.
+            if (e.key === 'Tab') {
+              e.preventDefault();
+              zoomCloseRef.current?.focus();
+            }
+          }}
+        >
+          <img src={IMG_URL(zoomImg.file)} alt={zoomImg.alt} />
+          <button
+            ref={zoomCloseRef}
+            className="zoom-close"
+            aria-label="close"
+            onClick={(e) => {
+              e.stopPropagation();
+              setZoomImg(null);
+            }}
+          >
+            ×
+          </button>
         </div>
       )}
 
@@ -1111,18 +1178,22 @@ function GuitaristView({
   g,
   onPickAmp,
   onBack,
+  showBack,
 }: {
   g: Guitarist;
   onPickAmp: (name: string) => void;
   onBack: () => void;
+  showBack: boolean;
 }) {
   return (
     <>
       <header className="detail-head">
         <div>
-          <button className="back-btn" onClick={onBack}>
-            ← back
-          </button>
+          {showBack && (
+            <button className="back-btn" onClick={onBack}>
+              ← back
+            </button>
+          )}
           <div className="kicker">Guitarist</div>
           <h2>{g.name}</h2>
           {g.bands.length > 0 && <div className="sub">{g.bands.join(' · ')}</div>}
@@ -1204,7 +1275,7 @@ function DetailView({
   onPickCollection: (key: string) => void;
   onBack: () => void;
   tokens: string[];
-  onZoomImg: (file: string) => void;
+  onZoomImg: (img: { file: string; alt: string }) => void;
   device: Device;
 }) {
   const view: ResultItem = selectedGuitarist
@@ -1214,7 +1285,14 @@ function DetailView({
       : topMatch;
 
   if (view.kind === 'guitarist') {
-    return <GuitaristView g={view.item} onPickAmp={onPickAmp} onBack={onBack} />;
+    return (
+      <GuitaristView
+        g={view.item}
+        onPickAmp={onPickAmp}
+        onBack={onBack}
+        showBack={!!selectedGuitarist}
+      />
+    );
   }
 
   if (view.kind === 'general') {
@@ -1248,9 +1326,11 @@ function DetailView({
     <>
       <header className="detail-head">
         <div>
-          <button className="back-btn" onClick={onBack}>
-            ← back
-          </button>
+          {selected && (
+            <button className="back-btn" onClick={onBack}>
+              ← back
+            </button>
+          )}
           <div className="kicker">Amp · {a.num}</div>
           <h2>{a.name}</h2>
           {wikiEntryFor(a.name)?.description && (
@@ -1306,8 +1386,8 @@ function DetailView({
               key={file}
               type="button"
               className="amp-image"
-              onClick={() => onZoomImg(file)}
-              aria-label="zoom"
+              onClick={() => onZoomImg({ file, alt: a.name })}
+              aria-label={`Zoom ${a.name} image`}
             >
               <img src={IMG_URL(file)} alt={a.name} loading="lazy" />
             </button>

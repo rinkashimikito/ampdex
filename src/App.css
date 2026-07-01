@@ -5,7 +5,7 @@
   --ink: #0a0a0a;
   --ink-2: #1f1f1f;
   --rule: #0a0a0a;
-  --muted: #6b6b66;
+  --muted: #656560;
   --mark-bg: #0a0a0a;
   --mark-fg: #f5f2ec;
 }
@@ -101,6 +101,18 @@ body,
 
 .search:focus {
   border-bottom-color: var(--ink);
+}
+
+/* Keyboard focus is visible everywhere; the design removes the default outline
+   on the search field, so restore a clear indicator for keyboard users. */
+.search:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 3px;
+}
+
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
 }
 
 .clear {
@@ -533,7 +545,6 @@ mark {
 
 .usage-weak {
   font-style: italic;
-  opacity: 0.7;
 }
 
 /* guitarist card */
@@ -855,7 +866,6 @@ button.tag-gain:hover {
 }
 
 .foot-row-fine {
-  opacity: 0.7;
   font-size: 0.625rem;
 }
 
