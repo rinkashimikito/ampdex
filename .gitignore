@@ -23,6 +23,7 @@ __pycache__/
 
 # tooling caches
 .playwright-mcp/
+graphify-out/
 
 # Editor directories and files
 .vscode/*

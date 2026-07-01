@@ -104,7 +104,14 @@ def main() -> int:
         return 2
 
     print(f"fetching {WIKI_URL}")
-    html = fetch_wiki()
+    try:
+        html = fetch_wiki()
+    except Exception as e:
+        # The wiki sits behind Cloudflare and often returns 403 to CI. Treat any
+        # fetch failure as a skip (exit 0) so the scheduled run stays green and
+        # keeps the last-good wiki-status.json instead of failing every week.
+        print(f"  fetch failed ({e}); keeping existing wiki-status.json", file=sys.stderr)
+        return 0
     print(f"  {len(html):,} bytes")
 
     wiki_amps = extract_amps(html)

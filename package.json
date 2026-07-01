@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "reverify": "node scripts/reverify.mjs"
+    "preview": "vite preview"
   },
   "dependencies": {
     "fuse.js": "^7.3.0",
@@ -16,7 +15,6 @@
     "react-dom": "^19.2.5"
   },
   "devDependencies": {
-    "@anthropic-ai/sdk": "^0.109.0",
     "@eslint/js": "^10.0.1",
     "@types/node": "^24.12.2",
     "@types/react": "^19.2.14",
